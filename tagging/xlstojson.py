@@ -30,7 +30,7 @@ for rownum in range(2, sh.nrows):
 j = json.dumps(tag_list)
  
 # Write to file
-with open('data.json', 'w') as f:
+with open('studentdata.json', 'w') as f:
     f.write(j)
 
 print(json.dumps(json.loads(j)[0], indent=4, sort_keys=True))

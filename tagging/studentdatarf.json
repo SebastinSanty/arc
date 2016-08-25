@@ -1,0 +1,5794 @@
+[
+  {
+    "Empl Id": "31120130107",
+    "Campus Id": "2013A1PS107G",
+    "Name": "VADALIA PRIYANSHI HITESH",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021130",
+        "Subject": "GS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021828",
+        "Subject": "HSS",
+        "Catalog No": "F349",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021834",
+        "Subject": "HSS",
+        "Catalog No": "F342",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021024",
+        "Subject": "MGTS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021668",
+        "Subject": "CHE",
+        "Catalog No": "    F366",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021213",
+        "Subject": "CHE",
+        "Catalog No": "    F418",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021208",
+        "Subject": "CHE",
+        "Catalog No": "    F471",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021580",
+        "Subject": "CHEM",
+        "Catalog No": "    F329",
+        "Unit Taken": "4",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130354",
+    "Campus Id": "2013A1PS354G",
+    "Name": "SHREE VIGNESH HARIHARAN .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021170",
+        "Subject": "GS",
+        "Catalog No": "F232",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021158",
+        "Subject": "GS",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021130",
+        "Subject": "GS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021809",
+        "Subject": "BITS",
+        "Catalog No": "    F417",
+        "Unit Taken": "4",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021201",
+        "Subject": "CHE",
+        "Catalog No": "    F414",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021202",
+        "Subject": "CHE",
+        "Catalog No": "    F433",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021606",
+        "Subject": "HSS",
+        "Catalog No": "    F337",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021137",
+        "Subject": "GS",
+        "Catalog No": "    F322",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "022179",
+        "Subject": "HSS",
+        "Catalog No": "    F355",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130423",
+    "Campus Id": "2013A1PS423G",
+    "Name": "KABIR DHINGRA .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021523",
+        "Subject": "GS",
+        "Catalog No": "F325",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021628",
+        "Subject": "HSS",
+        "Catalog No": "F236",
+        "Unit Taken": 3.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "A"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021176",
+        "Subject": "GS",
+        "Catalog No": "F332",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021653",
+        "Subject": "CHE",
+        "Catalog No": "    F266",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021213",
+        "Subject": "CHE",
+        "Catalog No": "    F418",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "022203",
+        "Subject": "MGTS",
+        "Catalog No": "    F433",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130454",
+    "Campus Id": "2013A1PS454G",
+    "Name": "ABHIJAY GIRI .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021165",
+        "Subject": "GS",
+        "Catalog No": "F245",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021885",
+        "Subject": "BITS",
+        "Catalog No": "F486",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021523",
+        "Subject": "GS",
+        "Catalog No": "F325",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021488",
+        "Subject": "PHY",
+        "Catalog No": "    F313",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021738",
+        "Subject": "CHE",
+        "Catalog No": "    F367",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "022080",
+        "Subject": "CHE",
+        "Catalog No": "    G524",
+        "Unit Taken": "4",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021623",
+        "Subject": "HSS",
+        "Catalog No": "    F343",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130487",
+    "Campus Id": "2013A1PS487G",
+    "Name": "JOSHI AMOL SUHAS .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021627",
+        "Subject": "HSS",
+        "Catalog No": "F235",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "E"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021130",
+        "Subject": "GS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130521",
+    "Campus Id": "2013A1PS521G",
+    "Name": "NARAYANI V KELKAR .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021839",
+        "Subject": "HSS",
+        "Catalog No": "N202T",
+        "Unit Taken": 3.0,
+        "Course Grade": "Satisfactory"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021150",
+        "Subject": "HSS",
+        "Catalog No": "F226",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021628",
+        "Subject": "HSS",
+        "Catalog No": "F236",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021126",
+        "Subject": "PHY",
+        "Catalog No": "F211",
+        "Unit Taken": 4.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021612",
+        "Subject": "HSS",
+        "Catalog No": "F229",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021627",
+        "Subject": "HSS",
+        "Catalog No": "F235",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021832",
+        "Subject": "HSS",
+        "Catalog No": "F340",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021213",
+        "Subject": "CHE",
+        "Catalog No": "    F418",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021202",
+        "Subject": "CHE",
+        "Catalog No": "    F433",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021580",
+        "Subject": "CHEM",
+        "Catalog No": "    F329",
+        "Unit Taken": "4",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021130",
+        "Subject": "GS",
+        "Catalog No": "    F211",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021668",
+        "Subject": "CHE",
+        "Catalog No": "    F366",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021208",
+        "Subject": "CHE",
+        "Catalog No": "    F471",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130523",
+    "Campus Id": "2013A1PS523G",
+    "Name": "YASH BHARGAVA .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021130",
+        "Subject": "GS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021170",
+        "Subject": "GS",
+        "Catalog No": "F232",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021628",
+        "Subject": "HSS",
+        "Catalog No": "F236",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021687",
+        "Subject": "CHE",
+        "Catalog No": "    F376",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021208",
+        "Subject": "CHE",
+        "Catalog No": "    F471",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "022203",
+        "Subject": "MGTS",
+        "Catalog No": "    F433",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130551",
+    "Campus Id": "2013A1PS551G",
+    "Name": "KUNAL AGARWAL .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021130",
+        "Subject": "GS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "W"
+      },
+      {
+        "Course Id": "021169",
+        "Subject": "GS",
+        "Catalog No": "F231",
+        "Unit Taken": 3.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021687",
+        "Subject": "CHE",
+        "Catalog No": "    F376",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021575",
+        "Subject": "CHEM",
+        "Catalog No": "    F326",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021201",
+        "Subject": "CHE",
+        "Catalog No": "    F414",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021213",
+        "Subject": "CHE",
+        "Catalog No": "    F418",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021202",
+        "Subject": "CHE",
+        "Catalog No": "    F433",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021603",
+        "Subject": "HSS",
+        "Catalog No": "    F222",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021601",
+        "Subject": "HSS",
+        "Catalog No": "    F332",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130552",
+    "Campus Id": "2013A1PS552G",
+    "Name": "AVLOKIT ADITYA .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021150",
+        "Subject": "HSS",
+        "Catalog No": "F226",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021169",
+        "Subject": "GS",
+        "Catalog No": "F231",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021206",
+        "Subject": "CHE",
+        "Catalog No": "    F411",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021201",
+        "Subject": "CHE",
+        "Catalog No": "    F414",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021202",
+        "Subject": "CHE",
+        "Catalog No": "    F433",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021809",
+        "Subject": "BITS",
+        "Catalog No": "    F417",
+        "Unit Taken": "4",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021796",
+        "Subject": "BITS",
+        "Catalog No": "    F462",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021187",
+        "Subject": "CHE",
+        "Catalog No": "    F314",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021186",
+        "Subject": "CHE",
+        "Catalog No": "    F313",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130582",
+    "Campus Id": "2013A1PS582G",
+    "Name": "SHALINI AHUJA .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021130",
+        "Subject": "GS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021170",
+        "Subject": "GS",
+        "Catalog No": "F232",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021626",
+        "Subject": "HSS",
+        "Catalog No": "F346",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021791",
+        "Subject": "BITS",
+        "Catalog No": "    F382",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021738",
+        "Subject": "CHE",
+        "Catalog No": "    F367",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "022203",
+        "Subject": "MGTS",
+        "Catalog No": "    F433",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130585",
+    "Campus Id": "2013A1PS585G",
+    "Name": "PARAG JAIN .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021623",
+        "Subject": "HSS",
+        "Catalog No": "F343",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021885",
+        "Subject": "BITS",
+        "Catalog No": "F486",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021775",
+        "Subject": "HSS",
+        "Catalog No": "F232",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021024",
+        "Subject": "MGTS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021593",
+        "Subject": "BITS",
+        "Catalog No": "    F421T",
+        "Unit Taken": "16",
+        "Course Grade": ""
+      }
+    ],
+    "FIRST SEMESTER 2016-2017": [
+      {
+        "Course Id": "021593",
+        "Subject": "BITS",
+        "Catalog No": "    F421T",
+        "Unit Taken": "16",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130601",
+    "Campus Id": "2013A1PS601G",
+    "Name": "CHAYAN ANAND .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021170",
+        "Subject": "GS",
+        "Catalog No": "F232",
+        "Unit Taken": 3.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021165",
+        "Subject": "GS",
+        "Catalog No": "F245",
+        "Unit Taken": 3.0,
+        "Course Grade": "W"
+      },
+      {
+        "Course Id": "021523",
+        "Subject": "GS",
+        "Catalog No": "F325",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021828",
+        "Subject": "HSS",
+        "Catalog No": "F349",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021024",
+        "Subject": "MGTS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021206",
+        "Subject": "CHE",
+        "Catalog No": "    F411",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "020270",
+        "Subject": "CHE",
+        "Catalog No": "    G512",
+        "Unit Taken": "4",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021184",
+        "Subject": "CHE",
+        "Catalog No": "    F311",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021586",
+        "Subject": "CHEM",
+        "Catalog No": "    F336",
+        "Unit Taken": "4",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021578",
+        "Subject": "CHEM",
+        "Catalog No": "    F414",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130625",
+    "Campus Id": "2013A1PS625G",
+    "Name": "SHRISHTI LAHOTI .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021170",
+        "Subject": "GS",
+        "Catalog No": "F232",
+        "Unit Taken": 3.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021165",
+        "Subject": "GS",
+        "Catalog No": "F245",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021835",
+        "Subject": "HSS",
+        "Catalog No": "F350",
+        "Unit Taken": 3.0,
+        "Course Grade": "W"
+      },
+      {
+        "Course Id": "021024",
+        "Subject": "MGTS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021206",
+        "Subject": "CHE",
+        "Catalog No": "    F411",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "022203",
+        "Subject": "MGTS",
+        "Catalog No": "    F433",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021738",
+        "Subject": "CHE",
+        "Catalog No": "    F367",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130630",
+    "Campus Id": "2013A1PS630G",
+    "Name": "DESHPANDE ARNAV UNMESH .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021158",
+        "Subject": "GS",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021170",
+        "Subject": "GS",
+        "Catalog No": "F232",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "022179",
+        "Subject": "HSS",
+        "Catalog No": "    F355",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021668",
+        "Subject": "CHE",
+        "Catalog No": "    F366",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021213",
+        "Subject": "CHE",
+        "Catalog No": "    F418",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021130",
+        "Subject": "GS",
+        "Catalog No": "    F211",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130646",
+    "Campus Id": "2013A1PS646G",
+    "Name": "ROSHAN M REGY .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "A"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021172",
+        "Subject": "GS",
+        "Catalog No": "F234",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021523",
+        "Subject": "GS",
+        "Catalog No": "F325",
+        "Unit Taken": 3.0,
+        "Course Grade": "W"
+      },
+      {
+        "Course Id": "021628",
+        "Subject": "HSS",
+        "Catalog No": "F236",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021593",
+        "Subject": "BITS",
+        "Catalog No": "    F421T",
+        "Unit Taken": "16",
+        "Course Grade": ""
+      }
+    ],
+    "FIRST SEMESTER 2016-2017": [
+      {
+        "Course Id": "021593",
+        "Subject": "BITS",
+        "Catalog No": "    F421T",
+        "Unit Taken": "16",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130648",
+    "Campus Id": "2013A1PS648G",
+    "Name": "LUV SHARMA .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "A-"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021130",
+        "Subject": "GS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "W"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021834",
+        "Subject": "HSS",
+        "Catalog No": "F342",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021835",
+        "Subject": "HSS",
+        "Catalog No": "F350",
+        "Unit Taken": 3.0,
+        "Course Grade": "W"
+      },
+      {
+        "Course Id": "021024",
+        "Subject": "MGTS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021791",
+        "Subject": "BITS",
+        "Catalog No": "    F382",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021575",
+        "Subject": "CHEM",
+        "Catalog No": "    F326",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021170",
+        "Subject": "GS",
+        "Catalog No": "    F232",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021213",
+        "Subject": "CHE",
+        "Catalog No": "    F418",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021202",
+        "Subject": "CHE",
+        "Catalog No": "    F433",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130657",
+    "Campus Id": "2013A1PS657G",
+    "Name": "MANASVI NANDWANA .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021158",
+        "Subject": "GS",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021523",
+        "Subject": "GS",
+        "Catalog No": "F325",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021612",
+        "Subject": "HSS",
+        "Catalog No": "F229",
+        "Unit Taken": 3.0,
+        "Course Grade": "W"
+      },
+      {
+        "Course Id": "021024",
+        "Subject": "MGTS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021668",
+        "Subject": "CHE",
+        "Catalog No": "    F366",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021623",
+        "Subject": "HSS",
+        "Catalog No": "    F343",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "022203",
+        "Subject": "MGTS",
+        "Catalog No": "    F433",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021875",
+        "Subject": "ECON",
+        "Catalog No": "    F435",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021133",
+        "Subject": "GS",
+        "Catalog No": "    F221",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "    F113",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130729",
+    "Campus Id": "2013A1PS729G",
+    "Name": "SIDDHARTHA MUKHERJEE .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "NC"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "NC"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "NC"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "NC"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "NC"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "NC"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "NC"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "NC"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021158",
+        "Subject": "GS",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021160",
+        "Subject": "GS",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130744",
+    "Campus Id": "2013A1PS744G",
+    "Name": "POOJA YADAV .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021165",
+        "Subject": "GS",
+        "Catalog No": "F245",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021523",
+        "Subject": "GS",
+        "Catalog No": "F325",
+        "Unit Taken": 3.0,
+        "Course Grade": "W"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021885",
+        "Subject": "BITS",
+        "Catalog No": "F486",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021159",
+        "Subject": "GS",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021024",
+        "Subject": "MGTS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021653",
+        "Subject": "CHE",
+        "Catalog No": "    F266",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021418",
+        "Subject": "MF",
+        "Catalog No": "    F421",
+        "Unit Taken": "4",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "022203",
+        "Subject": "MGTS",
+        "Catalog No": "    F433",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130791",
+    "Campus Id": "2013A1PS791G",
+    "Name": "YAKSH REDHU .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "NC"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021177",
+        "Subject": "GS",
+        "Catalog No": "F333",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021170",
+        "Subject": "GS",
+        "Catalog No": "F232",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021165",
+        "Subject": "GS",
+        "Catalog No": "F245",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021024",
+        "Subject": "MGTS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021137",
+        "Subject": "GS",
+        "Catalog No": "    F322",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "022203",
+        "Subject": "MGTS",
+        "Catalog No": "    F433",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021653",
+        "Subject": "CHE",
+        "Catalog No": "    F266",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021202",
+        "Subject": "CHE",
+        "Catalog No": "    F433",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021208",
+        "Subject": "CHE",
+        "Catalog No": "    F471",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021201",
+        "Subject": "CHE",
+        "Catalog No": "    F414",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021606",
+        "Subject": "HSS",
+        "Catalog No": "    F337",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130823",
+    "Campus Id": "2013A1PS823G",
+    "Name": "PRITHIV NATARAJAN .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021601",
+        "Subject": "HSS",
+        "Catalog No": "F332",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021832",
+        "Subject": "HSS",
+        "Catalog No": "F340",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021024",
+        "Subject": "MGTS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021593",
+        "Subject": "BITS",
+        "Catalog No": "    F421T",
+        "Unit Taken": "16",
+        "Course Grade": ""
+      }
+    ],
+    "FIRST SEMESTER 2016-2017": [
+      {
+        "Course Id": "021593",
+        "Subject": "BITS",
+        "Catalog No": "    F421T",
+        "Unit Taken": "16",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130852",
+    "Campus Id": "2013A1PS852G",
+    "Name": "KARAN  BHANIRAMKA .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021150",
+        "Subject": "HSS",
+        "Catalog No": "F226",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021177",
+        "Subject": "GS",
+        "Catalog No": "F333",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021024",
+        "Subject": "MGTS",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130890",
+    "Campus Id": "2013A1PS890G",
+    "Name": "TANMAY  TIWARI .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "A-"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021775",
+        "Subject": "HSS",
+        "Catalog No": "F232",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021599",
+        "Subject": "HSS",
+        "Catalog No": "F334",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "D"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021834",
+        "Subject": "HSS",
+        "Catalog No": "F342",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021828",
+        "Subject": "HSS",
+        "Catalog No": "F349",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021623",
+        "Subject": "HSS",
+        "Catalog No": "    F343",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021651",
+        "Subject": "BIO",
+        "Catalog No": "    F266",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021791",
+        "Subject": "BITS",
+        "Catalog No": "    F382",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021206",
+        "Subject": "CHE",
+        "Catalog No": "    F411",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021187",
+        "Subject": "CHE",
+        "Catalog No": "    F314",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021770",
+        "Subject": "BITS",
+        "Catalog No": "    F418",
+        "Unit Taken": 4.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021809",
+        "Subject": "BITS",
+        "Catalog No": "    F417",
+        "Unit Taken": "4",
+        "Course Grade": ""
+      }
+    ]
+  },
+  {
+    "Empl Id": "31120130911",
+    "Campus Id": "2013A1PS911G",
+    "Name": "AJAY  MANHAS .",
+    "First Semester 2013-14": [
+      {
+        "Course Id": "021001",
+        "Subject": "BIO",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021002",
+        "Subject": "BIO",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021005",
+        "Subject": "BITS",
+        "Catalog No": "F112",
+        "Unit Taken": 2.0,
+        "Course Grade": "D"
+      },
+      {
+        "Course Id": "021007",
+        "Subject": "CHEM",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021010",
+        "Subject": "MATH",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021013",
+        "Subject": "ME",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021014",
+        "Subject": "PHY",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021015",
+        "Subject": "PHY",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      }
+    ],
+    "Second Semester 2013-14": [
+      {
+        "Course Id": "021003",
+        "Subject": "BITS",
+        "Catalog No": "F110",
+        "Unit Taken": 2.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021004",
+        "Subject": "BITS",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021006",
+        "Subject": "CHEM",
+        "Catalog No": "F110",
+        "Unit Taken": 1.0,
+        "Course Grade": "B"
+      },
+      {
+        "Course Id": "021008",
+        "Subject": "CS",
+        "Catalog No": "F111",
+        "Unit Taken": 4.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021009",
+        "Subject": "EEE",
+        "Catalog No": "F111",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021011",
+        "Subject": "MATH",
+        "Catalog No": "F112",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021012",
+        "Subject": "MATH",
+        "Catalog No": "F113",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "First Semester 2014-15": [
+      {
+        "Course Id": "021069",
+        "Subject": "CHE",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      },
+      {
+        "Course Id": "021072",
+        "Subject": "CHE",
+        "Catalog No": "F212",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021071",
+        "Subject": "CHE",
+        "Catalog No": "F213",
+        "Unit Taken": 3.0,
+        "Course Grade": "B-"
+      },
+      {
+        "Course Id": "021070",
+        "Subject": "CHE",
+        "Catalog No": "F214",
+        "Unit Taken": 3.0,
+        "Course Grade": "C-"
+      },
+      {
+        "Course Id": "021775",
+        "Subject": "HSS",
+        "Catalog No": "F232",
+        "Unit Taken": 3.0,
+        "Course Grade": "E"
+      },
+      {
+        "Course Id": "021022",
+        "Subject": "MATH",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": "C"
+      }
+    ],
+    "Second Semester 2014-15": [
+      {
+        "Course Id": "021180",
+        "Subject": "CHE",
+        "Catalog No": "F241",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021181",
+        "Subject": "CHE",
+        "Catalog No": "F242",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021182",
+        "Subject": "CHE",
+        "Catalog No": "F243",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021183",
+        "Subject": "CHE",
+        "Catalog No": "F244",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021023",
+        "Subject": "ECON",
+        "Catalog No": "F211",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021628",
+        "Subject": "HSS",
+        "Catalog No": "F236",
+        "Unit Taken": 3.0,
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021599",
+        "Subject": "HSS",
+        "Catalog No": "F334",
+        "Unit Taken": 3.0,
+        "Course Grade": "W"
+      }
+    ],
+    "First Semester 2016-17": [
+      {
+        "Course Id": "021084",
+        "Subject": "ME",
+        "Catalog No": "    F214",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021206",
+        "Subject": "CHE",
+        "Catalog No": "    F411",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021133",
+        "Subject": "GS",
+        "Catalog No": "    F221",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021172",
+        "Subject": "GS",
+        "Catalog No": "    F234",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021809",
+        "Subject": "BITS",
+        "Catalog No": "    F417",
+        "Unit Taken": "4",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021208",
+        "Subject": "CHE",
+        "Catalog No": "    F471",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      },
+      {
+        "Course Id": "021623",
+        "Subject": "HSS",
+        "Catalog No": "    F343",
+        "Unit Taken": "3",
+        "Course Grade": ""
+      }
+    ]
+  }
+]
