@@ -18,7 +18,7 @@ def RepresentsInt(s):
         return 0
 
 # Iterate through each row in worksheet and fetch values into dict
-for rownum in range(3, sh.nrows):
+for rownum in range(2, sh.nrows):
     tag = OrderedDict()
     row_values = sh.row_values(rownum)
     tag['Discipline'] = row_values[0]

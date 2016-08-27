@@ -27,24 +27,27 @@ def RepresentsBool(s):
 
 
 # Iterate through each row in worksheet and fetch values into dict
+tag = OrderedDict()
 for rownum in range(1, sh.nrows):
-    tag = OrderedDict()
     row_values = sh.row_values(rownum)
-    tag['Comp Codes'] = RepresentsInt(row_values[0])
-    tag['Course Code'] = row_values[1]
-    tag['Tag'] = row_values[2]
-    tag['Course Name'] = row_values[3]
-    tag['Project'] = RepresentsBool(row_values[4])
-    tag['Units'] = RepresentsInt(row_values[5])
+    if row_values[1] in tag:
+        tag[row_values[1]]['Tag'].append(row_values[2])
+    else:
+        desc = OrderedDict()
+        desc['Comp Codes'] = RepresentsInt(row_values[0])
+        desc['Tag'] = [row_values[2]]
+        desc['Course Name'] = row_values[3]
+        desc['Project'] = RepresentsBool(row_values[4])
+        desc['Units'] = RepresentsInt(row_values[5])
+        tag[row_values[1]] = desc
 
- 
-    tag_list.append(tag)
+tag_list.append(tag)
  
 # Serialize the list of dicts to JSON
-j = json.dumps(tag_list)
+j = json.dumps(tag)
  
 # Write to file
-with open('coursedesc.json', 'w') as f:
+with open('coursedesc_arr.json', 'w') as f:
     f.write(j)
 
-print(json.dumps(json.loads(j)[0], indent=4, sort_keys=True))
+print(json.dumps(json.loads(j), indent=4, sort_keys=True))
