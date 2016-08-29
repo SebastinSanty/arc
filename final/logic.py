@@ -1,6 +1,9 @@
 import simplejson as json
 from collections import OrderedDict
 import os
+import sys
+
+arg = sys.argv[1]
 
 with open(os.path.join('json',"coursedesc.json")) as json_file:
 	coursedesc_arr = json.load(json_file)
@@ -146,7 +149,8 @@ j = json.dumps(tag_list)
 with open(os.path.join('json','finaldata.json'), 'w') as f:
     f.write(j)
 
-print(json.dumps(json.loads(j)[0], indent=4, sort_keys=True))
+if (arg=='Y') or (arg=='y'):
+	print(json.dumps(json.loads(j)[0], indent=4, sort_keys=True))
 
 
 
