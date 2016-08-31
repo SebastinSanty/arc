@@ -2,9 +2,11 @@ import datetime, xlrd
 from collections import OrderedDict
 import simplejson as json
 import os
- 
+import sys
+
+filename = sys.argv[1] 
 # Open the workbook and select the first worksheet
-wb = xlrd.open_workbook(os.path.join('noofcourses.xls'))
+wb = xlrd.open_workbook(os.path.join(filename))
 sh = wb.sheet_by_index(0)
  
 # List to hold dictionaries

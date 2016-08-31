@@ -1,15 +1,19 @@
 import simplejson as json
 from collections import OrderedDict
 
+#Open the JSON file containing student data
 with open("studentdata.json") as json_file:
 	studentdata = json.load(json_file)
 
+#Open the JSON file containing description of courses (Not needed)
 with open("coursedesc.json") as json_file:
 	coursedesc = json.load(json_file)
 
+#Open the JSON file containing description of courses arranged
 with open("coursedesc_arr.json") as json_file:
 	coursedesc_arr = json.load(json_file)
 
+#Open the JSON file containing the number of courses in a particular discipline
 with open("noofcourse.json") as json_file:
 	noofcourse = json.load(json_file)
 
@@ -18,7 +22,7 @@ with open('studentdatarf.json') as json_file:
 
 def branch(s):
 	btype = s[4:8]
-	if btype[2:4] == 'PS':
+	if (btype[2:4] == 'PS') or (btype[2:4] == 'TS'):
 		return btype[0:2]
 	else:
 		return btype

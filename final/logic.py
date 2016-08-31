@@ -3,30 +3,37 @@ from collections import OrderedDict
 import os
 import sys
 
+#Getting the argument from the commandline
 arg = sys.argv[1]
 
+#Open the JSON file containing description of courses arranged
 with open(os.path.join('json',"coursedesc.json")) as json_file:
 	coursedesc_arr = json.load(json_file)
 
+#Open the JSON file containing number of courses in a particular discipline
 with open(os.path.join('json',"noofcourse.json")) as json_file:
 	noofcourse = json.load(json_file)
 
+#Open the JSON file containing the student data
 with open(os.path.join('json','studentdatarf.json')) as json_file:
 	studentdatarf = json.load(json_file)
 
+#Get the branch from the Campus ID given
 def branch(s):
 	btype = s[4:8]
-	if btype[2:4] == 'PS':
+	if (btype[2:4] == 'PS') or (btype[2:4] == 'TS'):
 		return btype[0:2]
 	else:
 		return btype
 
+#Check for Reverse Dual/ BE Dual Cases
 def specialcase(s):
 	btype = s[4:8]
 	if btype[2:3] == 'B':
 		return True
 
 
+#Get the course type by comparing it with the branch, like whether it is an elective/CDC
 def getcoursetype(coursecode, branch):
 	if (coursecode == 'MGTS F211') or (coursecode == 'ECON F211'):
 		return 'Other'
@@ -56,6 +63,7 @@ def getcoursetype(coursecode, branch):
 	else:
 		return 'OPEN'
 
+#Get whether the particular subject is a project or not
 def proj(coursecode):
 	try:
 		coursedesc_arr[coursecode]
@@ -70,7 +78,6 @@ for i in studentdatarf:
 	tag['Empl Id'] = i['Empl Id']
 	tag['Campus Id'] = i['Campus Id']
 	tag['Name'] = i['Name']
-	# print(coursedesc_arr)
 	PROJ_LEFT = 5
 	PROJ_LIST = {}
 	PROJ_FLAG = 0
