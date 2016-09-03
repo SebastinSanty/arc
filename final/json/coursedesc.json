@@ -2,7 +2,16 @@
   "BIO F110": {
     "Comp Codes": 21001,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "BIOLOGY LABORATORY",
     "Project": false,
@@ -11,7 +20,11 @@
   "BIO F111": {
     "Comp Codes": 21002,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "B2CDC"
     ],
     "Course Name": "GENERAL BIOLOGY",
     "Project": false,
@@ -20,7 +33,16 @@
   "CHEM F110": {
     "Comp Codes": 21006,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "CHEMISTRY LABORATORY",
     "Project": false,
@@ -29,7 +51,16 @@
   "CHEM F111": {
     "Comp Codes": 21007,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "GENERAL CHEMISTRY",
     "Project": false,
@@ -38,7 +69,16 @@
   "MATH F111": {
     "Comp Codes": 21010,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "MATHEMATICS I",
     "Project": false,
@@ -47,7 +87,16 @@
   "PHY F110": {
     "Comp Codes": 21014,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "PHYSICS LABORATORY",
     "Project": false,
@@ -56,7 +105,16 @@
   "PHY F111": {
     "Comp Codes": 21015,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "MECH OSCILLATIONS & WAVE",
     "Project": false,
@@ -65,7 +123,16 @@
   "BITS F110": {
     "Comp Codes": 21003,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "ENGINEERING GRAPHICS",
     "Project": false,
@@ -74,7 +141,16 @@
   "MATH F112": {
     "Comp Codes": 21011,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "MATHEMATICS II",
     "Project": false,
@@ -83,7 +159,16 @@
   "ME F110": {
     "Comp Codes": 21013,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "WORKSHOP PRACTICE",
     "Project": false,
@@ -92,7 +177,16 @@
   "CS F111": {
     "Comp Codes": 21008,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "COMPUTER PROGRAMMING",
     "Project": false,
@@ -101,7 +195,16 @@
   "EEE F111": {
     "Comp Codes": 21009,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "ELECTRICAL SCIENCES",
     "Project": false,
@@ -110,7 +213,16 @@
   "BITS F112": {
     "Comp Codes": 21005,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "TECHNICAL REPORT WRITING",
     "Project": false,
@@ -119,7 +231,16 @@
   "MATH F113": {
     "Comp Codes": 21012,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "PROBABILITY & STATISTICS",
     "Project": false,
@@ -128,7 +249,16 @@
   "BITS F111": {
     "Comp Codes": 21004,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "THERMODYNAMICS",
     "Project": false,
@@ -137,7 +267,17 @@
   "MATH F211": {
     "Comp Codes": 21022,
     "Tag": [
-      "A1CDC"
+      "A1CDC",
+      "A3CDC",
+      "A4CDC",
+      "A7CDC",
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "MATHEMATICS III",
     "Project": false,
@@ -349,16 +489,6 @@
       "H129EL"
     ],
     "Course Name": "INTRODUCTION TO BIOMEDICAL ENGINEERING           ",
-    "Project": false,
-    "Units": 4
-  },
-  "BITS F429": {
-    "Comp Codes": 0,
-    "Tag": [
-      "A1EL",
-      "H101EL"
-    ],
-    "Course Name": "Nanotechnology for Renewable Energy and Environment",
     "Project": false,
     "Units": 4
   },
@@ -798,6 +928,139 @@
     "Project": false,
     "Units": 3
   },
+  "EEE F211": {
+    "Comp Codes": 21077,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "ELECTRICAL MACHINES",
+    "Project": false,
+    "Units": 4
+  },
+  "EEE F212": {
+    "Comp Codes": 21078,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "ELECTROMAGNETIC THEORY",
+    "Project": false,
+    "Units": 3
+  },
+  "EEE F215": {
+    "Comp Codes": 21079,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "DIGITAL DESIGN",
+    "Project": false,
+    "Units": 4
+  },
+  "EEE F347": {
+    "Comp Codes": 0,
+    "Tag": [
+      "A8EL",
+      " A3EL"
+    ],
+    "Course Name": "Communication Networks Laboratory ",
+    "Project": false,
+    "Units": 0
+  },
+  "BIO G544": {
+    "Comp Codes": 22123,
+    "Tag": [
+      "H101EL",
+      "B1EL",
+      "H129EL"
+    ],
+    "Course Name": "BIOREMEDIATION & BIOMETA",
+    "Project": false,
+    "Units": 5
+  },
+  "EEE F214": {
+    "Comp Codes": 21080,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "ELECTRONIC DEVICES",
+    "Project": false,
+    "Units": 3
+  },
+  "EEE F241 ": {
+    "Comp Codes": 21238,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "MICROPROCESSORS & INTERFACING",
+    "Project": false,
+    "Units": 4
+  },
+  "EEE F242": {
+    "Comp Codes": 21239,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "CONTROL SYSTEMS",
+    "Project": false,
+    "Units": 3
+  },
+  "EEE F243": {
+    "Comp Codes": 21240,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "SIGNALS & SYSTEMS",
+    "Project": false,
+    "Units": 3
+  },
+  "EEE F244": {
+    "Comp Codes": 21241,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "MICROELECTRONIC CIRCUITS",
+    "Project": false,
+    "Units": 3
+  },
+  "EEE F311": {
+    "Comp Codes": 21242,
+    "Tag": [
+      "A3CDC",
+      "A8EL"
+    ],
+    "Course Name": "COMMUNICATION SYSTEMS",
+    "Project": false,
+    "Units": 4
+  },
+  "MATH F212": {
+    "Comp Codes": 21122,
+    "Tag": [
+      "A3CDC",
+      "B1EL",
+      "B3EL",
+      "B4CDC"
+    ],
+    "Course Name": "OPTIMIZATION",
+    "Project": false,
+    "Units": 3
+  },
+  "EEE F313": {
+    "Comp Codes": 21243,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "ANALOG & DIGITAL VLSI DESIGN",
+    "Project": false,
+    "Units": 3
+  },
+  "EEE F341": {
+    "Comp Codes": 21245,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "ANALOG ELECTRONICS",
+    "Project": false,
+    "Units": 4
+  },
   "BITS F312": {
     "Comp Codes": 21334,
     "Tag": [
@@ -814,6 +1077,7 @@
     "Comp Codes": 21092,
     "Tag": [
       "A3EL",
+      "A7CDC",
       "A8EL"
     ],
     "Course Name": "Object Oriented Programming",
@@ -824,6 +1088,7 @@
     "Comp Codes": 21317,
     "Tag": [
       "A3EL",
+      "A7CDC",
       "A8EL"
     ],
     "Course Name": "Computer Architecture",
@@ -834,6 +1099,7 @@
     "Comp Codes": 21315,
     "Tag": [
       "A3EL",
+      "A7CDC",
       "A8EL"
     ],
     "Course Name": "Operating Systems",
@@ -855,9 +1121,9 @@
     "Tag": [
       "A3EL",
       "A8EL",
+      "H103EL",
       "H123EL",
-      "H140EL",
-      "H103EL"
+      "H140EL"
     ],
     "Course Name": "RECONFIGURABLE COMPUTING",
     "Project": false,
@@ -938,16 +1204,6 @@
       "A8EL"
     ],
     "Course Name": "Data Communication Networks",
-    "Project": false,
-    "Units": 2
-  },
-  "EEE F347": {
-    "Comp Codes": 0,
-    "Tag": [
-      " A3EL",
-      "A8EL"
-    ],
-    "Course Name": "Communication Networks Laboratory ",
     "Project": false,
     "Units": 2
   },
@@ -1208,8 +1464,8 @@
     "Tag": [
       "A3EL",
       "A8EL",
-      "H123EL",
-      "H103EL"
+      "H103EL",
+      "H123EL"
     ],
     "Course Name": "Embedded System Design",
     "Project": false,
@@ -1225,6 +1481,150 @@
     "Course Name": "HARDWARE SOFTWARE CO-DESIGN",
     "Project": false,
     "Units": 4
+  },
+  "EEE F342": {
+    "Comp Codes": 21246,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "POWER ELECTRONICS",
+    "Project": false,
+    "Units": 4
+  },
+  "EEE F312": {
+    "Comp Codes": 21244,
+    "Tag": [
+      "A3CDC"
+    ],
+    "Course Name": "POWER SYSTEMS",
+    "Project": false,
+    "Units": 3
+  },
+  "ME F213": {
+    "Comp Codes": 21081,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "MATERIALS SCIENCE & ENGINEERING",
+    "Project": false,
+    "Units": 2
+  },
+  "ME F212": {
+    "Comp Codes": 21082,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "FLUID MECHANICS",
+    "Project": false,
+    "Units": 3
+  },
+  "ME F211": {
+    "Comp Codes": 21083,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "MECHANICS OF SOLIDS",
+    "Project": false,
+    "Units": 3
+  },
+  "ME F214": {
+    "Comp Codes": 21084,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "APPLIED THERMODYNAMICS",
+    "Project": false,
+    "Units": 3
+  },
+  "ME F215": {
+    "Comp Codes": 21085,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "MECHANICAL ENGINEERING LABORATORY",
+    "Project": false,
+    "Units": 2
+  },
+  "ME F241": {
+    "Comp Codes": 21263,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "MACHINE DESIGN & DRAWING",
+    "Project": false,
+    "Units": 4
+  },
+  "ME F242": {
+    "Comp Codes": 21264,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "IC ENGINES",
+    "Project": false,
+    "Units": 2
+  },
+  "ME F243": {
+    "Comp Codes": 21265,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "PRODUCTION TECHNIQUES I",
+    "Project": false,
+    "Units": 3
+  },
+  "ME F244": {
+    "Comp Codes": 21266,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "KINEMATICS & DYNAMICS OF MACHINERY",
+    "Project": false,
+    "Units": 3
+  },
+  "ME F311": {
+    "Comp Codes": 21267,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "HEAT TRANSFER",
+    "Project": false,
+    "Units": 4
+  },
+  "ME F312": {
+    "Comp Codes": 21268,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "ADVANCED MECHANICS OF SOLIDS",
+    "Project": false,
+    "Units": 3
+  },
+  "ME F313": {
+    "Comp Codes": 21269,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "PRODUCTION TECHNIQUES II",
+    "Project": false,
+    "Units": 4
+  },
+  "ME F341": {
+    "Comp Codes": 21270,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "PRIME MOVERS & FLUID MACHINES",
+    "Project": false,
+    "Units": 3
+  },
+  "ME F343": {
+    "Comp Codes": 21271,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "MECHANICAL VIBRATIONS",
+    "Project": false,
+    "Units": 3
   },
   "DE G513": {
     "Comp Codes": 22116,
@@ -1596,6 +1996,107 @@
     "Project": false,
     "Units": 5
   },
+  "ME F342": {
+    "Comp Codes": 21272,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "COMPUTER AIDED DESIGN",
+    "Project": false,
+    "Units": 4
+  },
+  "ME F344": {
+    "Comp Codes": 21273,
+    "Tag": [
+      "A4CDC"
+    ],
+    "Course Name": "ENGINEERING OPTIMIZATION",
+    "Project": false,
+    "Units": 2
+  },
+  "CS F214": {
+    "Comp Codes": 21090,
+    "Tag": [
+      "A7CDC"
+    ],
+    "Course Name": "LOGIC IN COMPUTER SCIENCE",
+    "Project": false,
+    "Units": 3
+  },
+  "CS F222": {
+    "Comp Codes": 21091,
+    "Tag": [
+      "A7CDC"
+    ],
+    "Course Name": "DISCRETE STRUCTURES FOR COMPUTER SCIENCE",
+    "Project": false,
+    "Units": 3
+  },
+  "CS F215": {
+    "Comp Codes": 21093,
+    "Tag": [
+      "A7CDC"
+    ],
+    "Course Name": "DIGITAL DESIGN",
+    "Project": false,
+    "Units": 4
+  },
+  "CS F211": {
+    "Comp Codes": 21094,
+    "Tag": [
+      "A7CDC"
+    ],
+    "Course Name": "DATA STRUCTURE AND ALGORITHMS",
+    "Project": false,
+    "Units": 4
+  },
+  "CS F351": {
+    "Comp Codes": 21316,
+    "Tag": [
+      "A7CDC"
+    ],
+    "Course Name": "THEORY OF COMPUTATION",
+    "Project": false,
+    "Units": 3
+  },
+  "CS F301": {
+    "Comp Codes": 21315,
+    "Tag": [
+      "A7CDC"
+    ],
+    "Course Name": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+    "Project": false,
+    "Units": 2
+  },
+  "CS F363": {
+    "Comp Codes": 21318,
+    "Tag": [
+      "A7CDC"
+    ],
+    "Course Name": "COMPILER CONSTRUCTION",
+    "Project": false,
+    "Units": 3
+  },
+  "CS F364": {
+    "Comp Codes": 21320,
+    "Tag": [
+      "A7CDC",
+      "B4EL",
+      "C6EL"
+    ],
+    "Course Name": "DESIGN & ANALYSIS OF ALGORITHMS",
+    "Project": false,
+    "Units": 3
+  },
+  "CS F303": {
+    "Comp Codes": 21319,
+    "Tag": [
+      "A7CDC"
+    ],
+    "Course Name": "COMPUTER NETWORKS",
+    "Project": false,
+    "Units": 4
+  },
   "BITS F311": {
     "Comp Codes": 21332,
     "Tag": [
@@ -1928,12 +2429,151 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F311": {
-    "Comp Codes": 21242,
+  "BIOF111": {
+    "Comp Codes": 21002,
     "Tag": [
-      "A8EL"
+      "A8CDC",
+      "B1CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
-    "Course Name": "Communication Systems",
+    "Course Name": "GENERAL BIOLOGY",
+    "Project": false,
+    "Units": 3
+  },
+  "INSTR F211": {
+    "Comp Codes": 21096,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "ELECTRICAL MACHINES",
+    "Project": false,
+    "Units": 4
+  },
+  "INSTR F212": {
+    "Comp Codes": 21097,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "ELECTROMAGNETIC THEORY",
+    "Project": false,
+    "Units": 3
+  },
+  "INSTR F215": {
+    "Comp Codes": 21098,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "DIGITAL DESIGN",
+    "Project": false,
+    "Units": 4
+  },
+  "INSTR F214": {
+    "Comp Codes": 21099,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "ELECTRONIC DEVICES",
+    "Project": false,
+    "Units": 3
+  },
+  "INSTR F311": {
+    "Comp Codes": 21345,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "ELECTRONIC INSTRUMENTS &INSTRUMENTATION TECHNOLOGY",
+    "Project": false,
+    "Units": 4
+  },
+  "INSTR F312": {
+    "Comp Codes": 21346,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "TRANSDUCERS & MEASUREMENT SYSTEMS",
+    "Project": false,
+    "Units": 3
+  },
+  "INSTR F313": {
+    "Comp Codes": 21347,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "ANALOG & DIGITAL VLSI DESIGN",
+    "Project": false,
+    "Units": 3
+  },
+  "INSTR F241": {
+    "Comp Codes": 21341,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "MICROPROCESSORS & INTERFACING",
+    "Project": false,
+    "Units": 4
+  },
+  "INSTR F242": {
+    "Comp Codes": 21342,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "CONTROL SYSTEMS",
+    "Project": false,
+    "Units": 3
+  },
+  "INSTR F243": {
+    "Comp Codes": 21343,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "SIGNALS AND SYSTEMS",
+    "Project": false,
+    "Units": 3
+  },
+  "INSTR F244": {
+    "Comp Codes": 21344,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "MICROELECTRONIC CIRCUITS",
+    "Project": false,
+    "Units": 3
+  },
+  "INSTR F341 ": {
+    "Comp Codes": 21348,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "ANALOG ELECTRONICS",
+    "Project": false,
+    "Units": 4
+  },
+  "INSTR F342": {
+    "Comp Codes": 21349,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "POWER ELECTRONICS",
+    "Project": false,
+    "Units": 4
+  },
+  "INSTR F343": {
+    "Comp Codes": 21350,
+    "Tag": [
+      "A8CDC"
+    ],
+    "Course Name": "INDUSTRIAL INSTRUMENTATION & CONTROL\nDISCIPLINE ELECTIVES",
+    "Project": false,
+    "Units": 3
+  },
+  "CS F241": {
+    "Comp Codes": 21313,
+    "Tag": [
+      "A7CDC"
+    ],
+    "Course Name": "MICROPROCESSORS  & INTERFACING",
     "Project": false,
     "Units": 4
   },
@@ -2332,19 +2972,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G544": {
-    "Comp Codes": 2123,
-    "Tag": [
-      "B1EL",
-      "H101EL",
-      "H129EL"
-    ],
-    "Course Name": "Bioremediation and biometallurgy",
-    "Project": false,
-    "Units": 5
-  },
   "BIO G545": {
-    "Comp Codes": 2124,
+    "Comp Codes": 22124,
     "Tag": [
       "B1EL",
       "H129EL"
@@ -2509,7 +3138,8 @@
   "CHEM F212": {
     "Comp Codes": 21117,
     "Tag": [
-      "B1EL"
+      "B1EL",
+      "B2CDC"
     ],
     "Course Name": "Organic Chemistry I",
     "Project": false,
@@ -2521,16 +3151,6 @@
       "B1EL"
     ],
     "Course Name": "Physical Chemistry II",
-    "Project": false,
-    "Units": 3
-  },
-  "MATH F212": {
-    "Comp Codes": 21122,
-    "Tag": [
-      "B1EL",
-      "B3EL"
-    ],
-    "Course Name": "Optimization ",
     "Project": false,
     "Units": 3
   },
@@ -2969,19 +3589,10 @@
   "MATH F242": {
     "Comp Codes": 21466,
     "Tag": [
-      "B3EL"
+      "B3EL",
+      "B4CDC"
     ],
     "Course Name": "Operations Research",
-    "Project": false,
-    "Units": 3
-  },
-  "CS F364": {
-    "Comp Codes": 21319,
-    "Tag": [
-      "B4EL",
-      "C6EL"
-    ],
-    "Course Name": "Design and Analysis\nof Algorithms\n",
     "Project": false,
     "Units": 3
   },
@@ -3159,7 +3770,8 @@
   "BIO F215": {
     "Comp Codes": 21423,
     "Tag": [
-      "B5EL"
+      "B5EL",
+      "B1CDC"
     ],
     "Course Name": "BIOPHYSICS",
     "Project": false,
@@ -3471,6 +4083,25 @@
     "Project": true,
     "Units": 3
   },
+  "CS F212": {
+    "Comp Codes": 21095,
+    "Tag": [
+      "A7CDC"
+    ],
+    "Course Name": "DATABASE SYSTEMS",
+    "Project": false,
+    "Units": 4
+  },
+  "BITS F429": {
+    "Comp Codes": 0,
+    "Tag": [
+      "H101EL",
+      "A1EL"
+    ],
+    "Course Name": "Nanotechnology for Renewable Energy and Environment",
+    "Project": false,
+    "Units": 4
+  },
   "CHE C421": {
     "Comp Codes": 20174,
     "Tag": [
@@ -3516,23 +4147,169 @@
     "Project": false,
     "Units": 4
   },
+  "BITS G553": {
+    "Comp Codes": 20009,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Real-Time Systems ",
+    "Project": false,
+    "Units": 5
+  },
+  "CS C415": {
+    "Comp Codes": 20940,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Data Mining ",
+    "Project": false,
+    "Units": 3
+  },
+  "CS C422": {
+    "Comp Codes": 20150,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Parallel Computing ",
+    "Project": false,
+    "Units": 3
+  },
+  "CS C446": {
+    "Comp Codes": 20926,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Data Storage and Networks ",
+    "Project": false,
+    "Units": 3
+  },
+  "CS G520": {
+    "Comp Codes": 22106,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Advanced Data Mining ",
+    "Project": false,
+    "Units": 4
+  },
+  "CS G523": {
+    "Comp Codes": 22052,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Software for Embedded Systems",
+    "Project": false,
+    "Units": 5
+  },
+  "CS G527": {
+    "Comp Codes": 22108,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Cloud Computing ",
+    "Project": false,
+    "Units": 5
+  },
+  "CS G541": {
+    "Comp Codes": 20300,
+    "Tag": [
+      "H103EL",
+      "H140EL"
+    ],
+    "Course Name": "Pervasive Computing ",
+    "Project": false,
+    "Units": 4
+  },
+  "CS G551": {
+    "Comp Codes": 20652,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Advance Compilation Techniques",
+    "Project": false,
+    "Units": 5
+  },
+  "CS G554": {
+    "Comp Codes": 20533,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Distributed Data Systems ",
+    "Project": false,
+    "Units": 5
+  },
+  "CS G568": {
+    "Comp Codes": 0,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Reconfigurable Computing",
+    "Project": false,
+    "Units": 3
+  },
+  "CS G612": {
+    "Comp Codes": 20200,
+    "Tag": [
+      "H103EL",
+      "H123EL",
+      "H140EL"
+    ],
+    "Course Name": "Fault Tolerant System Design ",
+    "Project": false,
+    "Units": 5
+  },
+  "EA C451": {
+    "Comp Codes": 20264,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Internetworking Technologies ",
+    "Project": false,
+    "Units": 3
+  },
+  "EA C461": {
+    "Comp Codes": 20458,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Artificial Engineering ",
+    "Project": false,
+    "Units": 3
+  },
+  "EA C473": {
+    "Comp Codes": 20267,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Multimedia Computing ",
+    "Project": false,
+    "Units": 3
+  },
+  "EEE G582": {
+    "Comp Codes": 20095,
+    "Tag": [
+      "H103EL"
+    ],
+    "Course Name": "Telecom Network management",
+    "Project": false,
+    "Units": 5
+  },
+  "EEE G627": {
+    "Comp Codes": 20475,
+    "Tag": [
+      "H103EL",
+      "H140EL"
+    ],
+    "Course Name": "Networked Embedded Applications",
+    "Project": false,
+    "Units": 4
+  },
   "CS G562": {
     "Comp Codes": 20187,
     "Tag": [
       "H123EL"
     ],
     "Course Name": "Advanced Architecture and Performance Evaluation",
-    "Project": false,
-    "Units": 5
-  },
-  "CS G612": {
-    "Comp Codes": 20200,
-    "Tag": [
-      "H123EL",
-      "H140EL",
-      "H103EL"
-    ],
-    "Course Name": "FAULT TOLER SYST DESIGN",
     "Project": false,
     "Units": 5
   },
@@ -3683,7 +4460,8 @@
   "BIO F242": {
     "Comp Codes": 21430,
     "Tag": [
-      "H129EL"
+      "H129EL",
+      "B1CDC"
     ],
     "Course Name": "Introduction to Bioinformatics ",
     "Project": false,
@@ -3724,16 +4502,6 @@
     "Course Name": "Fault Tolerant System Design ",
     "Project": false,
     "Units": 5
-  },
-  "CS G541": {
-    "Comp Codes": 20300,
-    "Tag": [
-      "H140EL",
-      "H103EL"
-    ],
-    "Course Name": "Pervasive Computing ",
-    "Project": false,
-    "Units": 4
   },
   "CS G611": {
     "Comp Codes": 20539,
@@ -3780,16 +4548,6 @@
     "Project": false,
     "Units": 4
   },
-  "EEE G627": {
-    "Comp Codes": 20475,
-    "Tag": [
-      "H140EL",
-      "H103EL"
-    ],
-    "Course Name": "Network Embedded Application #",
-    "Project": false,
-    "Units": 4
-  },
   "MEL G621": {
     "Comp Codes": 20743,
     "Tag": [
@@ -3805,132 +4563,6 @@
       "H140EL"
     ],
     "Course Name": "Mechatronics ",
-    "Project": false,
-    "Units": 5
-  },
-  "BITS G553": {
-    "Comp Codes": 20009,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Real-Time Systems ",
-    "Project": false,
-    "Units": 5
-  },
-  "CS C415": {
-    "Comp Codes": 20940,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Data Mining ",
-    "Project": false,
-    "Units": 3
-  },
-  "CS C422": {
-    "Comp Codes": 20150,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Parallel Computing ",
-    "Project": false,
-    "Units": 3
-  },
-  "CS C446": {
-    "Comp Codes": 20926,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Data Storage and Networks ",
-    "Project": false,
-    "Units": 3
-  },
-  "CS G520": {
-    "Comp Codes": 22106,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Advanced Data Mining ",
-    "Project": false,
-    "Units": 4
-  },
-  "CS G523": {
-    "Comp Codes": 22052,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Software for Embedded Systems",
-    "Project": false,
-    "Units": 5
-  },
-  "CS G527": {
-    "Comp Codes": 22108,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Cloud Computing ",
-    "Project": false,
-    "Units": 5
-  },
-  "CS G551": {
-    "Comp Codes": 20652,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Advance Compilation Techniques",
-    "Project": false,
-    "Units": 5
-  },
-  "CS G554": {
-    "Comp Codes": 20533,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Distributed Data Systems ",
-    "Project": false,
-    "Units": 5
-  },
-  "CS G568": {
-    "Comp Codes": 0,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Reconfigurable Computing",
-    "Project": false,
-    "Units": 3
-  },
-  "EA C451": {
-    "Comp Codes": 20264,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Internetworking Technologies ",
-    "Project": false,
-    "Units": 3
-  },
-  "EA C461": {
-    "Comp Codes": 20458,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Artificial Engineering ",
-    "Project": false,
-    "Units": 3
-  },
-  "EA C473": {
-    "Comp Codes": 20267,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Multimedia Computing ",
-    "Project": false,
-    "Units": 3
-  },
-  "EEE G582": {
-    "Comp Codes": 20095,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Telecom Network management",
     "Project": false,
     "Units": 5
   },
@@ -4780,24 +5412,608 @@
     "Project": false,
     "Units": 3
   },
-  "": {
-    "Comp Codes": 0,
+  "BIO F211": {
+    "Comp Codes": 21112,
     "Tag": [
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      "",
-      ""
+      "B1CDC"
     ],
-    "Course Name": "",
+    "Course Name": "BIOLOGICAL CHEMISTRY",
     "Project": false,
-    "Units": 0
+    "Units": 3
+  },
+  "BIO F213": {
+    "Comp Codes": 21113,
+    "Tag": [
+      "B1CDC"
+    ],
+    "Course Name": "CELL BIOLOGY",
+    "Project": false,
+    "Units": 3
+  },
+  "BIO F212": {
+    "Comp Codes": 21115,
+    "Tag": [
+      "B1CDC"
+    ],
+    "Course Name": "MICROBIOLOGY",
+    "Project": false,
+    "Units": 4
+  },
+  "BIO F214": {
+    "Comp Codes": 21114,
+    "Tag": [
+      "B1CDC"
+    ],
+    "Course Name": "INTEGRATED BIOLOGY",
+    "Project": false,
+    "Units": 3
+  },
+  "BIO F241": {
+    "Comp Codes": 21424,
+    "Tag": [
+      "B1CDC"
+    ],
+    "Course Name": "ECOLOGY & ENVIRONMENTAL SCIENCE",
+    "Project": false,
+    "Units": 3
+  },
+  "BIO F243": {
+    "Comp Codes": 21425,
+    "Tag": [
+      "B1CDC"
+    ],
+    "Course Name": "GENETICS",
+    "Project": false,
+    "Units": 3
+  },
+  "BIO F244": {
+    "Comp Codes": 21426,
+    "Tag": [
+      "B1CDC"
+    ],
+    "Course Name": "INSTRUMENTAL METHODS OF ANALYSIS ",
+    "Project": false,
+    "Units": 4
+  },
+  "BIO F311": {
+    "Comp Codes": 21427,
+    "Tag": [
+      "B1CDC"
+    ],
+    "Course Name": "RECOMBINANT DNA TECHNOLOGY",
+    "Project": false,
+    "Units": 3
+  },
+  "BIO F312": {
+    "Comp Codes": 21428,
+    "Tag": [
+      "B1CDC"
+    ],
+    "Course Name": "PLANT PHYSIOLOGY",
+    "Project": false,
+    "Units": 3
+  },
+  "BIO F313": {
+    "Comp Codes": 21429,
+    "Tag": [
+      "B1CDC"
+    ],
+    "Course Name": "ANIMAL PHYSIOLOGY",
+    "Project": false,
+    "Units": 3
+  },
+  "BIO F341": {
+    "Comp Codes": 21431,
+    "Tag": [
+      "B1CDC"
+    ],
+    "Course Name": "DEVELOPMENTAL BIOLOGY",
+    "Project": false,
+    "Units": 3
+  },
+  "BIO F342": {
+    "Comp Codes": 21432,
+    "Tag": [
+      "B1CDC"
+    ],
+    "Course Name": "IMMUNOLOGY",
+    "Project": false,
+    "Units": 3
+  },
+  "CHEM F211": {
+    "Comp Codes": 21118,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "PHYSICAL CHEMISTRY I",
+    "Project": false,
+    "Units": 3
+  },
+  "CHEM F213 ": {
+    "Comp Codes": 21118,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "PHYSICAL CHEMISTRY II",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F212": {
+    "Comp Codes": 21127,
+    "Tag": [
+      "B2CDC",
+      "B5CDC"
+    ],
+    "Course Name": "ELECTROMAGNETIC THEORY I",
+    "Project": false,
+    "Units": 3
+  },
+  "CHEM F214": {
+    "Comp Codes": 21119,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "INORGANIC CHEMISTRY I",
+    "Project": false,
+    "Units": 3
+  },
+  "CHEM F241": {
+    "Comp Codes": 21554,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "INORGANIC CHEMISTRY II",
+    "Project": false,
+    "Units": 3
+  },
+  "CHEM F242": {
+    "Comp Codes": 21555,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "CHEMICAL EXPERIMENTATION I",
+    "Project": false,
+    "Units": 3
+  },
+  "CHEM F243": {
+    "Comp Codes": 21556,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "ORGANIC CHEMISTRY II",
+    "Project": false,
+    "Units": 3
+  },
+  "CHEM F244": {
+    "Comp Codes": 21557,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "PHYSICAL CHEMISTRY III",
+    "Project": false,
+    "Units": 3
+  },
+  "CHEM F313": {
+    "Comp Codes": 21558,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "INSTRUMENTAL METHODS OF ANALYSIS",
+    "Project": false,
+    "Units": 4
+  },
+  "CHEM F311": {
+    "Comp Codes": 21559,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "ORGANIC CHEMISTRY III",
+    "Project": false,
+    "Units": 3
+  },
+  "CHEM F312": {
+    "Comp Codes": 21560,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "PHYSICAL CHEMISTRY IV",
+    "Project": false,
+    "Units": 3
+  },
+  "CHEM F341": {
+    "Comp Codes": 21561,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "CHEMICAL EXPERIMENTATION II",
+    "Project": false,
+    "Units": 4
+  },
+  "CHEM F342": {
+    "Comp Codes": 21562,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "ORGANIC CHEMISTRY IV",
+    "Project": false,
+    "Units": 3
+  },
+  "CHEM F343": {
+    "Comp Codes": 21563,
+    "Tag": [
+      "B2CDC"
+    ],
+    "Course Name": "INORGANIC CHEMISTRY III",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F211": {
+    "Comp Codes": 21023,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "PRINCIPLES OF ECONOMICS",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F212": {
+    "Comp Codes": 21120,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "FUNDAMENTALS OF FINANCE & ACCOUNTS",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F213": {
+    "Comp Codes": 21121,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "MATHEMATICAL & STATISTICAL METHODS",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F214": {
+    "Comp Codes": 21145,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "ECONOMIC ENVIRONMENT OF BUSINESS",
+    "Project": false,
+    "Units": 3
+  },
+  "MGTS F211": {
+    "Comp Codes": 21024,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "Principles of Management",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F241": {
+    "Comp Codes": 21442,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "ECONOMETRIC METHODS",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F242": {
+    "Comp Codes": 21443,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "MICROECONOMICS",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F243": {
+    "Comp Codes": 21444,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "MACROECONOMICS",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F244": {
+    "Comp Codes": 21445,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "ECONOMICS OF GROWTH & DEVELOPMENT",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F311": {
+    "Comp Codes": 21446,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "INTERNATIONAL ECONOMICS",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F312": {
+    "Comp Codes": 21447,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "MONEY BANKING & FINANCIAL MARKETS ",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F313": {
+    "Comp Codes": 21448,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "ISSUES IN ECONOMIC DEVELOPMENT",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F341": {
+    "Comp Codes": 21449,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "PUBLIC FINANCE THEORY & POLICY",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F342": {
+    "Comp Codes": 21450,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "APPLIED ECONOMETRICS",
+    "Project": false,
+    "Units": 3
+  },
+  "ECON F343": {
+    "Comp Codes": 21451,
+    "Tag": [
+      "B3CDC"
+    ],
+    "Course Name": "ECONOMIC ANALYSIS OF PUBLIC POLICY",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F213": {
+    "Comp Codes": 21123,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "DISCRETE MATHEMATICS",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F214": {
+    "Comp Codes": 21124,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "ELEMENTARY REAL ANALYSIS",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F215": {
+    "Comp Codes": 21125,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "ALGEBRA I",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F241": {
+    "Comp Codes": 21465,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "MATHEMATICAL METHODS ",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F243": {
+    "Comp Codes": 21467,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "GRAPHS & NETWORKS",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F244": {
+    "Comp Codes": 21468,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "MEASURE & INTEGRATION ",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F311": {
+    "Comp Codes": 21469,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "INTRODUCTION TO TOPOLOGY",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F312": {
+    "Comp Codes": 21470,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "ORDINARY DIFFERENTIAL EQUATIONS ",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F313": {
+    "Comp Codes": 21471,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "NUMERICAL ANALYSIS",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F341 ": {
+    "Comp Codes": 21472,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "INTRODUCTION TO FUNCTIONAL ANALYSIS",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F342": {
+    "Comp Codes": 21473,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "DIFFERENTIAL GEOMETRY",
+    "Project": false,
+    "Units": 3
+  },
+  "MATH F343": {
+    "Comp Codes": 21474,
+    "Tag": [
+      "B4CDC"
+    ],
+    "Course Name": "PARTIAL DIFFERENTIAL EQUATIONS",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F211": {
+    "Comp Codes": 21126,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "CLASSICAL MECHANICS ",
+    "Project": false,
+    "Units": 4
+  },
+  "PHY F213": {
+    "Comp Codes": 21128,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "OPTICS",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F214": {
+    "Comp Codes": 21129,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "ELECTRICITY,MAGNETISM & OPTICS LABORATORY",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F241": {
+    "Comp Codes": 21482,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "ELECTROMAGNETIC THEORY II",
+    "Project": false,
+    "Units": 4
+  },
+  "PHY F242": {
+    "Comp Codes": 21483,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "QUANTUM MECHANICS I",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F243": {
+    "Comp Codes": 21484,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "MATHEMATICAL METHODS OF PHYSICS",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F244": {
+    "Comp Codes": 21485,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "MODERN PHYSICS LABORATORY",
+    "Project": false,
+    "Units": 2
+  },
+  "PHY F311": {
+    "Comp Codes": 21486,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "QUANTUM MECHANICS II",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F312": {
+    "Comp Codes": 21487,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "STATISTICAL MECHANICS",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F313": {
+    "Comp Codes": 21488,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "COMPUTATIONAL PHYSICS",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F341": {
+    "Comp Codes": 21489,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "SOLID STATE PHYSICS",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F342": {
+    "Comp Codes": 21490,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "ATOMIC AND MOLECULAR PHYSICS",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F343 ": {
+    "Comp Codes": 21491,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "NUCLEAR & PARTICLE PHYSICS",
+    "Project": false,
+    "Units": 3
+  },
+  "PHY F344": {
+    "Comp Codes": 21492,
+    "Tag": [
+      "B5CDC"
+    ],
+    "Course Name": "ADVANCED PHYSICS LABORATORY",
+    "Project": false,
+    "Units": 3
   }
 }

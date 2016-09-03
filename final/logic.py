@@ -23,6 +23,9 @@ def branch(s):
 	btype = s[4:8]
 	if (btype[2:4] == 'PS') or (btype[2:4] == 'TS'):
 		return btype[0:2]
+	if (btype[0] == 'A') and (btype[2] == 'B'):
+		print(btype[0], btype[2])
+		return (btype[2:4] + btype[0:2])
 	else:
 		return btype
 
@@ -47,7 +50,9 @@ def getcoursetype(coursecode, branch):
 	tag2 = []
 	if len(branch) == 4:
 		branch2 = branch[2:4]
-		tag2 = list(filter(lambda x: branch2 in x, coursedesc_arr[coursedesc_arr]['Tag']))
+		# print(branch2)
+		tag2 = list(filter(lambda x: branch2 in x, coursedesc_arr[coursecode]['Tag']))
+		# print(tag2)
 	tag3 = list(filter(lambda x: 'HUM' in x, coursedesc_arr[coursecode]['Tag']))
 	# print(tag1)
 	if not tag1 and not tag2 and not tag3:
@@ -58,8 +63,12 @@ def getcoursetype(coursecode, branch):
 		return 'DEL1'
 	elif tag2 and tag2[0][2:4] == 'EL':
 		return 'DEL2'
-	elif ('CDC' in z for z in tag1[0]) or ('CDC' in y for y in tag2[0]):
-		return 'CDC'
+	elif tag1:
+		if ('CDC' in z for z in tag1[0]):
+			return 'CDC'
+	elif tag2:
+		 if ('CDC' in y for y in tag2[0]):
+		 	return 'CDC'
 	else:
 		return 'OPEN'
 
@@ -98,38 +107,39 @@ for i in studentdatarf:
 	OPEN_LEFT = OPEN_REQ
 	for key, value in i['Courses'].items():
 		for k in range(len(value)):
-			coursecode = i['Courses'][key][k]['Subject'] + " " + i['Courses'][key][k]['Catalog No']
+			coursecode = str(i['Courses'][key][k]['Subject']) + " " + str(i['Courses'][key][k]['Catalog No'])
 			coursetype = getcoursetype(coursecode, branch(i['Campus Id']))
-			if coursetype == 'CDC':
-				CDC_LEFT = CDC_LEFT - 1
-			elif (HUM_LEFT <=0) or (DEL1_LEFT<=0) or (DEL2_LEFT<=0 and DEL2_REQ!=0) or (coursetype == 'OPEN'):
-				OPEN_LEFT = OPEN_LEFT - 1
-			elif coursetype == 'DEL1':
-				DEL1_LEFT = DEL1_LEFT - 1
-			elif coursetype == 'DEL2':
-				DEL2_LEFT = DEL2_LEFT - 1
-			elif coursetype == 'HUM':
-				HUM_LEFT = HUM_LEFT - 1
-			try:
-				tag[coursetype].append(coursecode)
-			except:
-				tag[coursetype] = [coursecode]
-			
-			#Extra Flags as mentioned by ARC
-			if proj(coursecode):
-				try:
-					PROJ_LIST[coursecode] = PROJ_LIST[coursecode] + 1
-				except:
-					PROJ_LIST[coursecode] = 1
-			
-			if (ELEC_FLAG==0) and ((coursetype == 'HUM') or (coursetype == 'DEL1') or (coursetype == 'DEL2')) and coursedesc_arr[coursecode]['Units'] < 3:
-				ELEC_FLAG = 1
-
-			if ((coursecode == 'MGTS F211') or (coursecode == 'ECON F211')) and branch(i['Campus Id'])[0:2]!='B3':
-				if POMPOE == 1:
+			if coursecode not in tag[coursetype]:
+				if coursetype == 'CDC':
+					CDC_LEFT = CDC_LEFT - 1
+				elif (coursetype == 'HUM' and HUM_LEFT <=0) or (coursetype == 'DEL1' and DEL1_LEFT<=0) or (coursetype == 'DEL2' and DEL2_LEFT<=0 and DEL2_REQ!=0) or (coursetype == 'OPEN'):
 					OPEN_LEFT = OPEN_LEFT - 1
-				else:
-					POMPOE = 1
+				elif coursetype == 'DEL1':
+					DEL1_LEFT = DEL1_LEFT - 1
+				elif coursetype == 'DEL2':
+					DEL2_LEFT = DEL2_LEFT - 1
+				elif coursetype == 'HUM':
+					HUM_LEFT = HUM_LEFT - 1
+				try:
+					tag[coursetype].append(coursecode)
+				except:
+					tag[coursetype] = [coursecode]
+				
+				#Extra Flags as mentioned by ARC
+				if proj(coursecode):
+					try:
+						PROJ_LIST[coursecode] = PROJ_LIST[coursecode] + 1
+					except:
+						PROJ_LIST[coursecode] = 1
+				
+				if (ELEC_FLAG==0) and ((coursetype == 'HUM') or (coursetype == 'DEL1') or (coursetype == 'DEL2')) and coursedesc_arr[coursecode]['Units'] < 3:
+					ELEC_FLAG = 1
+
+				if ((coursecode == 'MGTS F211') or (coursecode == 'ECON F211')) and branch(i['Campus Id'])[0:2]!='B3':
+					if POMPOE == 1:
+						OPEN_LEFT = OPEN_LEFT - 1
+					else:
+						POMPOE = 1
 
 	for key,value in PROJ_LIST.items():
 		if PROJ_LEFT > 0 and PROJ_FLAG != 1:

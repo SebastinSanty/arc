@@ -3,6 +3,8 @@ from collections import OrderedDict
 import simplejson as json
 import os
 import sys
+import re
+
 
 filename = sys.argv[1]
  
@@ -22,29 +24,30 @@ acceptable = ['', 'A', 'A-','B','B-','C','C-','D','E']
 while(rowsleft):
     tag = OrderedDict()
     tagN= OrderedDict()
-    tag['Empl Id'] = row_values[0]
+    tag['Empl Id'] = int(row_values[0])
     tag['Campus Id'] = row_values[1]
-    tag['Name'] = row_values[2]
+    tag['Name'] = re.sub('[.,]', '', row_values[2])
     tagN['Empl Id'] = row_values[0]
     tagN['Campus Id'] = row_values[1]
     tagN['Name'] = row_values[2]
-    name = row_values[2]
+    emplid = row_values[0]
     courses_list = []
     courses = OrderedDict()
     logs = OrderedDict()
-    while(name == row_values[2] and rowsleft):
-        desc = row_values[3]
+    # print(row_values[2])
+    while(emplid == int(row_values[0]) and rowsleft):
+        desc = str(int(row_values[3]))
         course_list = []
         log_list = []
-        while (desc == row_values[3] and rowsleft):
+        while (desc == str(int(row_values[3])) and rowsleft):
             course = OrderedDict()
-            course['Course Id'] = row_values[4]
-            course['Subject'] = row_values[5]
-            course['Catalog No'] = row_values[6].strip()
-            course['Unit Taken'] = row_values[7]
-            course['Course Grade'] = row_values[8]
+            course['Course Id'] = int(row_values[4])
+            course['Subject'] = row_values[6]
+            course['Catalog No'] = row_values[7].strip()
+            course['Unit Taken'] = row_values[8]
+            course['Course Grade'] = row_values[9]
 
-            if row_values[8] in acceptable:
+            if row_values[9] in acceptable:
                 course_list.append(course)
             else:
                 log_list.append(course)
@@ -72,4 +75,4 @@ with open(os.path.join('json','studentdatarf.json'), 'w') as f:
 with open(os.path.join('json','studentdatalog.json'), 'w') as f:
     f.write(k)
 
-# print(json.dumps(json.loads(j)[0], indent=4, sort_keys=True))
+print(json.dumps(json.loads(j)[0], indent=4, sort_keys=True))
