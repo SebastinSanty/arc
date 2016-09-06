@@ -12,6 +12,8 @@ sheet.write(0, 4, 'DEL1 Pending')
 sheet.write(0, 5, 'DEL2 Pending')
 sheet.write(0, 6, 'HUM Pending')
 sheet.write(0, 7, 'OPEN Pending')
+sheet.write(0, 8, 'PROJ Flag')
+sheet.write(0, 9, 'ELEC Flag')
 
 with open(os.path.join('json',"finaldata.json")) as json_file:
     json_data = json.load(json_file)
@@ -27,6 +29,8 @@ for i in u:
     sheet.write(c, 5, i['DEL2s Left'])
     sheet.write(c, 6, i['HUMs Left'])
     sheet.write(c, 7, i['OPENs Left'])
+    sheet.write(c, 8, i['PROJ Flag'])
+    sheet.write(c, 9, i['ELEC Flag'])
 
 sheet.col(2).width = 256 * 50
 

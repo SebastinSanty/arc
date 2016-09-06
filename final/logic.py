@@ -29,6 +29,13 @@ def branch(s):
 	else:
 		return btype
 
+def psts(s):
+	btype = s[4:8]
+	if (btype[2:4] == 'TS'):
+		return True
+	else:
+		return False
+
 #Check for Reverse Dual/ BE Dual Cases
 def specialcase(s):
 	btype = s[4:8]
@@ -37,9 +44,11 @@ def specialcase(s):
 
 
 #Get the course type by comparing it with the branch, like whether it is an elective/CDC
-def getcoursetype(coursecode, branch):
+def getcoursetype(coursecode, cid, branch):
 	if (coursecode == 'MGTS F211') or (coursecode == 'ECON F211'):
 		return 'Other'
+	if (coursecode == 'BITS F221') and (psts(cid)):
+		return 'OPEN'
 	try:
 		coursedesc_arr[coursecode]
 	except:
@@ -92,6 +101,7 @@ for i in studentdatarf:
 	PROJ_FLAG = 0
 	ELEC_FLAG = 0
 	POMPOE = 0
+	PS_FLAG = 0
 	for j in noofcourse:
 		if (j['Discipline'] == branch(i['Campus Id'])):
 			CDC_REQ = j['No of Courses']['CDC']
@@ -108,8 +118,17 @@ for i in studentdatarf:
 	for key, value in i['Courses'].items():
 		for k in range(len(value)):
 			coursecode = str(i['Courses'][key][k]['Subject']) + " " + str(i['Courses'][key][k]['Catalog No'])
-			coursetype = getcoursetype(coursecode, branch(i['Campus Id']))
-			if coursecode not in tag[coursetype]:
+			coursetype = getcoursetype(coursecode, i['Campus Id'], branch(i['Campus Id']))
+			try:
+				if tag[coursetype]:
+					if coursecode in tag[coursetype]:
+						REP_FLAG = 0
+					else:
+						REP_FLAG = 1
+			except:
+				REP_FLAG = 1
+
+			if REP_FLAG == 1:
 				if coursetype == 'CDC':
 					CDC_LEFT = CDC_LEFT - 1
 				elif (coursetype == 'HUM' and HUM_LEFT <=0) or (coursetype == 'DEL1' and DEL1_LEFT<=0) or (coursetype == 'DEL2' and DEL2_LEFT<=0 and DEL2_REQ!=0) or (coursetype == 'OPEN'):

@@ -1,49 +1,13 @@
 import xlwt
 import simplejson as json
 import os
+from logic import branch, psts, getcoursetype, proj
 
 with open(os.path.join('json',"coursedesc.json")) as json_file:
     coursedesc_arr = json.load(json_file)
 
 with open(os.path.join('json',"noofcourse.json")) as json_file:
     noofcourse = json.load(json_file)
-
-def branch(s):
-    btype = s[4:8]
-    if (btype[2:4] == 'PS') or (btype[2:4] == 'TS'):
-        return btype[0:2]
-    else:
-        return btype
-
-def getcoursetype(coursecode, branch):
-    if (coursecode == 'MGTS F211') or (coursecode == 'ECON F211'):
-        return 'Other'
-    try:
-        coursedesc_arr[coursecode]
-    except:
-        return 'OPEN'
-    branch1 = branch[0:2]
-    tag1 = list(filter(lambda x: branch1 in x, coursedesc_arr[coursecode]['Tag']))
-    branch2 = ''
-    tag2 = []
-    if len(branch) == 4:
-        branch2 = branch[2:4]
-        tag2 = list(filter(lambda x: branch2 in x, coursedesc_arr[coursecode]['Tag']))
-    tag3 = list(filter(lambda x: 'HUM' in x, coursedesc_arr[coursecode]['Tag']))
-    # print(tag1)
-    if not tag1 and not tag2 and not tag3:
-        return 'OPEN'
-    elif tag3:
-        return 'HUM'
-    elif tag1 and tag1[0][2:4] == 'EL':
-        return 'DEL1'
-    elif tag2 and tag2[0][2:4] == 'EL':
-        return 'DEL2'
-    elif tag1 and tag2:
-        if ('CDC' in z for z in tag1[0]) or ('CDC' in y for y in tag2[0]):
-            return 'CDC'
-    else:
-        return 'OPEN'
 
 sheetno = 1
 
@@ -78,7 +42,7 @@ for i in u:
     sheet.write(c, 7, i['Unit Taken'])
     sheet.write(c, 8, i['Course Grade'])
     coursecode = i['Subject'] + " " + ''.join(i['Catalog No'].split())
-    coursetype = getcoursetype(coursecode, branch(i['Campus Id']))
+    coursetype = getcoursetype(coursecode, i['Campus Id'], branch(i['Campus Id']))
     if (emplid != i['Empl Id']):
         for j in noofcourse:
             if (j['Discipline'] == branch(i['Campus Id'])):
@@ -98,27 +62,35 @@ for i in u:
     emplid = i['Empl Id']
     if coursetype == 'CDC':
         CDC_LEFT = CDC_LEFT - 1
-        FINAL = 'CDC'
-    elif (HUM_LEFT <=0) or (DEL1_LEFT<=0) or (DEL2_LEFT<=0 and DEL2_REQ!=0) or (coursetype == 'OPEN'):
+    elif (coursetype == 'HUM' and HUM_LEFT <=0) or (coursetype == 'DEL1' and DEL1_LEFT<=0) or (coursetype == 'DEL2' and DEL2_LEFT<=0 and DEL2_REQ!=0) or (coursetype == 'OPEN'):
         OPEN_LEFT = OPEN_LEFT - 1
-        FINAL = 'OPEN'
     elif coursetype == 'DEL1':
         DEL1_LEFT = DEL1_LEFT - 1
-        FINAL = 'DEL1'
     elif coursetype == 'DEL2':
         DEL2_LEFT = DEL2_LEFT - 1
-        FINAL = 'DEL2'
     elif coursetype == 'HUM':
         HUM_LEFT = HUM_LEFT - 1
-        FINAL = 'HUM'
-    POMPOE = 0
+    try:
+        tag[coursetype].append(coursecode)
+    except:
+        tag[coursetype] = [coursecode]
+    
+    #Extra Flags as mentioned by ARC
+    if proj(coursecode):
+        try:
+            PROJ_LIST[coursecode] = PROJ_LIST[coursecode] + 1
+        except:
+            PROJ_LIST[coursecode] = 1
+    
+    if (ELEC_FLAG==0) and ((coursetype == 'HUM') or (coursetype == 'DEL1') or (coursetype == 'DEL2')) and coursedesc_arr[coursecode]['Units'] < 3:
+        ELEC_FLAG = 1
+
     if ((coursecode == 'MGTS F211') or (coursecode == 'ECON F211')) and branch(i['Campus Id'])[0:2]!='B3':
         if POMPOE == 1:
             OPEN_LEFT = OPEN_LEFT - 1
-            FINAL = 'OPEN'
         else:
             POMPOE = 1
-            FINAL = 'CDC'
+
     # print(coursecode)
     sheet.write(c, 9, FINAL)
     if c>=65535:
