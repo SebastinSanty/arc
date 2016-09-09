@@ -24,7 +24,6 @@ def branch(s):
 	if (btype[2:4] == 'PS') or (btype[2:4] == 'TS'):
 		return btype[0:2]
 	if (btype[0] == 'A') and (btype[2] == 'B'):
-		print(btype[0], btype[2])
 		return (btype[2:4] + btype[0:2])
 	else:
 		return btype
@@ -130,6 +129,12 @@ for i in studentdatarf:
 
 			if REP_FLAG == 1:
 				if coursetype == 'CDC':
+					try:
+						if (i['Empl Id'] == 31120150357):
+							print(coursetype, coursedesc_arr[coursecode]['Course Name'])
+							print(CDC_LEFT - 1)
+					except:
+						pass
 					CDC_LEFT = CDC_LEFT - 1
 				elif (coursetype == 'HUM' and HUM_LEFT <=0) or (coursetype == 'DEL1' and DEL1_LEFT<=0) or (coursetype == 'DEL2' and DEL2_LEFT<=0 and DEL2_REQ!=0) or (coursetype == 'OPEN'):
 					OPEN_LEFT = OPEN_LEFT - 1

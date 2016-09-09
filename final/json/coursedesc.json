@@ -1,6 +1,6 @@
 {
-  "BIO F110": {
-    "Comp Codes": 21001,
+  "21001": {
+    "Comp Codes": "BIO F110",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -17,21 +17,26 @@
     "Project": false,
     "Units": 1
   },
-  "BIO F111": {
-    "Comp Codes": 21002,
+  "21002": {
+    "Comp Codes": "BIO F111",
     "Tag": [
       "A1CDC",
       "A3CDC",
       "A4CDC",
       "A7CDC",
-      "B2CDC"
+      "A8CDC",
+      "B1CDC",
+      "B2CDC",
+      "B3CDC",
+      "B4CDC",
+      "B5CDC"
     ],
     "Course Name": "GENERAL BIOLOGY",
     "Project": false,
     "Units": 3
   },
-  "CHEM F110": {
-    "Comp Codes": 21006,
+  "21006": {
+    "Comp Codes": "CHEM F110",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -48,8 +53,8 @@
     "Project": false,
     "Units": 1
   },
-  "CHEM F111": {
-    "Comp Codes": 21007,
+  "21007": {
+    "Comp Codes": "CHEM F111",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -66,12 +71,13 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F111": {
-    "Comp Codes": 21010,
+  "21010": {
+    "Comp Codes": "MATH F111",
     "Tag": [
       "A1CDC",
       "A3CDC",
       "A4CDC",
+      "A7CDC",
       "A7CDC",
       "A8CDC",
       "B1CDC",
@@ -84,8 +90,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F110": {
-    "Comp Codes": 21014,
+  "21014": {
+    "Comp Codes": "PHY F110",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -102,8 +108,8 @@
     "Project": false,
     "Units": 1
   },
-  "PHY F111": {
-    "Comp Codes": 21015,
+  "21015": {
+    "Comp Codes": "PHY F111",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -120,8 +126,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F110": {
-    "Comp Codes": 21003,
+  "21003": {
+    "Comp Codes": "BITS F110",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -138,8 +144,8 @@
     "Project": false,
     "Units": 2
   },
-  "MATH F112": {
-    "Comp Codes": 21011,
+  "21011": {
+    "Comp Codes": "MATH F112",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -156,8 +162,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F110": {
-    "Comp Codes": 21013,
+  "21013": {
+    "Comp Codes": "ME F110",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -174,8 +180,8 @@
     "Project": false,
     "Units": 2
   },
-  "CS F111": {
-    "Comp Codes": 21008,
+  "21008": {
+    "Comp Codes": "CS F111",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -192,8 +198,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE F111": {
-    "Comp Codes": 21009,
+  "21009": {
+    "Comp Codes": "EEE F111",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -210,8 +216,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F112": {
-    "Comp Codes": 21005,
+  "21005": {
+    "Comp Codes": "BITS F112",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -228,8 +234,8 @@
     "Project": false,
     "Units": 2
   },
-  "MATH F113": {
-    "Comp Codes": 21012,
+  "21012": {
+    "Comp Codes": "MATH F113",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -246,8 +252,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F111": {
-    "Comp Codes": 21004,
+  "21004": {
+    "Comp Codes": "BITS F111",
     "Tag": [
       "A1CDC",
       "A3CDC",
@@ -264,13 +270,12 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F211": {
-    "Comp Codes": 21022,
+  "21022": {
+    "Comp Codes": "MATH F211",
     "Tag": [
       "A1CDC",
       "A3CDC",
       "A4CDC",
-      "A7CDC",
       "A8CDC",
       "B1CDC",
       "B2CDC",
@@ -283,8 +288,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F211": {
-    "Comp Codes": 21069,
+  "21069": {
+    "Comp Codes": "CHE F211",
     "Tag": [
       "A1CDC"
     ],
@@ -292,8 +297,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F214": {
-    "Comp Codes": 21070,
+  "21070": {
+    "Comp Codes": "CHE F214",
     "Tag": [
       "A1CDC"
     ],
@@ -301,8 +306,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F213": {
-    "Comp Codes": 21071,
+  "21071": {
+    "Comp Codes": "CHE F213",
     "Tag": [
       "A1CDC"
     ],
@@ -310,8 +315,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F212": {
-    "Comp Codes": 21072,
+  "21072": {
+    "Comp Codes": "CHE F212",
     "Tag": [
       "A1CDC"
     ],
@@ -319,8 +324,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F241": {
-    "Comp Codes": 21180,
+  "21180": {
+    "Comp Codes": "CHE F241",
     "Tag": [
       "A1CDC"
     ],
@@ -328,8 +333,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F242": {
-    "Comp Codes": 21181,
+  "21181": {
+    "Comp Codes": "CHE F242",
     "Tag": [
       "A1CDC"
     ],
@@ -337,8 +342,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F243": {
-    "Comp Codes": 21182,
+  "21182": {
+    "Comp Codes": "CHE F243",
     "Tag": [
       "A1CDC"
     ],
@@ -346,8 +351,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F244": {
-    "Comp Codes": 21183,
+  "21183": {
+    "Comp Codes": "CHE F244",
     "Tag": [
       "A1CDC"
     ],
@@ -355,8 +360,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F312": {
-    "Comp Codes": 21185,
+  "21185": {
+    "Comp Codes": "CHE F312",
     "Tag": [
       "A1CDC"
     ],
@@ -364,8 +369,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F313": {
-    "Comp Codes": 21186,
+  "21186": {
+    "Comp Codes": "CHE F313",
     "Tag": [
       "A1CDC"
     ],
@@ -373,8 +378,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F311": {
-    "Comp Codes": 21184,
+  "21184": {
+    "Comp Codes": "CHE F311",
     "Tag": [
       "A1CDC"
     ],
@@ -382,8 +387,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F314": {
-    "Comp Codes": 21187,
+  "21187": {
+    "Comp Codes": "CHE F314",
     "Tag": [
       "A1CDC"
     ],
@@ -391,8 +396,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F341": {
-    "Comp Codes": 21188,
+  "21188": {
+    "Comp Codes": "CHE F341",
     "Tag": [
       "A1CDC"
     ],
@@ -400,8 +405,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F342": {
-    "Comp Codes": 21189,
+  "21189": {
+    "Comp Codes": "CHE F342",
     "Tag": [
       "A1CDC"
     ],
@@ -409,8 +414,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F343": {
-    "Comp Codes": 21190,
+  "21190": {
+    "Comp Codes": "CHE F343",
     "Tag": [
       "A1CDC"
     ],
@@ -418,8 +423,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO G671": {
-    "Comp Codes": 22019,
+  "22019": {
+    "Comp Codes": "BIO G671",
     "Tag": [
       "A1EL",
       "B1EL",
@@ -429,8 +434,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIOT F245": {
-    "Comp Codes": 21360,
+  "21360": {
+    "Comp Codes": "BIOT F245",
     "Tag": [
       "A1EL"
     ],
@@ -438,8 +443,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIOT F344": {
-    "Comp Codes": 21366,
+  "21366": {
+    "Comp Codes": "BIOT F344",
     "Tag": [
       "A1EL"
     ],
@@ -447,8 +452,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F415": {
-    "Comp Codes": 21248,
+  "21248": {
+    "Comp Codes": "BITS F415",
     "Tag": [
       "A1EL",
       "A3EL",
@@ -461,8 +466,8 @@
     "Project": false,
     "Units": 4
   },
-  "BITS F416": {
-    "Comp Codes": 21808,
+  "21808": {
+    "Comp Codes": "BITS F416",
     "Tag": [
       "A1EL",
       "B5EL"
@@ -471,8 +476,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F417": {
-    "Comp Codes": 21809,
+  "21809": {
+    "Comp Codes": "BITS F417",
     "Tag": [
       "A1EL"
     ],
@@ -480,8 +485,8 @@
     "Project": false,
     "Units": 4
   },
-  "BITS F418": {
-    "Comp Codes": 21770,
+  "21770": {
+    "Comp Codes": "BITS F418",
     "Tag": [
       "A1EL",
       "B1EL",
@@ -492,8 +497,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE F266": {
-    "Comp Codes": 21653,
+  "21653": {
+    "Comp Codes": "CHE F266",
     "Tag": [
       "A1EL"
     ],
@@ -501,8 +506,8 @@
     "Project": true,
     "Units": 3
   },
-  "CHE F366": {
-    "Comp Codes": 21668,
+  "21668": {
+    "Comp Codes": "CHE F366",
     "Tag": [
       "A1EL"
     ],
@@ -510,8 +515,8 @@
     "Project": true,
     "Units": 3
   },
-  "CHE F367": {
-    "Comp Codes": 21738,
+  "21738": {
+    "Comp Codes": "CHE F367",
     "Tag": [
       "A1EL"
     ],
@@ -519,8 +524,8 @@
     "Project": true,
     "Units": 3
   },
-  "CHE F376": {
-    "Comp Codes": 21687,
+  "21687": {
+    "Comp Codes": "CHE F376",
     "Tag": [
       "A1EL"
     ],
@@ -528,8 +533,8 @@
     "Project": true,
     "Units": 3
   },
-  "CHE F377": {
-    "Comp Codes": 21754,
+  "21754": {
+    "Comp Codes": "CHE F377",
     "Tag": [
       "A1EL"
     ],
@@ -537,8 +542,8 @@
     "Project": true,
     "Units": 3
   },
-  "CHE F411": {
-    "Comp Codes": 21206,
+  "21206": {
+    "Comp Codes": "CHE F411",
     "Tag": [
       "A1EL"
     ],
@@ -546,8 +551,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F412": {
-    "Comp Codes": 21207,
+  "21207": {
+    "Comp Codes": "CHE F412",
     "Tag": [
       "A1EL"
     ],
@@ -555,8 +560,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F413": {
-    "Comp Codes": 21204,
+  "21204": {
+    "Comp Codes": "CHE F413",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -565,8 +570,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F414": {
-    "Comp Codes": 21201,
+  "21201": {
+    "Comp Codes": "CHE F414",
     "Tag": [
       "A1EL"
     ],
@@ -574,8 +579,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F415": {
-    "Comp Codes": 21210,
+  "21210": {
+    "Comp Codes": "CHE F415",
     "Tag": [
       "A1EL"
     ],
@@ -583,8 +588,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F416": {
-    "Comp Codes": 21211,
+  "21211": {
+    "Comp Codes": "CHE F416",
     "Tag": [
       "A1EL"
     ],
@@ -592,8 +597,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F417": {
-    "Comp Codes": 21212,
+  "21212": {
+    "Comp Codes": "CHE F417",
     "Tag": [
       "A1EL"
     ],
@@ -601,8 +606,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F418": {
-    "Comp Codes": 21213,
+  "21213": {
+    "Comp Codes": "CHE F418",
     "Tag": [
       "A1EL"
     ],
@@ -610,8 +615,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F419": {
-    "Comp Codes": 21203,
+  "21203": {
+    "Comp Codes": "CHE F419",
     "Tag": [
       "A1EL"
     ],
@@ -619,8 +624,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F421": {
-    "Comp Codes": 21205,
+  "21205": {
+    "Comp Codes": "CHE F421",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -629,17 +634,51 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F422": {
-    "Comp Codes": 0,
+  "0": {
+    "Comp Codes": "CHE F422",
     "Tag": [
+      "A1EL",
+      "A1EL",
+      "A1EL",
+      "A8EL",
+      "A3EL",
+      "A7EL",
+      "A8EL",
+      "A8EL",
+      "A8EL",
+      "A8EL",
+      "A8EL",
+      "A8EL",
+      "A8EL",
+      "A8EL",
+      "B3EL",
+      "B4EL",
+      "B4EL",
+      "B5EL",
+      "B5EL",
+      "B5EL",
+      "B5EL",
+      "H101EL",
+      "H101EL",
+      "H101EL",
+      "H101EL",
+      "H101EL",
+      "H103EL",
+      "H123EL",
+      "H140EL",
+      "H140EL",
+      "H140EL",
+      "HUM",
+      "HUM",
+      " A3EL",
       "A1EL"
     ],
     "Course Name": "Petroleum Refining Technology ",
     "Project": false,
     "Units": 3
   },
-  "CHE F433": {
-    "Comp Codes": 21202,
+  "21202": {
+    "Comp Codes": "CHE F433",
     "Tag": [
       "A1EL"
     ],
@@ -647,8 +686,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F471": {
-    "Comp Codes": 21208,
+  "21208": {
+    "Comp Codes": "CHE F471",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -657,8 +696,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE F491": {
-    "Comp Codes": 21209,
+  "21209": {
+    "Comp Codes": "CHE F491",
     "Tag": [
       "A1EL"
     ],
@@ -666,8 +705,8 @@
     "Project": true,
     "Units": 3
   },
-  "CHE G511": {
-    "Comp Codes": 20821,
+  "20821": {
+    "Comp Codes": "CHE G511",
     "Tag": [
       "A1EL"
     ],
@@ -675,8 +714,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G512": {
-    "Comp Codes": 20270,
+  "20270": {
+    "Comp Codes": "CHE G512",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -685,8 +724,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G513": {
-    "Comp Codes": 20279,
+  "20279": {
+    "Comp Codes": "CHE G513",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -695,8 +734,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G522": {
-    "Comp Codes": 20847,
+  "20847": {
+    "Comp Codes": "CHE G522",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -705,8 +744,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G523": {
-    "Comp Codes": 22002,
+  "22002": {
+    "Comp Codes": "CHE G523",
     "Tag": [
       "A1EL"
     ],
@@ -714,8 +753,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G524": {
-    "Comp Codes": 22080,
+  "22080": {
+    "Comp Codes": "CHE G524",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -724,8 +763,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G526": {
-    "Comp Codes": 22082,
+  "22082": {
+    "Comp Codes": "CHE G526",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -734,8 +773,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G527": {
-    "Comp Codes": 22083,
+  "22083": {
+    "Comp Codes": "CHE G527",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -744,8 +783,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G528": {
-    "Comp Codes": 22084,
+  "22084": {
+    "Comp Codes": "CHE G528",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -754,8 +793,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G529": {
-    "Comp Codes": 22085,
+  "22085": {
+    "Comp Codes": "CHE G529",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -764,8 +803,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G532": {
-    "Comp Codes": 22031,
+  "22031": {
+    "Comp Codes": "CHE G532",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -774,8 +813,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G533": {
-    "Comp Codes": 22140,
+  "22140": {
+    "Comp Codes": "CHE G533",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -784,8 +823,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G551": {
-    "Comp Codes": 20049,
+  "20049": {
+    "Comp Codes": "CHE G551",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -794,8 +833,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G552": {
-    "Comp Codes": 22146,
+  "22146": {
+    "Comp Codes": "CHE G552",
     "Tag": [
       "A1EL"
     ],
@@ -803,28 +842,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G556": {
-    "Comp Codes": 0,
-    "Tag": [
-      "A1EL",
-      "H101EL"
-    ],
-    "Course Name": "Electrochemical Engineering",
-    "Project": false,
-    "Units": 4
-  },
-  "CHE G557": {
-    "Comp Codes": 0,
-    "Tag": [
-      "A1EL",
-      "H101EL"
-    ],
-    "Course Name": "Energy Systems Engineering ",
-    "Project": false,
-    "Units": 4
-  },
-  "CHE G558": {
-    "Comp Codes": 22152,
+  "22152": {
+    "Comp Codes": "CHE G558",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -833,8 +852,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G613": {
-    "Comp Codes": 20618,
+  "20618": {
+    "Comp Codes": "CHE G613",
     "Tag": [
       "A1EL"
     ],
@@ -842,8 +861,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G614": {
-    "Comp Codes": 20841,
+  "20841": {
+    "Comp Codes": "CHE G614",
     "Tag": [
       "A1EL"
     ],
@@ -851,8 +870,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G616": {
-    "Comp Codes": 20823,
+  "20823": {
+    "Comp Codes": "CHE G616",
     "Tag": [
       "A1EL"
     ],
@@ -860,8 +879,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G617": {
-    "Comp Codes": 20010,
+  "20010": {
+    "Comp Codes": "CHE G617",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -870,8 +889,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G618": {
-    "Comp Codes": 20891,
+  "20891": {
+    "Comp Codes": "CHE G618",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -880,8 +899,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G619": {
-    "Comp Codes": 20337,
+  "20337": {
+    "Comp Codes": "CHE G619",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -890,8 +909,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G620": {
-    "Comp Codes": 20760,
+  "20760": {
+    "Comp Codes": "CHE G620",
     "Tag": [
       "A1EL",
       "H101EL"
@@ -900,8 +919,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G622": {
-    "Comp Codes": 22032,
+  "22032": {
+    "Comp Codes": "CHE G622",
     "Tag": [
       "A1EL"
     ],
@@ -909,8 +928,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHE G641": {
-    "Comp Codes": 20729,
+  "20729": {
+    "Comp Codes": "CHE G641",
     "Tag": [
       "A1EL"
     ],
@@ -918,8 +937,8 @@
     "Project": false,
     "Units": 5
   },
-  "CHEM F325": {
-    "Comp Codes": 21572,
+  "21572": {
+    "Comp Codes": "CHEM F325",
     "Tag": [
       "A1EL",
       "B2EL"
@@ -928,8 +947,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F211": {
-    "Comp Codes": 21077,
+  "21077": {
+    "Comp Codes": "EEE F211",
     "Tag": [
       "A3CDC"
     ],
@@ -937,8 +956,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE F212": {
-    "Comp Codes": 21078,
+  "21078": {
+    "Comp Codes": "EEE F212",
     "Tag": [
       "A3CDC"
     ],
@@ -946,8 +965,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F215": {
-    "Comp Codes": 21079,
+  "21079": {
+    "Comp Codes": "EEE F215",
     "Tag": [
       "A3CDC"
     ],
@@ -955,18 +974,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE F347": {
-    "Comp Codes": 0,
-    "Tag": [
-      "A8EL",
-      " A3EL"
-    ],
-    "Course Name": "Communication Networks Laboratory ",
-    "Project": false,
-    "Units": 0
-  },
-  "BIO G544": {
-    "Comp Codes": 22123,
+  "22123": {
+    "Comp Codes": "BIO G544",
     "Tag": [
       "H101EL",
       "B1EL",
@@ -976,8 +985,8 @@
     "Project": false,
     "Units": 5
   },
-  "EEE F214": {
-    "Comp Codes": 21080,
+  "21080": {
+    "Comp Codes": "EEE F214",
     "Tag": [
       "A3CDC"
     ],
@@ -985,8 +994,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F241 ": {
-    "Comp Codes": 21238,
+  "21238": {
+    "Comp Codes": "EEE F241 ",
     "Tag": [
       "A3CDC"
     ],
@@ -994,8 +1003,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE F242": {
-    "Comp Codes": 21239,
+  "21239": {
+    "Comp Codes": "EEE F242",
     "Tag": [
       "A3CDC"
     ],
@@ -1003,8 +1012,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F243": {
-    "Comp Codes": 21240,
+  "21240": {
+    "Comp Codes": "EEE F243",
     "Tag": [
       "A3CDC"
     ],
@@ -1012,8 +1021,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F244": {
-    "Comp Codes": 21241,
+  "21241": {
+    "Comp Codes": "EEE F244",
     "Tag": [
       "A3CDC"
     ],
@@ -1021,8 +1030,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F311": {
-    "Comp Codes": 21242,
+  "21242": {
+    "Comp Codes": "EEE F311",
     "Tag": [
       "A3CDC",
       "A8EL"
@@ -1031,8 +1040,8 @@
     "Project": false,
     "Units": 4
   },
-  "MATH F212": {
-    "Comp Codes": 21122,
+  "21122": {
+    "Comp Codes": "MATH F212",
     "Tag": [
       "A3CDC",
       "B1EL",
@@ -1043,8 +1052,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F313": {
-    "Comp Codes": 21243,
+  "21243": {
+    "Comp Codes": "EEE F313",
     "Tag": [
       "A3CDC"
     ],
@@ -1052,8 +1061,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F341": {
-    "Comp Codes": 21245,
+  "21245": {
+    "Comp Codes": "EEE F341",
     "Tag": [
       "A3CDC"
     ],
@@ -1061,8 +1070,8 @@
     "Project": false,
     "Units": 4
   },
-  "BITS F312": {
-    "Comp Codes": 21334,
+  "21334": {
+    "Comp Codes": "BITS F312",
     "Tag": [
       "A3EL",
       "A7EL",
@@ -1073,8 +1082,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F213": {
-    "Comp Codes": 21092,
+  "21092": {
+    "Comp Codes": "CS F213",
     "Tag": [
       "A3EL",
       "A7CDC",
@@ -1084,8 +1093,8 @@
     "Project": false,
     "Units": 4
   },
-  "CS F342": {
-    "Comp Codes": 21317,
+  "21317": {
+    "Comp Codes": "CS F342",
     "Tag": [
       "A3EL",
       "A7CDC",
@@ -1095,8 +1104,8 @@
     "Project": false,
     "Units": 4
   },
-  "CS F372": {
-    "Comp Codes": 21315,
+  "21315": {
+    "Comp Codes": "CS F372",
     "Tag": [
       "A3EL",
       "A7CDC",
@@ -1106,18 +1115,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F451": {
-    "Comp Codes": 0,
-    "Tag": [
-      "A3EL",
-      "A8EL"
-    ],
-    "Course Name": "Combinatorial Mathematics",
-    "Project": false,
-    "Units": 3
-  },
-  "CS G553": {
-    "Comp Codes": 20918,
+  "20918": {
+    "Comp Codes": "CS G553",
     "Tag": [
       "A3EL",
       "A8EL",
@@ -1129,18 +1128,17 @@
     "Project": false,
     "Units": 5
   },
-  "ECE F312": {
-    "Comp Codes": 21894,
+  "21894": {
+    "Comp Codes": "ECE F312",
     "Tag": [
-      "A3EL",
-      "A8EL"
+      "A3EL"
     ],
     "Course Name": "EM Fields and Microwave Engineering Laboratory",
     "Project": false,
     "Units": 1
   },
-  "ECE F343": {
-    "Comp Codes": 21595,
+  "21595": {
+    "Comp Codes": "ECE F343",
     "Tag": [
       "A3EL"
     ],
@@ -1148,8 +1146,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE C417": {
-    "Comp Codes": 20537,
+  "20537": {
+    "Comp Codes": "EEE C417",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1158,28 +1156,26 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F245": {
-    "Comp Codes": 21889,
+  "21889": {
+    "Comp Codes": "EEE F245",
     "Tag": [
-      "A3EL",
-      "A8EL"
+      "A3EL"
     ],
     "Course Name": "Control System Laboratory ",
     "Project": false,
     "Units": 1
   },
-  "EEE F246": {
-    "Comp Codes": 21900,
+  "21900": {
+    "Comp Codes": "EEE F246",
     "Tag": [
-      "A3EL",
-      "A8EL"
+      "A3EL"
     ],
     "Course Name": "Electrical and Electronic Circuits Laboratory ",
     "Project": false,
     "Units": 2
   },
-  "EEE F266": {
-    "Comp Codes": 21657,
+  "21657": {
+    "Comp Codes": "EEE F266",
     "Tag": [
       "A3EL"
     ],
@@ -1187,8 +1183,8 @@
     "Project": true,
     "Units": 3
   },
-  "EEE F345": {
-    "Comp Codes": 21251,
+  "21251": {
+    "Comp Codes": "EEE F345",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1197,8 +1193,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F346": {
-    "Comp Codes": 21255,
+  "21255": {
+    "Comp Codes": "EEE F346",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1207,18 +1203,17 @@
     "Project": false,
     "Units": 2
   },
-  "EEE F348": {
-    "Comp Codes": 21902,
+  "21902": {
+    "Comp Codes": "EEE F348",
     "Tag": [
-      "A3EL",
-      "A8EL"
+      "A3EL"
     ],
     "Course Name": "FPGA Based System Design Laboratory ",
     "Project": false,
     "Units": 2
   },
-  "EEE F366": {
-    "Comp Codes": 21731,
+  "21731": {
+    "Comp Codes": "EEE F366",
     "Tag": [
       "A3EL"
     ],
@@ -1226,8 +1221,8 @@
     "Project": true,
     "Units": 3
   },
-  "EEE F367": {
-    "Comp Codes": 21742,
+  "21742": {
+    "Comp Codes": "EEE F367",
     "Tag": [
       "A3EL"
     ],
@@ -1235,8 +1230,8 @@
     "Project": true,
     "Units": 3
   },
-  "EEE F376": {
-    "Comp Codes": 21691,
+  "21691": {
+    "Comp Codes": "EEE F376",
     "Tag": [
       "A3EL"
     ],
@@ -1244,8 +1239,8 @@
     "Project": true,
     "Units": 3
   },
-  "EEE F377": {
-    "Comp Codes": 21758,
+  "21758": {
+    "Comp Codes": "EEE F377",
     "Tag": [
       "A3EL"
     ],
@@ -1253,8 +1248,8 @@
     "Project": true,
     "Units": 3
   },
-  "EEE F414": {
-    "Comp Codes": 21252,
+  "21252": {
+    "Comp Codes": "EEE F414",
     "Tag": [
       "A3EL"
     ],
@@ -1262,8 +1257,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F416": {
-    "Comp Codes": 21260,
+  "21260": {
+    "Comp Codes": "EEE F416",
     "Tag": [
       "A3EL"
     ],
@@ -1271,18 +1266,17 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F417": {
-    "Comp Codes": 21886,
+  "21886": {
+    "Comp Codes": "EEE F417",
     "Tag": [
-      "A3EL",
-      "A8EL"
+      "A3EL"
     ],
     "Course Name": "Computer based Control Systems",
     "Project": false,
     "Units": 3
   },
-  "EEE F418": {
-    "Comp Codes": 21261,
+  "21261": {
+    "Comp Codes": "EEE F418",
     "Tag": [
       "A3EL"
     ],
@@ -1290,8 +1284,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F422": {
-    "Comp Codes": 21254,
+  "21254": {
+    "Comp Codes": "EEE F422",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1300,8 +1294,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F425": {
-    "Comp Codes": 21258,
+  "21258": {
+    "Comp Codes": "EEE F425",
     "Tag": [
       "A3EL"
     ],
@@ -1309,8 +1303,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F426": {
-    "Comp Codes": 21259,
+  "21259": {
+    "Comp Codes": "EEE F426",
     "Tag": [
       "A3EL",
       "A8EL",
@@ -1320,8 +1314,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F427": {
-    "Comp Codes": 21262,
+  "21262": {
+    "Comp Codes": "EEE F427",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1330,8 +1324,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F431": {
-    "Comp Codes": 21250,
+  "21250": {
+    "Comp Codes": "EEE F431",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1340,8 +1334,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F432": {
-    "Comp Codes": 21247,
+  "21247": {
+    "Comp Codes": "EEE F432",
     "Tag": [
       "A3EL"
     ],
@@ -1349,8 +1343,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F433": {
-    "Comp Codes": 21253,
+  "21253": {
+    "Comp Codes": "EEE F433",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1359,8 +1353,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F434": {
-    "Comp Codes": 21256,
+  "21256": {
+    "Comp Codes": "EEE F434",
     "Tag": [
       "A3EL",
       "A8EL",
@@ -1371,8 +1365,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE F435": {
-    "Comp Codes": 21257,
+  "21257": {
+    "Comp Codes": "EEE F435",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1381,8 +1375,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F472": {
-    "Comp Codes": 21249,
+  "21249": {
+    "Comp Codes": "EEE F472",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1391,8 +1385,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F473": {
-    "Comp Codes": 21854,
+  "21854": {
+    "Comp Codes": "EEE F473",
     "Tag": [
       "A3EL"
     ],
@@ -1400,8 +1394,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE F474": {
-    "Comp Codes": 21855,
+  "21855": {
+    "Comp Codes": "EEE F474",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1410,8 +1404,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE F475": {
-    "Comp Codes": 21870,
+  "21870": {
+    "Comp Codes": "EEE F475",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1420,8 +1414,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE F476": {
-    "Comp Codes": 21871,
+  "21871": {
+    "Comp Codes": "EEE F476",
     "Tag": [
       "A3EL",
       "A8EL"
@@ -1430,28 +1424,26 @@
     "Project": false,
     "Units": 4
   },
-  "EEE F477": {
-    "Comp Codes": 21895,
+  "21895": {
+    "Comp Codes": "EEE F477",
     "Tag": [
-      "A3EL",
-      "A8EL"
+      "A3EL"
     ],
     "Course Name": "Modeling of Field-Effect NanoDevices  ",
     "Project": false,
     "Units": 3
   },
-  "EEE F478": {
-    "Comp Codes": 21901,
+  "21901": {
+    "Comp Codes": "EEE F478",
     "Tag": [
-      "A3EL",
-      "A8EL"
+      "A3EL"
     ],
     "Course Name": "Power Systems Laboratory ",
     "Project": false,
     "Units": 2
   },
-  "EEE F491": {
-    "Comp Codes": 21716,
+  "21716": {
+    "Comp Codes": "EEE F491",
     "Tag": [
       "A3EL"
     ],
@@ -1459,8 +1451,8 @@
     "Project": true,
     "Units": 3
   },
-  "EEE G512": {
-    "Comp Codes": 20324,
+  "20324": {
+    "Comp Codes": "EEE G512",
     "Tag": [
       "A3EL",
       "A8EL",
@@ -1471,8 +1463,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE G626": {
-    "Comp Codes": 20921,
+  "20921": {
+    "Comp Codes": "EEE G626",
     "Tag": [
       "A3EL",
       "A8EL",
@@ -1482,8 +1474,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE F342": {
-    "Comp Codes": 21246,
+  "21246": {
+    "Comp Codes": "EEE F342",
     "Tag": [
       "A3CDC"
     ],
@@ -1491,8 +1483,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE F312": {
-    "Comp Codes": 21244,
+  "21244": {
+    "Comp Codes": "EEE F312",
     "Tag": [
       "A3CDC"
     ],
@@ -1500,8 +1492,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F213": {
-    "Comp Codes": 21081,
+  "21081": {
+    "Comp Codes": "ME F213",
     "Tag": [
       "A4CDC"
     ],
@@ -1509,8 +1501,8 @@
     "Project": false,
     "Units": 2
   },
-  "ME F212": {
-    "Comp Codes": 21082,
+  "21082": {
+    "Comp Codes": "ME F212",
     "Tag": [
       "A4CDC"
     ],
@@ -1518,8 +1510,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F211": {
-    "Comp Codes": 21083,
+  "21083": {
+    "Comp Codes": "ME F211",
     "Tag": [
       "A4CDC"
     ],
@@ -1527,8 +1519,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F214": {
-    "Comp Codes": 21084,
+  "21084": {
+    "Comp Codes": "ME F214",
     "Tag": [
       "A4CDC"
     ],
@@ -1536,8 +1528,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F215": {
-    "Comp Codes": 21085,
+  "21085": {
+    "Comp Codes": "ME F215",
     "Tag": [
       "A4CDC"
     ],
@@ -1545,8 +1537,8 @@
     "Project": false,
     "Units": 2
   },
-  "ME F241": {
-    "Comp Codes": 21263,
+  "21263": {
+    "Comp Codes": "ME F241",
     "Tag": [
       "A4CDC"
     ],
@@ -1554,8 +1546,8 @@
     "Project": false,
     "Units": 4
   },
-  "ME F242": {
-    "Comp Codes": 21264,
+  "21264": {
+    "Comp Codes": "ME F242",
     "Tag": [
       "A4CDC"
     ],
@@ -1563,8 +1555,8 @@
     "Project": false,
     "Units": 2
   },
-  "ME F243": {
-    "Comp Codes": 21265,
+  "21265": {
+    "Comp Codes": "ME F243",
     "Tag": [
       "A4CDC"
     ],
@@ -1572,8 +1564,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F244": {
-    "Comp Codes": 21266,
+  "21266": {
+    "Comp Codes": "ME F244",
     "Tag": [
       "A4CDC"
     ],
@@ -1581,8 +1573,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F311": {
-    "Comp Codes": 21267,
+  "21267": {
+    "Comp Codes": "ME F311",
     "Tag": [
       "A4CDC"
     ],
@@ -1590,8 +1582,8 @@
     "Project": false,
     "Units": 4
   },
-  "ME F312": {
-    "Comp Codes": 21268,
+  "21268": {
+    "Comp Codes": "ME F312",
     "Tag": [
       "A4CDC"
     ],
@@ -1599,8 +1591,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F313": {
-    "Comp Codes": 21269,
+  "21269": {
+    "Comp Codes": "ME F313",
     "Tag": [
       "A4CDC"
     ],
@@ -1608,8 +1600,8 @@
     "Project": false,
     "Units": 4
   },
-  "ME F341": {
-    "Comp Codes": 21270,
+  "21270": {
+    "Comp Codes": "ME F341",
     "Tag": [
       "A4CDC"
     ],
@@ -1617,8 +1609,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F343": {
-    "Comp Codes": 21271,
+  "21271": {
+    "Comp Codes": "ME F343",
     "Tag": [
       "A4CDC"
     ],
@@ -1626,8 +1618,8 @@
     "Project": false,
     "Units": 3
   },
-  "DE G513": {
-    "Comp Codes": 22116,
+  "22116": {
+    "Comp Codes": "DE G513",
     "Tag": [
       "A4EL"
     ],
@@ -1635,8 +1627,8 @@
     "Project": false,
     "Units": 5
   },
-  "DE G514": {
-    "Comp Codes": 20436,
+  "20436": {
+    "Comp Codes": "DE G514",
     "Tag": [
       "A4EL"
     ],
@@ -1644,8 +1636,8 @@
     "Project": false,
     "Units": 5
   },
-  "DE G531": {
-    "Comp Codes": 20362,
+  "20362": {
+    "Comp Codes": "DE G531",
     "Tag": [
       "A4EL"
     ],
@@ -1653,8 +1645,8 @@
     "Project": false,
     "Units": 5
   },
-  "ECON F411": {
-    "Comp Codes": 21550,
+  "21550": {
+    "Comp Codes": "ECON F411",
     "Tag": [
       "A4EL",
       "B3EL"
@@ -1663,8 +1655,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F266": {
-    "Comp Codes": 21663,
+  "21663": {
+    "Comp Codes": "ME F266",
     "Tag": [
       "A4EL"
     ],
@@ -1672,8 +1664,8 @@
     "Project": true,
     "Units": 3
   },
-  "ME F366": {
-    "Comp Codes": 21680,
+  "21680": {
+    "Comp Codes": "ME F366",
     "Tag": [
       "A4EL"
     ],
@@ -1681,8 +1673,8 @@
     "Project": true,
     "Units": 3
   },
-  "ME F367": {
-    "Comp Codes": 21748,
+  "21748": {
+    "Comp Codes": "ME F367",
     "Tag": [
       "A4EL"
     ],
@@ -1690,8 +1682,8 @@
     "Project": true,
     "Units": 3
   },
-  "ME F376": {
-    "Comp Codes": 21697,
+  "21697": {
+    "Comp Codes": "ME F376",
     "Tag": [
       "A4EL"
     ],
@@ -1699,8 +1691,8 @@
     "Project": true,
     "Units": 3
   },
-  "ME F377": {
-    "Comp Codes": 21764,
+  "21764": {
+    "Comp Codes": "ME F377",
     "Tag": [
       "A4EL"
     ],
@@ -1708,8 +1700,8 @@
     "Project": true,
     "Units": 3
   },
-  "ME F411": {
-    "Comp Codes": 21274,
+  "21274": {
+    "Comp Codes": "ME F411",
     "Tag": [
       "A4EL"
     ],
@@ -1717,8 +1709,8 @@
     "Project": false,
     "Units": 4
   },
-  "ME F412": {
-    "Comp Codes": 21620,
+  "21620": {
+    "Comp Codes": "ME F412",
     "Tag": [
       "A4EL"
     ],
@@ -1726,8 +1718,8 @@
     "Project": false,
     "Units": 1
   },
-  "ME F413": {
-    "Comp Codes": 21275,
+  "21275": {
+    "Comp Codes": "ME F413",
     "Tag": [
       "A4EL"
     ],
@@ -1735,8 +1727,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F415": {
-    "Comp Codes": 21277,
+  "21277": {
+    "Comp Codes": "ME F415",
     "Tag": [
       "A4EL"
     ],
@@ -1744,8 +1736,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F416": {
-    "Comp Codes": 21278,
+  "21278": {
+    "Comp Codes": "ME F416",
     "Tag": [
       "A4EL"
     ],
@@ -1753,8 +1745,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F417": {
-    "Comp Codes": 21279,
+  "21279": {
+    "Comp Codes": "ME F417",
     "Tag": [
       "A4EL"
     ],
@@ -1762,8 +1754,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F418": {
-    "Comp Codes": 21280,
+  "21280": {
+    "Comp Codes": "ME F418",
     "Tag": [
       "A4EL"
     ],
@@ -1771,8 +1763,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F419": {
-    "Comp Codes": 21276,
+  "21276": {
+    "Comp Codes": "ME F419",
     "Tag": [
       "A4EL"
     ],
@@ -1780,8 +1772,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F420": {
-    "Comp Codes": 21281,
+  "21281": {
+    "Comp Codes": "ME F420",
     "Tag": [
       "A4EL"
     ],
@@ -1789,8 +1781,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F423": {
-    "Comp Codes": 21810,
+  "21810": {
+    "Comp Codes": "ME F423",
     "Tag": [
       "A4EL"
     ],
@@ -1798,8 +1790,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F432": {
-    "Comp Codes": 21282,
+  "21282": {
+    "Comp Codes": "ME F432",
     "Tag": [
       "A4EL"
     ],
@@ -1807,8 +1799,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F433": {
-    "Comp Codes": 21778,
+  "21778": {
+    "Comp Codes": "ME F433",
     "Tag": [
       "A4EL"
     ],
@@ -1816,8 +1808,8 @@
     "Project": false,
     "Units": 4
   },
-  "ME F441": {
-    "Comp Codes": 21283,
+  "21283": {
+    "Comp Codes": "ME F441",
     "Tag": [
       "A4EL"
     ],
@@ -1825,8 +1817,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F443": {
-    "Comp Codes": 21284,
+  "21284": {
+    "Comp Codes": "ME F443",
     "Tag": [
       "A4EL"
     ],
@@ -1834,8 +1826,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F451": {
-    "Comp Codes": 21285,
+  "21285": {
+    "Comp Codes": "ME F451",
     "Tag": [
       "A4EL"
     ],
@@ -1843,8 +1835,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F452": {
-    "Comp Codes": 21286,
+  "21286": {
+    "Comp Codes": "ME F452",
     "Tag": [
       "A4EL"
     ],
@@ -1852,8 +1844,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F461": {
-    "Comp Codes": 21287,
+  "21287": {
+    "Comp Codes": "ME F461",
     "Tag": [
       "A4EL"
     ],
@@ -1861,8 +1853,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F472": {
-    "Comp Codes": 21288,
+  "21288": {
+    "Comp Codes": "ME F472",
     "Tag": [
       "A4EL"
     ],
@@ -1870,8 +1862,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F482": {
-    "Comp Codes": 21866,
+  "21866": {
+    "Comp Codes": "ME F482",
     "Tag": [
       "A4EL"
     ],
@@ -1879,8 +1871,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F483": {
-    "Comp Codes": 21867,
+  "21867": {
+    "Comp Codes": "ME F483",
     "Tag": [
       "A4EL"
     ],
@@ -1888,8 +1880,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F484": {
-    "Comp Codes": 21868,
+  "21868": {
+    "Comp Codes": "ME F484",
     "Tag": [
       "A4EL"
     ],
@@ -1897,8 +1889,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F485": {
-    "Comp Codes": 21869,
+  "21869": {
+    "Comp Codes": "ME F485",
     "Tag": [
       "A4EL"
     ],
@@ -1906,8 +1898,8 @@
     "Project": false,
     "Units": 3
   },
-  "ME F491": {
-    "Comp Codes": 21290,
+  "21290": {
+    "Comp Codes": "ME F491",
     "Tag": [
       "A4EL"
     ],
@@ -1915,8 +1907,8 @@
     "Project": true,
     "Units": 3
   },
-  "ME G511": {
-    "Comp Codes": 20741,
+  "20741": {
+    "Comp Codes": "ME G511",
     "Tag": [
       "A4EL"
     ],
@@ -1924,8 +1916,8 @@
     "Project": false,
     "Units": 5
   },
-  "ME G512": {
-    "Comp Codes": 20322,
+  "20322": {
+    "Comp Codes": "ME G512",
     "Tag": [
       "A4EL"
     ],
@@ -1933,8 +1925,8 @@
     "Project": false,
     "Units": 5
   },
-  "ME G514": {
-    "Comp Codes": 22060,
+  "22060": {
+    "Comp Codes": "ME G514",
     "Tag": [
       "A4EL"
     ],
@@ -1942,8 +1934,8 @@
     "Project": false,
     "Units": 5
   },
-  "ME G515": {
-    "Comp Codes": 20410,
+  "20410": {
+    "Comp Codes": "ME G515",
     "Tag": [
       "A4EL"
     ],
@@ -1951,8 +1943,8 @@
     "Project": false,
     "Units": 5
   },
-  "ME G533": {
-    "Comp Codes": 22098,
+  "22098": {
+    "Comp Codes": "ME G533",
     "Tag": [
       "A4EL"
     ],
@@ -1960,8 +1952,8 @@
     "Project": false,
     "Units": 5
   },
-  "ME G534": {
-    "Comp Codes": 22118,
+  "22118": {
+    "Comp Codes": "ME G534",
     "Tag": [
       "A4EL"
     ],
@@ -1969,8 +1961,8 @@
     "Project": false,
     "Units": 5
   },
-  "MF F421": {
-    "Comp Codes": 21418,
+  "21418": {
+    "Comp Codes": "MF F421",
     "Tag": [
       "A4EL"
     ],
@@ -1978,8 +1970,8 @@
     "Project": false,
     "Units": 4
   },
-  "MF F485": {
-    "Comp Codes": 21884,
+  "21884": {
+    "Comp Codes": "MF F485",
     "Tag": [
       "A4EL"
     ],
@@ -1987,8 +1979,8 @@
     "Project": false,
     "Units": 3
   },
-  "MST G522": {
-    "Comp Codes": 22066,
+  "22066": {
+    "Comp Codes": "MST G522",
     "Tag": [
       "A4EL"
     ],
@@ -1996,8 +1988,8 @@
     "Project": false,
     "Units": 5
   },
-  "ME F342": {
-    "Comp Codes": 21272,
+  "21272": {
+    "Comp Codes": "ME F342",
     "Tag": [
       "A4CDC"
     ],
@@ -2005,8 +1997,8 @@
     "Project": false,
     "Units": 4
   },
-  "ME F344": {
-    "Comp Codes": 21273,
+  "21273": {
+    "Comp Codes": "ME F344",
     "Tag": [
       "A4CDC"
     ],
@@ -2014,8 +2006,8 @@
     "Project": false,
     "Units": 2
   },
-  "CS F214": {
-    "Comp Codes": 21090,
+  "21090": {
+    "Comp Codes": "CS F214",
     "Tag": [
       "A7CDC"
     ],
@@ -2023,8 +2015,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F222": {
-    "Comp Codes": 21091,
+  "21091": {
+    "Comp Codes": "CS F222",
     "Tag": [
       "A7CDC"
     ],
@@ -2032,8 +2024,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F215": {
-    "Comp Codes": 21093,
+  "21093": {
+    "Comp Codes": "CS F215",
     "Tag": [
       "A7CDC"
     ],
@@ -2041,8 +2033,8 @@
     "Project": false,
     "Units": 4
   },
-  "CS F211": {
-    "Comp Codes": 21094,
+  "21094": {
+    "Comp Codes": "CS F211",
     "Tag": [
       "A7CDC"
     ],
@@ -2050,8 +2042,8 @@
     "Project": false,
     "Units": 4
   },
-  "CS F351": {
-    "Comp Codes": 21316,
+  "21316": {
+    "Comp Codes": "CS F351",
     "Tag": [
       "A7CDC"
     ],
@@ -2059,17 +2051,17 @@
     "Project": false,
     "Units": 3
   },
-  "CS F301": {
-    "Comp Codes": 21315,
+  "21314": {
+    "Comp Codes": "CS F342",
     "Tag": [
       "A7CDC"
     ],
-    "Course Name": "PRINCIPLES OF PROGRAMMING LANGUAGES",
+    "Course Name": "COMPUTER ARCHITECTURE",
     "Project": false,
-    "Units": 2
+    "Units": 4
   },
-  "CS F363": {
-    "Comp Codes": 21318,
+  "21318": {
+    "Comp Codes": "CS F363",
     "Tag": [
       "A7CDC"
     ],
@@ -2077,28 +2069,28 @@
     "Project": false,
     "Units": 3
   },
-  "CS F364": {
-    "Comp Codes": 21320,
+  "21320": {
+    "Comp Codes": "CS F364",
     "Tag": [
-      "A7CDC",
-      "B4EL",
-      "C6EL"
+      "A7CDC"
     ],
     "Course Name": "DESIGN & ANALYSIS OF ALGORITHMS",
     "Project": false,
     "Units": 3
   },
-  "CS F303": {
-    "Comp Codes": 21319,
+  "21319": {
+    "Comp Codes": "CS F303",
     "Tag": [
-      "A7CDC"
+      "A7CDC",
+      "B4EL",
+      "C6EL"
     ],
     "Course Name": "COMPUTER NETWORKS",
     "Project": false,
     "Units": 4
   },
-  "BITS F311": {
-    "Comp Codes": 21332,
+  "21332": {
+    "Comp Codes": "BITS F311",
     "Tag": [
       "A7EL",
       "C6EL"
@@ -2107,8 +2099,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F343": {
-    "Comp Codes": 21335,
+  "21335": {
+    "Comp Codes": "BITS F343",
     "Tag": [
       "A7EL",
       "B4EL",
@@ -2118,8 +2110,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F364": {
-    "Comp Codes": 21336,
+  "21336": {
+    "Comp Codes": "BITS F364",
     "Tag": [
       "A7EL",
       "C6EL"
@@ -2128,8 +2120,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F386": {
-    "Comp Codes": 21337,
+  "21337": {
+    "Comp Codes": "BITS F386",
     "Tag": [
       "A7EL",
       "B5EL",
@@ -2139,8 +2131,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F463": {
-    "Comp Codes": 21338,
+  "21338": {
+    "Comp Codes": "BITS F463",
     "Tag": [
       "A7EL",
       "B4EL",
@@ -2150,8 +2142,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F464": {
-    "Comp Codes": 21339,
+  "21339": {
+    "Comp Codes": "BITS F464",
     "Tag": [
       "A7EL",
       "C6EL",
@@ -2161,8 +2153,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F465": {
-    "Comp Codes": 21638,
+  "21638": {
+    "Comp Codes": "BITS F465",
     "Tag": [
       "A7EL",
       "C6EL"
@@ -2171,8 +2163,8 @@
     "Project": false,
     "Units": 4
   },
-  "BITS F466": {
-    "Comp Codes": 21640,
+  "21640": {
+    "Comp Codes": "BITS F466",
     "Tag": [
       "A7EL",
       "C6EL"
@@ -2181,8 +2173,8 @@
     "Project": false,
     "Units": 4
   },
-  "CS F266": {
-    "Comp Codes": 21655,
+  "21655": {
+    "Comp Codes": "CS F266",
     "Tag": [
       "A7EL"
     ],
@@ -2190,8 +2182,8 @@
     "Project": true,
     "Units": 3
   },
-  "CS F314": {
-    "Comp Codes": 21321,
+  "21321": {
+    "Comp Codes": "CS F314",
     "Tag": [
       "A7EL",
       "C6EL"
@@ -2200,8 +2192,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F366": {
-    "Comp Codes": 21670,
+  "21670": {
+    "Comp Codes": "CS F366",
     "Tag": [
       "A7EL"
     ],
@@ -2209,8 +2201,8 @@
     "Project": true,
     "Units": 3
   },
-  "CS F367": {
-    "Comp Codes": 21740,
+  "21740": {
+    "Comp Codes": "CS F367",
     "Tag": [
       "A7EL"
     ],
@@ -2218,8 +2210,8 @@
     "Project": true,
     "Units": 3
   },
-  "CS F376": {
-    "Comp Codes": 21689,
+  "21689": {
+    "Comp Codes": "CS F376",
     "Tag": [
       "A7EL"
     ],
@@ -2227,8 +2219,8 @@
     "Project": true,
     "Units": 3
   },
-  "CS F377": {
-    "Comp Codes": 21756,
+  "21756": {
+    "Comp Codes": "CS F377",
     "Tag": [
       "A7EL"
     ],
@@ -2236,8 +2228,8 @@
     "Project": true,
     "Units": 3
   },
-  "CS F401": {
-    "Comp Codes": 21327,
+  "21327": {
+    "Comp Codes": "CS F401",
     "Tag": [
       "A7EL",
       "C6EL",
@@ -2247,8 +2239,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F407": {
-    "Comp Codes": 21333,
+  "21333": {
+    "Comp Codes": "CS F407",
     "Tag": [
       "A7EL",
       "C6EL",
@@ -2258,8 +2250,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F413": {
-    "Comp Codes": 21328,
+  "21328": {
+    "Comp Codes": "CS F413",
     "Tag": [
       "A7EL",
       "C6EL",
@@ -2269,8 +2261,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F415": {
-    "Comp Codes": 21322,
+  "21322": {
+    "Comp Codes": "CS F415",
     "Tag": [
       "A7EL",
       "C6EL",
@@ -2280,8 +2272,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F422": {
-    "Comp Codes": 21323,
+  "21323": {
+    "Comp Codes": "CS F422",
     "Tag": [
       "A7EL",
       "C6EL",
@@ -2291,8 +2283,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F424": {
-    "Comp Codes": 21324,
+  "21324": {
+    "Comp Codes": "CS F424",
     "Tag": [
       "A7EL",
       "C6EL"
@@ -2301,8 +2293,8 @@
     "Project": false,
     "Units": 4
   },
-  "CS F441": {
-    "Comp Codes": 21325,
+  "21325": {
+    "Comp Codes": "CS F441",
     "Tag": [
       "A7EL"
     ],
@@ -2310,8 +2302,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F444": {
-    "Comp Codes": 21883,
+  "21883": {
+    "Comp Codes": "CS F444",
     "Tag": [
       "A7EL"
     ],
@@ -2319,8 +2311,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F446": {
-    "Comp Codes": 21326,
+  "21326": {
+    "Comp Codes": "CS F446",
     "Tag": [
       "A7EL",
       "C6EL",
@@ -2330,17 +2322,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F468": {
-    "Comp Codes": 0,
-    "Tag": [
-      "A7EL"
-    ],
-    "Course Name": "Information Security\nProject\n",
-    "Project": false,
-    "Units": 3
-  },
-  "CS F469": {
-    "Comp Codes": 21857,
+  "21857": {
+    "Comp Codes": "CS F469",
     "Tag": [
       "A7EL",
       "C6EL",
@@ -2350,8 +2333,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F491": {
-    "Comp Codes": 21714,
+  "21714": {
+    "Comp Codes": "CS F491",
     "Tag": [
       "A7EL"
     ],
@@ -2359,8 +2342,8 @@
     "Project": true,
     "Units": 3
   },
-  "IS F311": {
-    "Comp Codes": 21532,
+  "21532": {
+    "Comp Codes": "IS F311",
     "Tag": [
       "A7EL"
     ],
@@ -2368,8 +2351,8 @@
     "Project": false,
     "Units": 3
   },
-  "IS F341": {
-    "Comp Codes": 21529,
+  "21529": {
+    "Comp Codes": "IS F341",
     "Tag": [
       "A7EL"
     ],
@@ -2377,8 +2360,8 @@
     "Project": false,
     "Units": 4
   },
-  "IS F462": {
-    "Comp Codes": 21331,
+  "21331": {
+    "Comp Codes": "IS F462",
     "Tag": [
       "A7EL",
       "C6EL"
@@ -2387,8 +2370,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F441": {
-    "Comp Codes": 21330,
+  "21330": {
+    "Comp Codes": "MATH F441",
     "Tag": [
       "A7EL",
       "B4EL"
@@ -2397,8 +2380,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH C441": {
-    "Comp Codes": 20881,
+  "20881": {
+    "Comp Codes": "MATH C441",
     "Tag": [
       "A7EL",
       "C6EL"
@@ -2407,8 +2390,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F231": {
-    "Comp Codes": 21340,
+  "21340": {
+    "Comp Codes": "MATH F231",
     "Tag": [
       "A7EL",
       "B4EL",
@@ -2418,8 +2401,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F421": {
-    "Comp Codes": 21480,
+  "21480": {
+    "Comp Codes": "MATH F421",
     "Tag": [
       "A7EL",
       "B4EL",
@@ -2429,21 +2412,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIOF111": {
-    "Comp Codes": 21002,
-    "Tag": [
-      "A8CDC",
-      "B1CDC",
-      "B3CDC",
-      "B4CDC",
-      "B5CDC"
-    ],
-    "Course Name": "GENERAL BIOLOGY",
-    "Project": false,
-    "Units": 3
-  },
-  "INSTR F211": {
-    "Comp Codes": 21096,
+  "21096": {
+    "Comp Codes": "INSTR F211",
     "Tag": [
       "A8CDC"
     ],
@@ -2451,8 +2421,8 @@
     "Project": false,
     "Units": 4
   },
-  "INSTR F212": {
-    "Comp Codes": 21097,
+  "21097": {
+    "Comp Codes": "INSTR F212",
     "Tag": [
       "A8CDC"
     ],
@@ -2460,8 +2430,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F215": {
-    "Comp Codes": 21098,
+  "21098": {
+    "Comp Codes": "INSTR F215",
     "Tag": [
       "A8CDC"
     ],
@@ -2469,8 +2439,8 @@
     "Project": false,
     "Units": 4
   },
-  "INSTR F214": {
-    "Comp Codes": 21099,
+  "21099": {
+    "Comp Codes": "INSTR F214",
     "Tag": [
       "A8CDC"
     ],
@@ -2478,8 +2448,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F311": {
-    "Comp Codes": 21345,
+  "21345": {
+    "Comp Codes": "INSTR F311",
     "Tag": [
       "A8CDC"
     ],
@@ -2487,8 +2457,8 @@
     "Project": false,
     "Units": 4
   },
-  "INSTR F312": {
-    "Comp Codes": 21346,
+  "21346": {
+    "Comp Codes": "INSTR F312",
     "Tag": [
       "A8CDC"
     ],
@@ -2496,8 +2466,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F313": {
-    "Comp Codes": 21347,
+  "21347": {
+    "Comp Codes": "INSTR F313",
     "Tag": [
       "A8CDC"
     ],
@@ -2505,8 +2475,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F241": {
-    "Comp Codes": 21341,
+  "21341": {
+    "Comp Codes": "INSTR F241",
     "Tag": [
       "A8CDC"
     ],
@@ -2514,8 +2484,8 @@
     "Project": false,
     "Units": 4
   },
-  "INSTR F242": {
-    "Comp Codes": 21342,
+  "21342": {
+    "Comp Codes": "INSTR F242",
     "Tag": [
       "A8CDC"
     ],
@@ -2523,8 +2493,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F243": {
-    "Comp Codes": 21343,
+  "21343": {
+    "Comp Codes": "INSTR F243",
     "Tag": [
       "A8CDC"
     ],
@@ -2532,8 +2502,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F244": {
-    "Comp Codes": 21344,
+  "21344": {
+    "Comp Codes": "INSTR F244",
     "Tag": [
       "A8CDC"
     ],
@@ -2541,8 +2511,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F341 ": {
-    "Comp Codes": 21348,
+  "21348": {
+    "Comp Codes": "INSTR F341 ",
     "Tag": [
       "A8CDC"
     ],
@@ -2550,8 +2520,8 @@
     "Project": false,
     "Units": 4
   },
-  "INSTR F342": {
-    "Comp Codes": 21349,
+  "21349": {
+    "Comp Codes": "INSTR F342",
     "Tag": [
       "A8CDC"
     ],
@@ -2559,8 +2529,8 @@
     "Project": false,
     "Units": 4
   },
-  "INSTR F343": {
-    "Comp Codes": 21350,
+  "21350": {
+    "Comp Codes": "INSTR F343",
     "Tag": [
       "A8CDC"
     ],
@@ -2568,8 +2538,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS F241": {
-    "Comp Codes": 21313,
+  "21313": {
+    "Comp Codes": "CS F241",
     "Tag": [
       "A7CDC"
     ],
@@ -2577,8 +2547,8 @@
     "Project": false,
     "Units": 4
   },
-  "INSTR F266": {
-    "Comp Codes": 21660,
+  "21660": {
+    "Comp Codes": "INSTR F266",
     "Tag": [
       "A8EL"
     ],
@@ -2586,8 +2556,8 @@
     "Project": true,
     "Units": 3
   },
-  "INSTR F366": {
-    "Comp Codes": 21734,
+  "21734": {
+    "Comp Codes": "INSTR F366",
     "Tag": [
       "A8EL"
     ],
@@ -2595,8 +2565,8 @@
     "Project": true,
     "Units": 3
   },
-  "INSTR F367": {
-    "Comp Codes": 21745,
+  "21745": {
+    "Comp Codes": "INSTR F367",
     "Tag": [
       "A8EL"
     ],
@@ -2604,8 +2574,8 @@
     "Project": true,
     "Units": 3
   },
-  "INSTR F376": {
-    "Comp Codes": 21694,
+  "21694": {
+    "Comp Codes": "INSTR F376",
     "Tag": [
       "A8EL"
     ],
@@ -2613,8 +2583,8 @@
     "Project": true,
     "Units": 3
   },
-  "INSTR F377": {
-    "Comp Codes": 21761,
+  "21761": {
+    "Comp Codes": "INSTR F377",
     "Tag": [
       "A8EL"
     ],
@@ -2622,8 +2592,8 @@
     "Project": true,
     "Units": 3
   },
-  "INSTR F412": {
-    "Comp Codes": 21353,
+  "21353": {
+    "Comp Codes": "INSTR F412",
     "Tag": [
       "A8EL"
     ],
@@ -2631,8 +2601,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F413": {
-    "Comp Codes": 21354,
+  "21354": {
+    "Comp Codes": "INSTR F413",
     "Tag": [
       "A8EL"
     ],
@@ -2640,8 +2610,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F414": {
-    "Comp Codes": 21352,
+  "21352": {
+    "Comp Codes": "INSTR F414",
     "Tag": [
       "A8EL"
     ],
@@ -2649,8 +2619,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F415": {
-    "Comp Codes": 21355,
+  "21355": {
+    "Comp Codes": "INSTR F415",
     "Tag": [
       "A8EL"
     ],
@@ -2658,8 +2628,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F419": {
-    "Comp Codes": 21356,
+  "21356": {
+    "Comp Codes": "INSTR F419",
     "Tag": [
       "A8EL"
     ],
@@ -2667,8 +2637,8 @@
     "Project": false,
     "Units": 4
   },
-  "INSTR F420": {
-    "Comp Codes": 21357,
+  "21357": {
+    "Comp Codes": "INSTR F420",
     "Tag": [
       "A8EL"
     ],
@@ -2676,8 +2646,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F422": {
-    "Comp Codes": 21358,
+  "21358": {
+    "Comp Codes": "INSTR F422",
     "Tag": [
       "A8EL"
     ],
@@ -2685,8 +2655,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F432": {
-    "Comp Codes": 21351,
+  "21351": {
+    "Comp Codes": "INSTR F432",
     "Tag": [
       "A8EL"
     ],
@@ -2694,8 +2664,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F473": {
-    "Comp Codes": 21856,
+  "21856": {
+    "Comp Codes": "INSTR F473",
     "Tag": [
       "A8EL"
     ],
@@ -2703,8 +2673,8 @@
     "Project": false,
     "Units": 3
   },
-  "INSTR F491": {
-    "Comp Codes": 21719,
+  "21719": {
+    "Comp Codes": "INSTR F491",
     "Tag": [
       "A8EL"
     ],
@@ -2712,8 +2682,8 @@
     "Project": true,
     "Units": 3
   },
-  "BIO C441": {
-    "Comp Codes": 20001,
+  "20001": {
+    "Comp Codes": "BIO C441",
     "Tag": [
       "B1EL"
     ],
@@ -2721,8 +2691,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F231": {
-    "Comp Codes": 21779,
+  "21779": {
+    "Comp Codes": "BIO F231",
     "Tag": [
       "B1EL"
     ],
@@ -2730,8 +2700,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F266": {
-    "Comp Codes": 21651,
+  "21651": {
+    "Comp Codes": "BIO F266",
     "Tag": [
       "B1EL"
     ],
@@ -2739,8 +2709,8 @@
     "Project": true,
     "Units": 3
   },
-  "BIO F314": {
-    "Comp Codes": 21454,
+  "21454": {
+    "Comp Codes": "BIO F314",
     "Tag": [
       "B1EL"
     ],
@@ -2748,8 +2718,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F352": {
-    "Comp Codes": 21439,
+  "21439": {
+    "Comp Codes": "BIO F352",
     "Tag": [
       "B1EL"
     ],
@@ -2757,8 +2727,8 @@
     "Project": false,
     "Units": 4
   },
-  "BIO F366": {
-    "Comp Codes": 21650,
+  "21650": {
+    "Comp Codes": "BIO F366",
     "Tag": [
       "B1EL"
     ],
@@ -2766,8 +2736,8 @@
     "Project": true,
     "Units": 3
   },
-  "BIO F367": {
-    "Comp Codes": 21736,
+  "21736": {
+    "Comp Codes": "BIO F367",
     "Tag": [
       "B1EL"
     ],
@@ -2775,8 +2745,8 @@
     "Project": true,
     "Units": 3
   },
-  "BIO F376": {
-    "Comp Codes": 21685,
+  "21685": {
+    "Comp Codes": "BIO F376",
     "Tag": [
       "B1EL"
     ],
@@ -2784,8 +2754,8 @@
     "Project": true,
     "Units": 3
   },
-  "BIO F377": {
-    "Comp Codes": 21752,
+  "21752": {
+    "Comp Codes": "BIO F377",
     "Tag": [
       "B1EL"
     ],
@@ -2793,8 +2763,8 @@
     "Project": true,
     "Units": 3
   },
-  "BIO F411": {
-    "Comp Codes": 21618,
+  "21618": {
+    "Comp Codes": "BIO F411",
     "Tag": [
       "B1EL"
     ],
@@ -2802,8 +2772,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F413": {
-    "Comp Codes": 21440,
+  "21440": {
+    "Comp Codes": "BIO F413",
     "Tag": [
       "B1EL"
     ],
@@ -2811,8 +2781,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F417": {
-    "Comp Codes": 21433,
+  "21433": {
+    "Comp Codes": "BIO F417",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -2821,8 +2791,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F418": {
-    "Comp Codes": 21434,
+  "21434": {
+    "Comp Codes": "BIO F418",
     "Tag": [
       "B1EL"
     ],
@@ -2830,8 +2800,8 @@
     "Project": false,
     "Units": 4
   },
-  "BIO F419": {
-    "Comp Codes": 21435,
+  "21435": {
+    "Comp Codes": "BIO F419",
     "Tag": [
       "B1EL"
     ],
@@ -2839,8 +2809,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F421": {
-    "Comp Codes": 21436,
+  "21436": {
+    "Comp Codes": "BIO F421",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -2849,8 +2819,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F431": {
-    "Comp Codes": 21441,
+  "21441": {
+    "Comp Codes": "BIO F431",
     "Tag": [
       "B1EL"
     ],
@@ -2858,8 +2828,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F441": {
-    "Comp Codes": 21437,
+  "21437": {
+    "Comp Codes": "BIO F441",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -2868,8 +2838,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F451": {
-    "Comp Codes": 21438,
+  "21438": {
+    "Comp Codes": "BIO F451",
     "Tag": [
       "B1EL"
     ],
@@ -2877,8 +2847,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F491": {
-    "Comp Codes": 21710,
+  "21710": {
+    "Comp Codes": "BIO F491",
     "Tag": [
       "B1EL"
     ],
@@ -2886,8 +2856,8 @@
     "Project": true,
     "Units": 3
   },
-  "BIO G510": {
-    "Comp Codes": 22122,
+  "22122": {
+    "Comp Codes": "BIO G510",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -2896,8 +2866,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G512": {
-    "Comp Codes": 20071,
+  "20071": {
+    "Comp Codes": "BIO G512",
     "Tag": [
       "B1EL"
     ],
@@ -2905,8 +2875,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G513": {
-    "Comp Codes": 20388,
+  "20388": {
+    "Comp Codes": "BIO G513",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -2915,8 +2885,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G515": {
-    "Comp Codes": 20111,
+  "20111": {
+    "Comp Codes": "BIO G515",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -2925,8 +2895,8 @@
     "Project": false,
     "Units": 4
   },
-  "BIO G522": {
-    "Comp Codes": 22014,
+  "22014": {
+    "Comp Codes": "BIO G522",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -2935,8 +2905,8 @@
     "Project": false,
     "Units": 4
   },
-  "BIO G523": {
-    "Comp Codes": 22009,
+  "22009": {
+    "Comp Codes": "BIO G523",
     "Tag": [
       "B1EL"
     ],
@@ -2944,8 +2914,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G524": {
-    "Comp Codes": 22008,
+  "22008": {
+    "Comp Codes": "BIO G524",
     "Tag": [
       "B1EL"
     ],
@@ -2953,8 +2923,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G525": {
-    "Comp Codes": 22007,
+  "22007": {
+    "Comp Codes": "BIO G525",
     "Tag": [
       "B1EL"
     ],
@@ -2962,8 +2932,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G526": {
-    "Comp Codes": 20192,
+  "20192": {
+    "Comp Codes": "BIO G526",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -2972,8 +2942,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G545": {
-    "Comp Codes": 22124,
+  "22124": {
+    "Comp Codes": "BIO G545",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -2982,8 +2952,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G561": {
-    "Comp Codes": 22168,
+  "22168": {
+    "Comp Codes": "BIO G561",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -2992,8 +2962,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G570": {
-    "Comp Codes": 21887,
+  "21887": {
+    "Comp Codes": "BIO G570",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -3002,8 +2972,8 @@
     "Project": false,
     "Units": 1
   },
-  "BIO G612": {
-    "Comp Codes": 22016,
+  "22016": {
+    "Comp Codes": "BIO G612",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -3012,8 +2982,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G631": {
-    "Comp Codes": 20143,
+  "20143": {
+    "Comp Codes": "BIO G631",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -3022,8 +2992,8 @@
     "Project": false,
     "Units": 4
   },
-  "BIO G632": {
-    "Comp Codes": 20202,
+  "20202": {
+    "Comp Codes": "BIO G632",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -3032,8 +3002,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G642": {
-    "Comp Codes": 20203,
+  "20203": {
+    "Comp Codes": "BIO G642",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -3042,8 +3012,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G643": {
-    "Comp Codes": 20956,
+  "20956": {
+    "Comp Codes": "BIO G643",
     "Tag": [
       "B1EL"
     ],
@@ -3051,8 +3021,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G651": {
-    "Comp Codes": 22017,
+  "22017": {
+    "Comp Codes": "BIO G651",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -3061,8 +3031,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G661": {
-    "Comp Codes": 22018,
+  "22018": {
+    "Comp Codes": "BIO G661",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -3071,8 +3041,8 @@
     "Project": false,
     "Units": 4
   },
-  "BIOT F345": {
-    "Comp Codes": 21368,
+  "21368": {
+    "Comp Codes": "BIOT F345",
     "Tag": [
       "B1EL"
     ],
@@ -3080,8 +3050,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIOT F346": {
-    "Comp Codes": 21372,
+  "21372": {
+    "Comp Codes": "BIOT F346",
     "Tag": [
       "B1EL"
     ],
@@ -3089,8 +3059,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIOT F347": {
-    "Comp Codes": 21373,
+  "21373": {
+    "Comp Codes": "BIOT F347",
     "Tag": [
       "B1EL"
     ],
@@ -3098,8 +3068,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIOT F416": {
-    "Comp Codes": 21374,
+  "21374": {
+    "Comp Codes": "BIOT F416",
     "Tag": [
       "B1EL"
     ],
@@ -3107,8 +3077,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIOT F422": {
-    "Comp Codes": 21377,
+  "21377": {
+    "Comp Codes": "BIOT F422",
     "Tag": [
       "B1EL"
     ],
@@ -3116,8 +3086,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIOT F424": {
-    "Comp Codes": 21375,
+  "21375": {
+    "Comp Codes": "BIOT F424",
     "Tag": [
       "B1EL"
     ],
@@ -3125,8 +3095,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F467": {
-    "Comp Codes": 21379,
+  "21379": {
+    "Comp Codes": "BITS F467",
     "Tag": [
       "B1EL",
       "H129EL"
@@ -3135,8 +3105,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F212": {
-    "Comp Codes": 21117,
+  "21117": {
+    "Comp Codes": "CHEM F212",
     "Tag": [
       "B1EL",
       "B2CDC"
@@ -3145,17 +3115,19 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F213": {
-    "Comp Codes": 21118,
+  "21118": {
+    "Comp Codes": "CHEM F213",
     "Tag": [
-      "B1EL"
+      "B1EL",
+      "B2CDC",
+      "B2CDC"
     ],
     "Course Name": "Physical Chemistry II",
     "Project": false,
     "Units": 3
   },
-  "CHEM F223": {
-    "Comp Codes": 21569,
+  "21569": {
+    "Comp Codes": "CHEM F223",
     "Tag": [
       "B2EL"
     ],
@@ -3163,8 +3135,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F266": {
-    "Comp Codes": 21654,
+  "21654": {
+    "Comp Codes": "CHEM F266",
     "Tag": [
       "B2EL"
     ],
@@ -3172,8 +3144,8 @@
     "Project": true,
     "Units": 3
   },
-  "CHEM F323": {
-    "Comp Codes": 21570,
+  "21570": {
+    "Comp Codes": "CHEM F323",
     "Tag": [
       "B2EL"
     ],
@@ -3181,8 +3153,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F324": {
-    "Comp Codes": 21571,
+  "21571": {
+    "Comp Codes": "CHEM F324",
     "Tag": [
       "B2EL"
     ],
@@ -3190,8 +3162,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHEM F326": {
-    "Comp Codes": 21575,
+  "21575": {
+    "Comp Codes": "CHEM F326",
     "Tag": [
       "B2EL"
     ],
@@ -3199,8 +3171,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F327": {
-    "Comp Codes": 21577,
+  "21577": {
+    "Comp Codes": "CHEM F327",
     "Tag": [
       "B2EL"
     ],
@@ -3208,8 +3180,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F328": {
-    "Comp Codes": 21579,
+  "21579": {
+    "Comp Codes": "CHEM F328",
     "Tag": [
       "B2EL"
     ],
@@ -3217,8 +3189,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F329": {
-    "Comp Codes": 21580,
+  "21580": {
+    "Comp Codes": "CHEM F329",
     "Tag": [
       "B2EL"
     ],
@@ -3226,8 +3198,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHEM F330": {
-    "Comp Codes": 21582,
+  "21582": {
+    "Comp Codes": "CHEM F330",
     "Tag": [
       "B2EL"
     ],
@@ -3235,8 +3207,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHEM F333": {
-    "Comp Codes": 21583,
+  "21583": {
+    "Comp Codes": "CHEM F333",
     "Tag": [
       "B2EL"
     ],
@@ -3244,8 +3216,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F334": {
-    "Comp Codes": 21584,
+  "21584": {
+    "Comp Codes": "CHEM F334",
     "Tag": [
       "B2EL"
     ],
@@ -3253,8 +3225,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F335": {
-    "Comp Codes": 21585,
+  "21585": {
+    "Comp Codes": "CHEM F335",
     "Tag": [
       "B2EL"
     ],
@@ -3262,8 +3234,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F336": {
-    "Comp Codes": 21586,
+  "21586": {
+    "Comp Codes": "CHEM F336",
     "Tag": [
       "B2EL"
     ],
@@ -3271,8 +3243,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHEM F337": {
-    "Comp Codes": 21587,
+  "21587": {
+    "Comp Codes": "CHEM F337",
     "Tag": [
       "B2EL"
     ],
@@ -3280,8 +3252,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F366": {
-    "Comp Codes": 21669,
+  "21669": {
+    "Comp Codes": "CHEM F366",
     "Tag": [
       "B2EL"
     ],
@@ -3289,8 +3261,8 @@
     "Project": true,
     "Units": 3
   },
-  "CHEM F367": {
-    "Comp Codes": 21739,
+  "21739": {
+    "Comp Codes": "CHEM F367",
     "Tag": [
       "B2EL"
     ],
@@ -3298,8 +3270,8 @@
     "Project": true,
     "Units": 3
   },
-  "CHEM F376": {
-    "Comp Codes": 21688,
+  "21688": {
+    "Comp Codes": "CHEM F376",
     "Tag": [
       "B2EL"
     ],
@@ -3307,8 +3279,8 @@
     "Project": true,
     "Units": 3
   },
-  "CHEM F377": {
-    "Comp Codes": 21755,
+  "21755": {
+    "Comp Codes": "CHEM F377",
     "Tag": [
       "B2EL"
     ],
@@ -3316,8 +3288,8 @@
     "Project": true,
     "Units": 3
   },
-  "CHEM F412": {
-    "Comp Codes": 21573,
+  "21573": {
+    "Comp Codes": "CHEM F412",
     "Tag": [
       "B2EL"
     ],
@@ -3325,8 +3297,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F413": {
-    "Comp Codes": 21576,
+  "21576": {
+    "Comp Codes": "CHEM F413",
     "Tag": [
       "B2EL"
     ],
@@ -3334,8 +3306,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHEM F414": {
-    "Comp Codes": 21578,
+  "21578": {
+    "Comp Codes": "CHEM F414",
     "Tag": [
       "B2EL"
     ],
@@ -3343,8 +3315,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F415": {
-    "Comp Codes": 21581,
+  "21581": {
+    "Comp Codes": "CHEM F415",
     "Tag": [
       "B2EL"
     ],
@@ -3352,8 +3324,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F422": {
-    "Comp Codes": 21574,
+  "21574": {
+    "Comp Codes": "CHEM F422",
     "Tag": [
       "B2EL"
     ],
@@ -3361,8 +3333,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F491": {
-    "Comp Codes": 21713,
+  "21713": {
+    "Comp Codes": "CHEM F491",
     "Tag": [
       "B2EL"
     ],
@@ -3370,8 +3342,8 @@
     "Project": true,
     "Units": 3
   },
-  "ECON F266": {
-    "Comp Codes": 21656,
+  "21656": {
+    "Comp Codes": "ECON F266",
     "Tag": [
       "B3EL"
     ],
@@ -3379,8 +3351,8 @@
     "Project": true,
     "Units": 3
   },
-  "ECON F314": {
-    "Comp Codes": 21773,
+  "21773": {
+    "Comp Codes": "ECON F314",
     "Tag": [
       "B3EL"
     ],
@@ -3388,8 +3360,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F315": {
-    "Comp Codes": 21923,
+  "21923": {
+    "Comp Codes": "ECON F315",
     "Tag": [
       "B3EL"
     ],
@@ -3397,8 +3369,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F351": {
-    "Comp Codes": 21452,
+  "21452": {
+    "Comp Codes": "ECON F351",
     "Tag": [
       "B3EL"
     ],
@@ -3406,8 +3378,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F352": {
-    "Comp Codes": 21546,
+  "21546": {
+    "Comp Codes": "ECON F352",
     "Tag": [
       "B3EL"
     ],
@@ -3415,8 +3387,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F353": {
-    "Comp Codes": 21564,
+  "21564": {
+    "Comp Codes": "ECON F353",
     "Tag": [
       "B3EL"
     ],
@@ -3424,8 +3396,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F354": {
-    "Comp Codes": 21565,
+  "21565": {
+    "Comp Codes": "ECON F354",
     "Tag": [
       "B3EL"
     ],
@@ -3433,8 +3405,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F355": {
-    "Comp Codes": 21547,
+  "21547": {
+    "Comp Codes": "ECON F355",
     "Tag": [
       "B3EL"
     ],
@@ -3442,8 +3414,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F356": {
-    "Comp Codes": 21548,
+  "21548": {
+    "Comp Codes": "ECON F356",
     "Tag": [
       "B3EL"
     ],
@@ -3451,8 +3423,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F357": {
-    "Comp Codes": 21549,
+  "21549": {
+    "Comp Codes": "ECON F357",
     "Tag": [
       "B3EL"
     ],
@@ -3460,8 +3432,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F366": {
-    "Comp Codes": 21684,
+  "21684": {
+    "Comp Codes": "ECON F366",
     "Tag": [
       "B3EL"
     ],
@@ -3469,8 +3441,8 @@
     "Project": true,
     "Units": 3
   },
-  "ECON F367": {
-    "Comp Codes": 21741,
+  "21741": {
+    "Comp Codes": "ECON F367",
     "Tag": [
       "B3EL"
     ],
@@ -3478,8 +3450,8 @@
     "Project": true,
     "Units": 3
   },
-  "ECON F376": {
-    "Comp Codes": 21690,
+  "21690": {
+    "Comp Codes": "ECON F376",
     "Tag": [
       "B3EL"
     ],
@@ -3487,8 +3459,8 @@
     "Project": true,
     "Units": 3
   },
-  "ECON F377": {
-    "Comp Codes": 21757,
+  "21757": {
+    "Comp Codes": "ECON F377",
     "Tag": [
       "B3EL"
     ],
@@ -3496,8 +3468,8 @@
     "Project": true,
     "Units": 3
   },
-  "ECON F412": {
-    "Comp Codes": 21566,
+  "21566": {
+    "Comp Codes": "ECON F412",
     "Tag": [
       "B3EL"
     ],
@@ -3505,8 +3477,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F413": {
-    "Comp Codes": 21551,
+  "21551": {
+    "Comp Codes": "ECON F413",
     "Tag": [
       "B3EL"
     ],
@@ -3514,8 +3486,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F414": {
-    "Comp Codes": 21552,
+  "21552": {
+    "Comp Codes": "ECON F414",
     "Tag": [
       "B3EL"
     ],
@@ -3523,8 +3495,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F415": {
-    "Comp Codes": 21553,
+  "21553": {
+    "Comp Codes": "ECON F415",
     "Tag": [
       "B3EL"
     ],
@@ -3532,17 +3504,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F417": {
-    "Comp Codes": 0,
-    "Tag": [
-      "B3EL"
-    ],
-    "Course Name": "Risk Management and Insurance",
-    "Project": false,
-    "Units": 3
-  },
-  "ECON F422": {
-    "Comp Codes": 21567,
+  "21567": {
+    "Comp Codes": "ECON F422",
     "Tag": [
       "B3EL"
     ],
@@ -3550,8 +3513,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F434": {
-    "Comp Codes": 21874,
+  "21874": {
+    "Comp Codes": "ECON F434",
     "Tag": [
       "B3EL"
     ],
@@ -3559,8 +3522,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F435": {
-    "Comp Codes": 21875,
+  "21875": {
+    "Comp Codes": "ECON F435",
     "Tag": [
       "B3EL"
     ],
@@ -3568,8 +3531,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F471": {
-    "Comp Codes": 21568,
+  "21568": {
+    "Comp Codes": "ECON F471",
     "Tag": [
       "B3EL"
     ],
@@ -3577,8 +3540,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F491": {
-    "Comp Codes": 21726,
+  "21726": {
+    "Comp Codes": "ECON F491",
     "Tag": [
       "B3EL"
     ],
@@ -3586,8 +3549,8 @@
     "Project": true,
     "Units": 3
   },
-  "MATH F242": {
-    "Comp Codes": 21466,
+  "21466": {
+    "Comp Codes": "MATH F242",
     "Tag": [
       "B3EL",
       "B4CDC"
@@ -3596,17 +3559,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH  F423": {
-    "Comp Codes": 0,
-    "Tag": [
-      "B4EL"
-    ],
-    "Course Name": "Introduction to Algebraic Topology",
-    "Project": false,
-    "Units": 3
-  },
-  "MATH F266": {
-    "Comp Codes": 21662,
+  "21662": {
+    "Comp Codes": "MATH F266",
     "Tag": [
       "B4EL"
     ],
@@ -3614,8 +3568,8 @@
     "Project": true,
     "Units": 3
   },
-  "MATH F314": {
-    "Comp Codes": 21475,
+  "21475": {
+    "Comp Codes": "MATH F314",
     "Tag": [
       "B4EL"
     ],
@@ -3623,8 +3577,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F353": {
-    "Comp Codes": 21479,
+  "21479": {
+    "Comp Codes": "MATH F353",
     "Tag": [
       "B4EL"
     ],
@@ -3632,8 +3586,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F354": {
-    "Comp Codes": 21478,
+  "21478": {
+    "Comp Codes": "MATH F354",
     "Tag": [
       "B4EL"
     ],
@@ -3641,8 +3595,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F366": {
-    "Comp Codes": 21679,
+  "21679": {
+    "Comp Codes": "MATH F366",
     "Tag": [
       "B4EL"
     ],
@@ -3650,8 +3604,8 @@
     "Project": true,
     "Units": 3
   },
-  "MATH F367": {
-    "Comp Codes": 21747,
+  "21747": {
+    "Comp Codes": "MATH F367",
     "Tag": [
       "B4EL"
     ],
@@ -3659,8 +3613,8 @@
     "Project": true,
     "Units": 3
   },
-  "MATH F376": {
-    "Comp Codes": 21696,
+  "21696": {
+    "Comp Codes": "MATH F376",
     "Tag": [
       "B4EL"
     ],
@@ -3668,8 +3622,8 @@
     "Project": true,
     "Units": 3
   },
-  "MATH F377": {
-    "Comp Codes": 21763,
+  "21763": {
+    "Comp Codes": "MATH F377",
     "Tag": [
       "B4EL"
     ],
@@ -3677,8 +3631,8 @@
     "Project": true,
     "Units": 3
   },
-  "MATH F420": {
-    "Comp Codes": 21882,
+  "21882": {
+    "Comp Codes": "MATH F420",
     "Tag": [
       "B4EL"
     ],
@@ -3686,8 +3640,8 @@
     "Project": false,
     "Units": 4
   },
-  "MATH F422": {
-    "Comp Codes": 21921,
+  "21921": {
+    "Comp Codes": "MATH F422",
     "Tag": [
       "B4EL"
     ],
@@ -3695,8 +3649,8 @@
     "Project": false,
     "Units": 4
   },
-  "MATH F424": {
-    "Comp Codes": 22191,
+  "22191": {
+    "Comp Codes": "MATH F424",
     "Tag": [
       "B4EL"
     ],
@@ -3704,8 +3658,8 @@
     "Project": false,
     "Units": 4
   },
-  "MATH F431": {
-    "Comp Codes": 21481,
+  "21481": {
+    "Comp Codes": "MATH F431",
     "Tag": [
       "B4EL"
     ],
@@ -3713,8 +3667,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F444": {
-    "Comp Codes": 21881,
+  "21881": {
+    "Comp Codes": "MATH F444",
     "Tag": [
       "B4EL"
     ],
@@ -3722,17 +3676,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F445": {
-    "Comp Codes": 0,
-    "Tag": [
-      "B4EL"
-    ],
-    "Course Name": " Mathematical Fluid Dynamics",
-    "Project": false,
-    "Units": 3
-  },
-  "MATH F456": {
-    "Comp Codes": 21880,
+  "21880": {
+    "Comp Codes": "MATH F456",
     "Tag": [
       "B4EL"
     ],
@@ -3740,8 +3685,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F471": {
-    "Comp Codes": 21476,
+  "21476": {
+    "Comp Codes": "MATH F471",
     "Tag": [
       "B4EL"
     ],
@@ -3749,8 +3694,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F481": {
-    "Comp Codes": 21477,
+  "21477": {
+    "Comp Codes": "MATH F481",
     "Tag": [
       "B4EL"
     ],
@@ -3758,8 +3703,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F491": {
-    "Comp Codes": 21721,
+  "21721": {
+    "Comp Codes": "MATH F491",
     "Tag": [
       "B4EL"
     ],
@@ -3767,8 +3712,8 @@
     "Project": true,
     "Units": 3
   },
-  "BIO F215": {
-    "Comp Codes": 21423,
+  "21423": {
+    "Comp Codes": "BIO F215",
     "Tag": [
       "B5EL",
       "B1CDC"
@@ -3777,8 +3722,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F316": {
-    "Comp Codes": 21511,
+  "21511": {
+    "Comp Codes": "BITS F316",
     "Tag": [
       "B5EL"
     ],
@@ -3786,17 +3731,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F317": {
-    "Comp Codes": 0,
-    "Tag": [
-      "B5EL"
-    ],
-    "Course Name": "Theoretical Neuroscience",
-    "Project": false,
-    "Units": 3
-  },
-  "PHY F215": {
-    "Comp Codes": 21493,
+  "21493": {
+    "Comp Codes": "PHY F215",
     "Tag": [
       "B5EL"
     ],
@@ -3804,8 +3740,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F266": {
-    "Comp Codes": 21666,
+  "21666": {
+    "Comp Codes": "PHY F266",
     "Tag": [
       "B5EL"
     ],
@@ -3813,8 +3749,8 @@
     "Project": true,
     "Units": 3
   },
-  "PHY F315": {
-    "Comp Codes": 21494,
+  "21494": {
+    "Comp Codes": "PHY F315",
     "Tag": [
       "B5EL"
     ],
@@ -3822,17 +3758,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F316": {
-    "Comp Codes": 0,
-    "Tag": [
-      "B5EL"
-    ],
-    "Course Name": "Musical Acoustics",
-    "Project": false,
-    "Units": 3
-  },
-  "PHY F366": {
-    "Comp Codes": 21683,
+  "21683": {
+    "Comp Codes": "PHY F366",
     "Tag": [
       "B5EL"
     ],
@@ -3840,8 +3767,8 @@
     "Project": true,
     "Units": 3
   },
-  "PHY F367": {
-    "Comp Codes": 21751,
+  "21751": {
+    "Comp Codes": "PHY F367",
     "Tag": [
       "B5EL"
     ],
@@ -3849,8 +3776,8 @@
     "Project": true,
     "Units": 3
   },
-  "PHY F376": {
-    "Comp Codes": 21700,
+  "21700": {
+    "Comp Codes": "PHY F376",
     "Tag": [
       "B5EL"
     ],
@@ -3858,8 +3785,8 @@
     "Project": true,
     "Units": 3
   },
-  "PHY F377": {
-    "Comp Codes": 21767,
+  "21767": {
+    "Comp Codes": "PHY F377",
     "Tag": [
       "B5EL"
     ],
@@ -3867,8 +3794,8 @@
     "Project": true,
     "Units": 3
   },
-  "PHY F412": {
-    "Comp Codes": 21495,
+  "21495": {
+    "Comp Codes": "PHY F412",
     "Tag": [
       "B5EL"
     ],
@@ -3876,8 +3803,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F413": {
-    "Comp Codes": 21496,
+  "21496": {
+    "Comp Codes": "PHY F413",
     "Tag": [
       "B5EL"
     ],
@@ -3885,8 +3812,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F414": {
-    "Comp Codes": 21497,
+  "21497": {
+    "Comp Codes": "PHY F414",
     "Tag": [
       "B5EL"
     ],
@@ -3894,8 +3821,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F415": {
-    "Comp Codes": 21498,
+  "21498": {
+    "Comp Codes": "PHY F415",
     "Tag": [
       "B5EL"
     ],
@@ -3903,8 +3830,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F416": {
-    "Comp Codes": 21499,
+  "21499": {
+    "Comp Codes": "PHY F416",
     "Tag": [
       "B5EL"
     ],
@@ -3912,8 +3839,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F417": {
-    "Comp Codes": 21500,
+  "21500": {
+    "Comp Codes": "PHY F417",
     "Tag": [
       "B5EL"
     ],
@@ -3921,8 +3848,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F418": {
-    "Comp Codes": 21501,
+  "21501": {
+    "Comp Codes": "PHY F418",
     "Tag": [
       "B5EL"
     ],
@@ -3930,8 +3857,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F419": {
-    "Comp Codes": 21502,
+  "21502": {
+    "Comp Codes": "PHY F419",
     "Tag": [
       "B5EL"
     ],
@@ -3939,8 +3866,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F420": {
-    "Comp Codes": 21504,
+  "21504": {
+    "Comp Codes": "PHY F420",
     "Tag": [
       "B5EL"
     ],
@@ -3948,8 +3875,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F421": {
-    "Comp Codes": 21505,
+  "21505": {
+    "Comp Codes": "PHY F421",
     "Tag": [
       "B5EL"
     ],
@@ -3957,8 +3884,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F422": {
-    "Comp Codes": 21503,
+  "21503": {
+    "Comp Codes": "PHY F422",
     "Tag": [
       "B5EL"
     ],
@@ -3966,8 +3893,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F423": {
-    "Comp Codes": 21506,
+  "21506": {
+    "Comp Codes": "PHY F423",
     "Tag": [
       "B5EL"
     ],
@@ -3975,8 +3902,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F424": {
-    "Comp Codes": 21507,
+  "21507": {
+    "Comp Codes": "PHY F424",
     "Tag": [
       "B5EL"
     ],
@@ -3984,8 +3911,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F425": {
-    "Comp Codes": 21508,
+  "21508": {
+    "Comp Codes": "PHY F425",
     "Tag": [
       "B5EL"
     ],
@@ -3993,8 +3920,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F426": {
-    "Comp Codes": 21509,
+  "21509": {
+    "Comp Codes": "PHY F426",
     "Tag": [
       "B5EL"
     ],
@@ -4002,8 +3929,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F427": {
-    "Comp Codes": 21510,
+  "21510": {
+    "Comp Codes": "PHY F427",
     "Tag": [
       "B5EL"
     ],
@@ -4011,17 +3938,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY G512": {
-    "Comp Codes": 0,
-    "Tag": [
-      "B5EL"
-    ],
-    "Course Name": "Advanced Quantum Field Theory",
-    "Project": false,
-    "Units": 3
-  },
-  "PHY F491": {
-    "Comp Codes": 21725,
+  "21725": {
+    "Comp Codes": "PHY F491",
     "Tag": [
       "B5EL"
     ],
@@ -4029,17 +3947,8 @@
     "Project": true,
     "Units": 3
   },
-  "PHY F512": {
-    "Comp Codes": 0,
-    "Tag": [
-      "B5EL"
-    ],
-    "Course Name": "Advanced Quantum Field Theory",
-    "Project": false,
-    "Units": 3
-  },
-  "IS F266": {
-    "Comp Codes": 21661,
+  "21661": {
+    "Comp Codes": "IS F266",
     "Tag": [
       "C6EL"
     ],
@@ -4047,8 +3956,8 @@
     "Project": true,
     "Units": 3
   },
-  "IS F366": {
-    "Comp Codes": 21678,
+  "21678": {
+    "Comp Codes": "IS F366",
     "Tag": [
       "C6EL"
     ],
@@ -4056,8 +3965,8 @@
     "Project": true,
     "Units": 3
   },
-  "IS F367": {
-    "Comp Codes": 21746,
+  "21746": {
+    "Comp Codes": "IS F367",
     "Tag": [
       "C6EL"
     ],
@@ -4065,8 +3974,8 @@
     "Project": true,
     "Units": 3
   },
-  "IS F376": {
-    "Comp Codes": 21695,
+  "21695": {
+    "Comp Codes": "IS F376",
     "Tag": [
       "C6EL"
     ],
@@ -4074,8 +3983,8 @@
     "Project": true,
     "Units": 3
   },
-  "IS F377": {
-    "Comp Codes": 21762,
+  "21762": {
+    "Comp Codes": "IS F377",
     "Tag": [
       "C6EL"
     ],
@@ -4083,8 +3992,8 @@
     "Project": true,
     "Units": 3
   },
-  "CS F212": {
-    "Comp Codes": 21095,
+  "21095": {
+    "Comp Codes": "CS F212",
     "Tag": [
       "A7CDC"
     ],
@@ -4092,18 +4001,8 @@
     "Project": false,
     "Units": 4
   },
-  "BITS F429": {
-    "Comp Codes": 0,
-    "Tag": [
-      "H101EL",
-      "A1EL"
-    ],
-    "Course Name": "Nanotechnology for Renewable Energy and Environment",
-    "Project": false,
-    "Units": 4
-  },
-  "CHE C421": {
-    "Comp Codes": 20174,
+  "20174": {
+    "Comp Codes": "CHE C421",
     "Tag": [
       "H101EL"
     ],
@@ -4111,8 +4010,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHE C473": {
-    "Comp Codes": 20838,
+  "20838": {
+    "Comp Codes": "CHE C473",
     "Tag": [
       "H101EL"
     ],
@@ -4120,8 +4019,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G525": {
-    "Comp Codes": 22081,
+  "22081": {
+    "Comp Codes": "CHE G525",
     "Tag": [
       "H101EL"
     ],
@@ -4129,26 +4028,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHE G553": {
-    "Comp Codes": 0,
-    "Tag": [
-      "H101EL"
-    ],
-    "Course Name": "Statistical Thermodynamics",
-    "Project": false,
-    "Units": 4
-  },
-  "CHE G554": {
-    "Comp Codes": 0,
-    "Tag": [
-      "H101EL"
-    ],
-    "Course Name": "Computational Fluid Dynamics",
-    "Project": false,
-    "Units": 4
-  },
-  "BITS G553": {
-    "Comp Codes": 20009,
+  "20009": {
+    "Comp Codes": "BITS G553",
     "Tag": [
       "H103EL"
     ],
@@ -4156,8 +4037,8 @@
     "Project": false,
     "Units": 5
   },
-  "CS C415": {
-    "Comp Codes": 20940,
+  "20940": {
+    "Comp Codes": "CS C415",
     "Tag": [
       "H103EL"
     ],
@@ -4165,8 +4046,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS C422": {
-    "Comp Codes": 20150,
+  "20150": {
+    "Comp Codes": "CS C422",
     "Tag": [
       "H103EL"
     ],
@@ -4174,8 +4055,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS C446": {
-    "Comp Codes": 20926,
+  "20926": {
+    "Comp Codes": "CS C446",
     "Tag": [
       "H103EL"
     ],
@@ -4183,8 +4064,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS G520": {
-    "Comp Codes": 22106,
+  "22106": {
+    "Comp Codes": "CS G520",
     "Tag": [
       "H103EL"
     ],
@@ -4192,8 +4073,8 @@
     "Project": false,
     "Units": 4
   },
-  "CS G523": {
-    "Comp Codes": 22052,
+  "22052": {
+    "Comp Codes": "CS G523",
     "Tag": [
       "H103EL"
     ],
@@ -4201,8 +4082,8 @@
     "Project": false,
     "Units": 5
   },
-  "CS G527": {
-    "Comp Codes": 22108,
+  "22108": {
+    "Comp Codes": "CS G527",
     "Tag": [
       "H103EL"
     ],
@@ -4210,8 +4091,8 @@
     "Project": false,
     "Units": 5
   },
-  "CS G541": {
-    "Comp Codes": 20300,
+  "20300": {
+    "Comp Codes": "CS G541",
     "Tag": [
       "H103EL",
       "H140EL"
@@ -4220,8 +4101,8 @@
     "Project": false,
     "Units": 4
   },
-  "CS G551": {
-    "Comp Codes": 20652,
+  "20652": {
+    "Comp Codes": "CS G551",
     "Tag": [
       "H103EL"
     ],
@@ -4229,8 +4110,8 @@
     "Project": false,
     "Units": 5
   },
-  "CS G554": {
-    "Comp Codes": 20533,
+  "20533": {
+    "Comp Codes": "CS G554",
     "Tag": [
       "H103EL"
     ],
@@ -4238,17 +4119,8 @@
     "Project": false,
     "Units": 5
   },
-  "CS G568": {
-    "Comp Codes": 0,
-    "Tag": [
-      "H103EL"
-    ],
-    "Course Name": "Reconfigurable Computing",
-    "Project": false,
-    "Units": 3
-  },
-  "CS G612": {
-    "Comp Codes": 20200,
+  "20200": {
+    "Comp Codes": "CS G612",
     "Tag": [
       "H103EL",
       "H123EL",
@@ -4258,8 +4130,8 @@
     "Project": false,
     "Units": 5
   },
-  "EA C451": {
-    "Comp Codes": 20264,
+  "20264": {
+    "Comp Codes": "EA C451",
     "Tag": [
       "H103EL"
     ],
@@ -4267,8 +4139,8 @@
     "Project": false,
     "Units": 3
   },
-  "EA C461": {
-    "Comp Codes": 20458,
+  "20458": {
+    "Comp Codes": "EA C461",
     "Tag": [
       "H103EL"
     ],
@@ -4276,8 +4148,8 @@
     "Project": false,
     "Units": 3
   },
-  "EA C473": {
-    "Comp Codes": 20267,
+  "20267": {
+    "Comp Codes": "EA C473",
     "Tag": [
       "H103EL"
     ],
@@ -4285,8 +4157,8 @@
     "Project": false,
     "Units": 3
   },
-  "EEE G582": {
-    "Comp Codes": 20095,
+  "20095": {
+    "Comp Codes": "EEE G582",
     "Tag": [
       "H103EL"
     ],
@@ -4294,8 +4166,8 @@
     "Project": false,
     "Units": 5
   },
-  "EEE G627": {
-    "Comp Codes": 20475,
+  "20475": {
+    "Comp Codes": "EEE G627",
     "Tag": [
       "H103EL",
       "H140EL"
@@ -4304,8 +4176,8 @@
     "Project": false,
     "Units": 4
   },
-  "CS G562": {
-    "Comp Codes": 20187,
+  "20187": {
+    "Comp Codes": "CS G562",
     "Tag": [
       "H123EL"
     ],
@@ -4313,8 +4185,8 @@
     "Project": false,
     "Units": 5
   },
-  "EEE G510": {
-    "Comp Codes": 20462,
+  "20462": {
+    "Comp Codes": "EEE G510",
     "Tag": [
       "H123EL"
     ],
@@ -4322,8 +4194,8 @@
     "Project": false,
     "Units": 5
   },
-  "EEE G522": {
-    "Comp Codes": 22141,
+  "22141": {
+    "Comp Codes": "EEE G522",
     "Tag": [
       "H123EL"
     ],
@@ -4331,8 +4203,8 @@
     "Project": false,
     "Units": 5
   },
-  "EEE G572": {
-    "Comp Codes": 22169,
+  "22169": {
+    "Comp Codes": "EEE G572",
     "Tag": [
       "H123EL",
       "H140EL"
@@ -4341,8 +4213,8 @@
     "Project": false,
     "Units": 5
   },
-  "EEE G594": {
-    "Comp Codes": 21896,
+  "21896": {
+    "Comp Codes": "EEE G594",
     "Tag": [
       "H123EL",
       "H140EL"
@@ -4351,18 +4223,8 @@
     "Project": false,
     "Units": 5
   },
-  "EEE G595": {
-    "Comp Codes": 0,
-    "Tag": [
-      "H123EL",
-      "H140EL"
-    ],
-    "Course Name": "Nanoelectronics and Nanophotonics Technology ",
-    "Project": false,
-    "Units": 5
-  },
-  "EEE G613": {
-    "Comp Codes": 20471,
+  "20471": {
+    "Comp Codes": "EEE G613",
     "Tag": [
       "H123EL",
       "H140EL"
@@ -4371,8 +4233,8 @@
     "Project": false,
     "Units": 5
   },
-  "MEL G512": {
-    "Comp Codes": 22062,
+  "22062": {
+    "Comp Codes": "MEL G512",
     "Tag": [
       "H123EL"
     ],
@@ -4380,8 +4242,8 @@
     "Project": false,
     "Units": 5
   },
-  "MEL G531": {
-    "Comp Codes": 20463,
+  "20463": {
+    "Comp Codes": "MEL G531",
     "Tag": [
       "H123EL",
       "H140EL"
@@ -4390,8 +4252,8 @@
     "Project": false,
     "Units": 5
   },
-  "MEL G612": {
-    "Comp Codes": 20745,
+  "20745": {
+    "Comp Codes": "MEL G612",
     "Tag": [
       "H123EL"
     ],
@@ -4399,8 +4261,8 @@
     "Project": false,
     "Units": 4
   },
-  "MEL G622": {
-    "Comp Codes": 22063,
+  "22063": {
+    "Comp Codes": "MEL G622",
     "Tag": [
       "H123EL",
       "H140EL"
@@ -4409,8 +4271,8 @@
     "Project": false,
     "Units": 4
   },
-  "MEL G623": {
-    "Comp Codes": 20500,
+  "20500": {
+    "Comp Codes": "MEL G623",
     "Tag": [
       "H123EL",
       "H140EL"
@@ -4419,8 +4281,8 @@
     "Project": false,
     "Units": 5
   },
-  "MEL G624": {
-    "Comp Codes": 22064,
+  "22064": {
+    "Comp Codes": "MEL G624",
     "Tag": [
       "H123EL",
       "H140EL"
@@ -4429,8 +4291,8 @@
     "Project": false,
     "Units": 5
   },
-  "MEL G625": {
-    "Comp Codes": 20932,
+  "20932": {
+    "Comp Codes": "MEL G625",
     "Tag": [
       "H123EL"
     ],
@@ -4438,8 +4300,8 @@
     "Project": false,
     "Units": 5
   },
-  "MEL G626": {
-    "Comp Codes": 20606,
+  "20606": {
+    "Comp Codes": "MEL G626",
     "Tag": [
       "H123EL",
       "H140EL"
@@ -4448,8 +4310,8 @@
     "Project": false,
     "Units": 5
   },
-  "MEL G642": {
-    "Comp Codes": 20817,
+  "20817": {
+    "Comp Codes": "MEL G642",
     "Tag": [
       "H123EL"
     ],
@@ -4457,8 +4319,8 @@
     "Project": false,
     "Units": 4
   },
-  "BIO F242": {
-    "Comp Codes": 21430,
+  "21430": {
+    "Comp Codes": "BIO F242",
     "Tag": [
       "H129EL",
       "B1CDC"
@@ -4467,8 +4329,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO G514": {
-    "Comp Codes": 20392,
+  "20392": {
+    "Comp Codes": "BIO G514",
     "Tag": [
       "H129EL"
     ],
@@ -4476,8 +4338,8 @@
     "Project": false,
     "Units": 5
   },
-  "BIO G532": {
-    "Comp Codes": 22015,
+  "22015": {
+    "Comp Codes": "BIO G532",
     "Tag": [
       "H129EL"
     ],
@@ -4485,8 +4347,8 @@
     "Project": false,
     "Units": 4
   },
-  "EA C414": {
-    "Comp Codes": 20168,
+  "20168": {
+    "Comp Codes": "EA C414",
     "Tag": [
       "H129EL"
     ],
@@ -4494,17 +4356,8 @@
     "Project": false,
     "Units": 3
   },
-  "CS C412": {
-    "Comp Codes": 0,
-    "Tag": [
-      "H140EL"
-    ],
-    "Course Name": "Fault Tolerant System Design ",
-    "Project": false,
-    "Units": 5
-  },
-  "CS G611": {
-    "Comp Codes": 20539,
+  "20539": {
+    "Comp Codes": "CS G611",
     "Tag": [
       "H140EL"
     ],
@@ -4512,8 +4365,8 @@
     "Project": false,
     "Units": 4
   },
-  "EA C415": {
-    "Comp Codes": 20530,
+  "20530": {
+    "Comp Codes": "EA C415",
     "Tag": [
       "H140EL"
     ],
@@ -4521,8 +4374,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE C434": {
-    "Comp Codes": 21671,
+  "21671": {
+    "Comp Codes": "EEE C434",
     "Tag": [
       "H140EL"
     ],
@@ -4530,17 +4383,8 @@
     "Project": false,
     "Units": 4
   },
-  "EEE G547": {
-    "Comp Codes": 0,
-    "Tag": [
-      "H140EL"
-    ],
-    "Course Name": "Device Drivers ",
-    "Project": false,
-    "Units": 5
-  },
-  "EEE G625": {
-    "Comp Codes": 20070,
+  "20070": {
+    "Comp Codes": "EEE G625",
     "Tag": [
       "H140EL"
     ],
@@ -4548,8 +4392,8 @@
     "Project": false,
     "Units": 4
   },
-  "MEL G621": {
-    "Comp Codes": 20743,
+  "20743": {
+    "Comp Codes": "MEL G621",
     "Tag": [
       "H140EL"
     ],
@@ -4557,8 +4401,8 @@
     "Project": false,
     "Units": 5
   },
-  "MSE G511": {
-    "Comp Codes": 20369,
+  "20369": {
+    "Comp Codes": "MSE G511",
     "Tag": [
       "H140EL"
     ],
@@ -4566,8 +4410,8 @@
     "Project": false,
     "Units": 5
   },
-  "BITS C419": {
-    "Comp Codes": 21768,
+  "21768": {
+    "Comp Codes": "BITS C419",
     "Tag": [
       "HUM"
     ],
@@ -4575,8 +4419,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F214": {
-    "Comp Codes": 21892,
+  "21892": {
+    "Comp Codes": "BITS F214",
     "Tag": [
       "HUM"
     ],
@@ -4584,8 +4428,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F385": {
-    "Comp Codes": 21512,
+  "21512": {
+    "Comp Codes": "BITS F385",
     "Tag": [
       "HUM"
     ],
@@ -4593,8 +4437,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F399": {
-    "Comp Codes": 21893,
+  "21893": {
+    "Comp Codes": "BITS F399",
     "Tag": [
       "HUM"
     ],
@@ -4602,8 +4446,8 @@
     "Project": false,
     "Units": 3
   },
-  "BITS F419": {
-    "Comp Codes": 21769,
+  "21769": {
+    "Comp Codes": "BITS F419",
     "Tag": [
       "HUM"
     ],
@@ -4611,8 +4455,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F211": {
-    "Comp Codes": 21130,
+  "21130": {
+    "Comp Codes": "GS F211",
     "Tag": [
       "HUM"
     ],
@@ -4620,8 +4464,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F212": {
-    "Comp Codes": 21131,
+  "21131": {
+    "Comp Codes": "GS F212",
     "Tag": [
       "HUM"
     ],
@@ -4629,8 +4473,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F221": {
-    "Comp Codes": 21133,
+  "21133": {
+    "Comp Codes": "GS F221",
     "Tag": [
       "HUM"
     ],
@@ -4638,8 +4482,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F223": {
-    "Comp Codes": 21135,
+  "21135": {
+    "Comp Codes": "GS F223",
     "Tag": [
       "HUM"
     ],
@@ -4647,8 +4491,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F224": {
-    "Comp Codes": 21136,
+  "21136": {
+    "Comp Codes": "GS F224",
     "Tag": [
       "HUM"
     ],
@@ -4656,8 +4500,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F231": {
-    "Comp Codes": 21169,
+  "21169": {
+    "Comp Codes": "GS F231",
     "Tag": [
       "HUM"
     ],
@@ -4665,8 +4509,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F232": {
-    "Comp Codes": 21170,
+  "21170": {
+    "Comp Codes": "GS F232",
     "Tag": [
       "HUM"
     ],
@@ -4674,8 +4518,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F233": {
-    "Comp Codes": 21171,
+  "21171": {
+    "Comp Codes": "GS F233",
     "Tag": [
       "HUM"
     ],
@@ -4683,8 +4527,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F234": {
-    "Comp Codes": 21172,
+  "21172": {
+    "Comp Codes": "GS F234",
     "Tag": [
       "HUM"
     ],
@@ -4692,8 +4536,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F241": {
-    "Comp Codes": 21158,
+  "21158": {
+    "Comp Codes": "GS F241",
     "Tag": [
       "HUM"
     ],
@@ -4701,8 +4545,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F242": {
-    "Comp Codes": 21159,
+  "21159": {
+    "Comp Codes": "GS F242",
     "Tag": [
       "HUM"
     ],
@@ -4710,8 +4554,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F243": {
-    "Comp Codes": 21160,
+  "21160": {
+    "Comp Codes": "GS F243",
     "Tag": [
       "HUM"
     ],
@@ -4719,8 +4563,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F244": {
-    "Comp Codes": 21161,
+  "21161": {
+    "Comp Codes": "GS F244",
     "Tag": [
       "HUM"
     ],
@@ -4728,8 +4572,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F245": {
-    "Comp Codes": 21165,
+  "21165": {
+    "Comp Codes": "GS F245",
     "Tag": [
       "HUM"
     ],
@@ -4737,8 +4581,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F266": {
-    "Comp Codes": 21659,
+  "21659": {
+    "Comp Codes": "GS F266",
     "Tag": [
       "HUM"
     ],
@@ -4746,8 +4590,8 @@
     "Project": true,
     "Units": 3
   },
-  "GS F311": {
-    "Comp Codes": 21173,
+  "21173": {
+    "Comp Codes": "GS F311",
     "Tag": [
       "HUM"
     ],
@@ -4755,8 +4599,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F312": {
-    "Comp Codes": 21174,
+  "21174": {
+    "Comp Codes": "GS F312",
     "Tag": [
       "HUM"
     ],
@@ -4764,8 +4608,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F313": {
-    "Comp Codes": 21914,
+  "21914": {
+    "Comp Codes": "GS F313",
     "Tag": [
       "HUM"
     ],
@@ -4773,8 +4617,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F321": {
-    "Comp Codes": 21163,
+  "21163": {
+    "Comp Codes": "GS F321",
     "Tag": [
       "HUM"
     ],
@@ -4782,8 +4626,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F322": {
-    "Comp Codes": 21137,
+  "21137": {
+    "Comp Codes": "GS F322",
     "Tag": [
       "HUM"
     ],
@@ -4791,8 +4635,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F325": {
-    "Comp Codes": 21523,
+  "21523": {
+    "Comp Codes": "GS F325",
     "Tag": [
       "HUM"
     ],
@@ -4800,8 +4644,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F326": {
-    "Comp Codes": 21524,
+  "21524": {
+    "Comp Codes": "GS F326",
     "Tag": [
       "HUM"
     ],
@@ -4809,8 +4653,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F327": {
-    "Comp Codes": 21525,
+  "21525": {
+    "Comp Codes": "GS F327",
     "Tag": [
       "HUM"
     ],
@@ -4818,8 +4662,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F331": {
-    "Comp Codes": 21175,
+  "21175": {
+    "Comp Codes": "GS F331",
     "Tag": [
       "HUM"
     ],
@@ -4827,8 +4671,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F332": {
-    "Comp Codes": 21176,
+  "21176": {
+    "Comp Codes": "GS F332",
     "Tag": [
       "HUM"
     ],
@@ -4836,8 +4680,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F333": {
-    "Comp Codes": 21177,
+  "21177": {
+    "Comp Codes": "GS F333",
     "Tag": [
       "HUM"
     ],
@@ -4845,8 +4689,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F341": {
-    "Comp Codes": 21166,
+  "21166": {
+    "Comp Codes": "GS F341",
     "Tag": [
       "HUM"
     ],
@@ -4854,8 +4698,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F343": {
-    "Comp Codes": 21157,
+  "21157": {
+    "Comp Codes": "GS F343",
     "Tag": [
       "HUM"
     ],
@@ -4863,17 +4707,8 @@
     "Project": false,
     "Units": 3
   },
-  "GS F344": {
-    "Comp Codes": 0,
-    "Tag": [
-      "HUM"
-    ],
-    "Course Name": "COPY WRITING",
-    "Project": false,
-    "Units": 2
-  },
-  "GS F366": {
-    "Comp Codes": 21733,
+  "21733": {
+    "Comp Codes": "GS F366",
     "Tag": [
       "HUM"
     ],
@@ -4881,8 +4716,8 @@
     "Project": true,
     "Units": 3
   },
-  "GS F367": {
-    "Comp Codes": 21744,
+  "21744": {
+    "Comp Codes": "GS F367",
     "Tag": [
       "HUM"
     ],
@@ -4890,8 +4725,8 @@
     "Project": true,
     "Units": 3
   },
-  "GS F376": {
-    "Comp Codes": 21693,
+  "21693": {
+    "Comp Codes": "GS F376",
     "Tag": [
       "HUM"
     ],
@@ -4899,8 +4734,8 @@
     "Project": true,
     "Units": 3
   },
-  "GS F377": {
-    "Comp Codes": 21760,
+  "21760": {
+    "Comp Codes": "GS F377",
     "Tag": [
       "HUM"
     ],
@@ -4908,8 +4743,8 @@
     "Project": true,
     "Units": 3
   },
-  "GS F491": {
-    "Comp Codes": 21718,
+  "21718": {
+    "Comp Codes": "GS F491",
     "Tag": [
       "HUM"
     ],
@@ -4917,8 +4752,8 @@
     "Project": true,
     "Units": 3
   },
-  "HSS F221": {
-    "Comp Codes": 21602,
+  "21602": {
+    "Comp Codes": "HSS F221",
     "Tag": [
       "HUM"
     ],
@@ -4926,8 +4761,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F222": {
-    "Comp Codes": 21603,
+  "21603": {
+    "Comp Codes": "HSS F222",
     "Tag": [
       "HUM"
     ],
@@ -4935,8 +4770,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F223": {
-    "Comp Codes": 21596,
+  "21596": {
+    "Comp Codes": "HSS F223",
     "Tag": [
       "HUM"
     ],
@@ -4944,8 +4779,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F226": {
-    "Comp Codes": 21150,
+  "21150": {
+    "Comp Codes": "HSS F226",
     "Tag": [
       "HUM"
     ],
@@ -4953,8 +4788,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F227": {
-    "Comp Codes": 21152,
+  "21152": {
+    "Comp Codes": "HSS F227",
     "Tag": [
       "HUM"
     ],
@@ -4962,8 +4797,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F228": {
-    "Comp Codes": 21611,
+  "21611": {
+    "Comp Codes": "HSS F228",
     "Tag": [
       "HUM"
     ],
@@ -4971,8 +4806,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F229": {
-    "Comp Codes": 21612,
+  "21612": {
+    "Comp Codes": "HSS F229",
     "Tag": [
       "HUM"
     ],
@@ -4980,8 +4815,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F232": {
-    "Comp Codes": 21775,
+  "21775": {
+    "Comp Codes": "HSS F232",
     "Tag": [
       "HUM"
     ],
@@ -4989,8 +4824,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F233": {
-    "Comp Codes": 21621,
+  "21621": {
+    "Comp Codes": "HSS F233",
     "Tag": [
       "HUM"
     ],
@@ -4998,8 +4833,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F234": {
-    "Comp Codes": 21622,
+  "21622": {
+    "Comp Codes": "HSS F234",
     "Tag": [
       "HUM"
     ],
@@ -5007,8 +4842,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F235": {
-    "Comp Codes": 21627,
+  "21627": {
+    "Comp Codes": "HSS F235",
     "Tag": [
       "HUM"
     ],
@@ -5016,8 +4851,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F236": {
-    "Comp Codes": 21628,
+  "21628": {
+    "Comp Codes": "HSS F236",
     "Tag": [
       "HUM"
     ],
@@ -5025,8 +4860,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F237": {
-    "Comp Codes": 21903,
+  "21903": {
+    "Comp Codes": "HSS F237",
     "Tag": [
       "HUM"
     ],
@@ -5034,8 +4869,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F238": {
-    "Comp Codes": 21904,
+  "21904": {
+    "Comp Codes": "HSS F238",
     "Tag": [
       "HUM"
     ],
@@ -5043,8 +4878,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F266": {
-    "Comp Codes": 21776,
+  "21776": {
+    "Comp Codes": "HSS F266",
     "Tag": [
       "HUM"
     ],
@@ -5052,8 +4887,8 @@
     "Project": true,
     "Units": 3
   },
-  "HSS F315": {
-    "Comp Codes": 21522,
+  "21522": {
+    "Comp Codes": "HSS F315",
     "Tag": [
       "HUM"
     ],
@@ -5061,8 +4896,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F316": {
-    "Comp Codes": 21643,
+  "21643": {
+    "Comp Codes": "HSS F316",
     "Tag": [
       "HUM"
     ],
@@ -5070,8 +4905,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F317": {
-    "Comp Codes": 21645,
+  "21645": {
+    "Comp Codes": "HSS F317",
     "Tag": [
       "HUM"
     ],
@@ -5079,8 +4914,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F318": {
-    "Comp Codes": 21647,
+  "21647": {
+    "Comp Codes": "HSS F318",
     "Tag": [
       "HUM"
     ],
@@ -5088,8 +4923,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F319": {
-    "Comp Codes": 21649,
+  "21649": {
+    "Comp Codes": "HSS F319",
     "Tag": [
       "HUM"
     ],
@@ -5097,17 +4932,8 @@
     "Project": false,
     "Units": 2
   },
-  "HSS F322": {
-    "Comp Codes": 0,
-    "Tag": [
-      "HUM"
-    ],
-    "Course Name": "Social and Political Ecology",
-    "Project": false,
-    "Units": 3
-  },
-  "HSS F323": {
-    "Comp Codes": 21777,
+  "21777": {
+    "Comp Codes": "HSS F323",
     "Tag": [
       "HUM"
     ],
@@ -5115,8 +4941,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F325": {
-    "Comp Codes": 21155,
+  "21155": {
+    "Comp Codes": "HSS F325",
     "Tag": [
       "HUM"
     ],
@@ -5124,8 +4950,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F326": {
-    "Comp Codes": 21153,
+  "21153": {
+    "Comp Codes": "HSS F326",
     "Tag": [
       "HUM"
     ],
@@ -5133,8 +4959,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F327": {
-    "Comp Codes": 21154,
+  "21154": {
+    "Comp Codes": "HSS F327",
     "Tag": [
       "HUM"
     ],
@@ -5142,8 +4968,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F328": {
-    "Comp Codes": 21609,
+  "21609": {
+    "Comp Codes": "HSS F328",
     "Tag": [
       "HUM"
     ],
@@ -5151,8 +4977,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F329": {
-    "Comp Codes": 21597,
+  "21597": {
+    "Comp Codes": "HSS F329",
     "Tag": [
       "HUM"
     ],
@@ -5160,8 +4986,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F330": {
-    "Comp Codes": 21915,
+  "21915": {
+    "Comp Codes": "HSS F330",
     "Tag": [
       "HUM"
     ],
@@ -5169,8 +4995,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F331": {
-    "Comp Codes": 21598,
+  "21598": {
+    "Comp Codes": "HSS F331",
     "Tag": [
       "HUM"
     ],
@@ -5178,8 +5004,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F332": {
-    "Comp Codes": 21601,
+  "21601": {
+    "Comp Codes": "HSS F332",
     "Tag": [
       "HUM"
     ],
@@ -5187,8 +5013,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F333": {
-    "Comp Codes": 21600,
+  "21600": {
+    "Comp Codes": "HSS F333",
     "Tag": [
       "HUM"
     ],
@@ -5196,8 +5022,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F334": {
-    "Comp Codes": 21599,
+  "21599": {
+    "Comp Codes": "HSS F334",
     "Tag": [
       "HUM"
     ],
@@ -5205,8 +5031,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F335": {
-    "Comp Codes": 21604,
+  "21604": {
+    "Comp Codes": "HSS F335",
     "Tag": [
       "HUM"
     ],
@@ -5214,8 +5040,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F336": {
-    "Comp Codes": 21605,
+  "21605": {
+    "Comp Codes": "HSS F336",
     "Tag": [
       "HUM"
     ],
@@ -5223,8 +5049,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F337": {
-    "Comp Codes": 21606,
+  "21606": {
+    "Comp Codes": "HSS F337",
     "Tag": [
       "HUM"
     ],
@@ -5232,8 +5058,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F338": {
-    "Comp Codes": 21607,
+  "21607": {
+    "Comp Codes": "HSS F338",
     "Tag": [
       "HUM"
     ],
@@ -5241,8 +5067,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F339": {
-    "Comp Codes": 21608,
+  "21608": {
+    "Comp Codes": "HSS F339",
     "Tag": [
       "HUM"
     ],
@@ -5250,8 +5076,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F340": {
-    "Comp Codes": 21832,
+  "21832": {
+    "Comp Codes": "HSS F340",
     "Tag": [
       "HUM"
     ],
@@ -5259,8 +5085,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F341": {
-    "Comp Codes": 21156,
+  "21156": {
+    "Comp Codes": "HSS F341",
     "Tag": [
       "HUM"
     ],
@@ -5268,8 +5094,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F342": {
-    "Comp Codes": 21834,
+  "21834": {
+    "Comp Codes": "HSS F342",
     "Tag": [
       "HUM"
     ],
@@ -5277,8 +5103,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F343": {
-    "Comp Codes": 21623,
+  "21623": {
+    "Comp Codes": "HSS F343",
     "Tag": [
       "HUM"
     ],
@@ -5286,8 +5112,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F344": {
-    "Comp Codes": 21624,
+  "21624": {
+    "Comp Codes": "HSS F344",
     "Tag": [
       "HUM"
     ],
@@ -5295,8 +5121,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F345": {
-    "Comp Codes": 21625,
+  "21625": {
+    "Comp Codes": "HSS F345",
     "Tag": [
       "HUM"
     ],
@@ -5304,8 +5130,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F346": {
-    "Comp Codes": 21626,
+  "21626": {
+    "Comp Codes": "HSS F346",
     "Tag": [
       "HUM"
     ],
@@ -5313,8 +5139,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F347": {
-    "Comp Codes": 21830,
+  "21830": {
+    "Comp Codes": "HSS F347",
     "Tag": [
       "HUM"
     ],
@@ -5322,8 +5148,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F348": {
-    "Comp Codes": 21831,
+  "21831": {
+    "Comp Codes": "HSS F348",
     "Tag": [
       "HUM"
     ],
@@ -5331,8 +5157,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F349": {
-    "Comp Codes": 21828,
+  "21828": {
+    "Comp Codes": "HSS F349",
     "Tag": [
       "HUM"
     ],
@@ -5340,8 +5166,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F350": {
-    "Comp Codes": 21835,
+  "21835": {
+    "Comp Codes": "HSS F350",
     "Tag": [
       "HUM"
     ],
@@ -5349,8 +5175,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F352": {
-    "Comp Codes": 21905,
+  "21905": {
+    "Comp Codes": "HSS F352",
     "Tag": [
       "HUM"
     ],
@@ -5358,8 +5184,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F353": {
-    "Comp Codes": 21906,
+  "21906": {
+    "Comp Codes": "HSS F353",
     "Tag": [
       "HUM"
     ],
@@ -5367,8 +5193,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F354": {
-    "Comp Codes": 21916,
+  "21916": {
+    "Comp Codes": "HSS F354",
     "Tag": [
       "HUM"
     ],
@@ -5376,8 +5202,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F355": {
-    "Comp Codes": 22179,
+  "22179": {
+    "Comp Codes": "HSS F355",
     "Tag": [
       "HUM"
     ],
@@ -5385,8 +5211,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F356": {
-    "Comp Codes": 22182,
+  "22182": {
+    "Comp Codes": "HSS F356",
     "Tag": [
       "HUM"
     ],
@@ -5394,8 +5220,8 @@
     "Project": false,
     "Units": 3
   },
-  "HSS F399": {
-    "Comp Codes": 21929,
+  "21929": {
+    "Comp Codes": "HSS F399",
     "Tag": [
       "HUM"
     ],
@@ -5403,8 +5229,8 @@
     "Project": false,
     "Units": 3
   },
-  "SANS F111": {
-    "Comp Codes": 21836,
+  "21836": {
+    "Comp Codes": "SANS F111",
     "Tag": [
       "HUM"
     ],
@@ -5412,8 +5238,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F211": {
-    "Comp Codes": 21112,
+  "21112": {
+    "Comp Codes": "BIO F211",
     "Tag": [
       "B1CDC"
     ],
@@ -5421,8 +5247,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F213": {
-    "Comp Codes": 21113,
+  "21113": {
+    "Comp Codes": "BIO F213",
     "Tag": [
       "B1CDC"
     ],
@@ -5430,8 +5256,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F212": {
-    "Comp Codes": 21115,
+  "21115": {
+    "Comp Codes": "BIO F212",
     "Tag": [
       "B1CDC"
     ],
@@ -5439,8 +5265,8 @@
     "Project": false,
     "Units": 4
   },
-  "BIO F214": {
-    "Comp Codes": 21114,
+  "21114": {
+    "Comp Codes": "BIO F214",
     "Tag": [
       "B1CDC"
     ],
@@ -5448,8 +5274,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F241": {
-    "Comp Codes": 21424,
+  "21424": {
+    "Comp Codes": "BIO F241",
     "Tag": [
       "B1CDC"
     ],
@@ -5457,8 +5283,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F243": {
-    "Comp Codes": 21425,
+  "21425": {
+    "Comp Codes": "BIO F243",
     "Tag": [
       "B1CDC"
     ],
@@ -5466,8 +5292,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F244": {
-    "Comp Codes": 21426,
+  "21426": {
+    "Comp Codes": "BIO F244",
     "Tag": [
       "B1CDC"
     ],
@@ -5475,8 +5301,8 @@
     "Project": false,
     "Units": 4
   },
-  "BIO F311": {
-    "Comp Codes": 21427,
+  "21427": {
+    "Comp Codes": "BIO F311",
     "Tag": [
       "B1CDC"
     ],
@@ -5484,8 +5310,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F312": {
-    "Comp Codes": 21428,
+  "21428": {
+    "Comp Codes": "BIO F312",
     "Tag": [
       "B1CDC"
     ],
@@ -5493,8 +5319,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F313": {
-    "Comp Codes": 21429,
+  "21429": {
+    "Comp Codes": "BIO F313",
     "Tag": [
       "B1CDC"
     ],
@@ -5502,8 +5328,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F341": {
-    "Comp Codes": 21431,
+  "21431": {
+    "Comp Codes": "BIO F341",
     "Tag": [
       "B1CDC"
     ],
@@ -5511,8 +5337,8 @@
     "Project": false,
     "Units": 3
   },
-  "BIO F342": {
-    "Comp Codes": 21432,
+  "21432": {
+    "Comp Codes": "BIO F342",
     "Tag": [
       "B1CDC"
     ],
@@ -5520,26 +5346,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F211": {
-    "Comp Codes": 21118,
-    "Tag": [
-      "B2CDC"
-    ],
-    "Course Name": "PHYSICAL CHEMISTRY I",
-    "Project": false,
-    "Units": 3
-  },
-  "CHEM F213 ": {
-    "Comp Codes": 21118,
-    "Tag": [
-      "B2CDC"
-    ],
-    "Course Name": "PHYSICAL CHEMISTRY II",
-    "Project": false,
-    "Units": 3
-  },
-  "PHY F212": {
-    "Comp Codes": 21127,
+  "21127": {
+    "Comp Codes": "PHY F212",
     "Tag": [
       "B2CDC",
       "B5CDC"
@@ -5548,8 +5356,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F214": {
-    "Comp Codes": 21119,
+  "21119": {
+    "Comp Codes": "CHEM F214",
     "Tag": [
       "B2CDC"
     ],
@@ -5557,8 +5365,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F241": {
-    "Comp Codes": 21554,
+  "21554": {
+    "Comp Codes": "CHEM F241",
     "Tag": [
       "B2CDC"
     ],
@@ -5566,8 +5374,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F242": {
-    "Comp Codes": 21555,
+  "21555": {
+    "Comp Codes": "CHEM F242",
     "Tag": [
       "B2CDC"
     ],
@@ -5575,8 +5383,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F243": {
-    "Comp Codes": 21556,
+  "21556": {
+    "Comp Codes": "CHEM F243",
     "Tag": [
       "B2CDC"
     ],
@@ -5584,8 +5392,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F244": {
-    "Comp Codes": 21557,
+  "21557": {
+    "Comp Codes": "CHEM F244",
     "Tag": [
       "B2CDC"
     ],
@@ -5593,8 +5401,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F313": {
-    "Comp Codes": 21558,
+  "21558": {
+    "Comp Codes": "CHEM F313",
     "Tag": [
       "B2CDC"
     ],
@@ -5602,8 +5410,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHEM F311": {
-    "Comp Codes": 21559,
+  "21559": {
+    "Comp Codes": "CHEM F311",
     "Tag": [
       "B2CDC"
     ],
@@ -5611,8 +5419,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F312": {
-    "Comp Codes": 21560,
+  "21560": {
+    "Comp Codes": "CHEM F312",
     "Tag": [
       "B2CDC"
     ],
@@ -5620,8 +5428,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F341": {
-    "Comp Codes": 21561,
+  "21561": {
+    "Comp Codes": "CHEM F341",
     "Tag": [
       "B2CDC"
     ],
@@ -5629,8 +5437,8 @@
     "Project": false,
     "Units": 4
   },
-  "CHEM F342": {
-    "Comp Codes": 21562,
+  "21562": {
+    "Comp Codes": "CHEM F342",
     "Tag": [
       "B2CDC"
     ],
@@ -5638,8 +5446,8 @@
     "Project": false,
     "Units": 3
   },
-  "CHEM F343": {
-    "Comp Codes": 21563,
+  "21563": {
+    "Comp Codes": "CHEM F343",
     "Tag": [
       "B2CDC"
     ],
@@ -5647,8 +5455,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F211": {
-    "Comp Codes": 21023,
+  "21023": {
+    "Comp Codes": "ECON F211",
     "Tag": [
       "B3CDC"
     ],
@@ -5656,8 +5464,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F212": {
-    "Comp Codes": 21120,
+  "21120": {
+    "Comp Codes": "ECON F212",
     "Tag": [
       "B3CDC"
     ],
@@ -5665,8 +5473,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F213": {
-    "Comp Codes": 21121,
+  "21121": {
+    "Comp Codes": "ECON F213",
     "Tag": [
       "B3CDC"
     ],
@@ -5674,8 +5482,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F214": {
-    "Comp Codes": 21145,
+  "21145": {
+    "Comp Codes": "ECON F214",
     "Tag": [
       "B3CDC"
     ],
@@ -5683,8 +5491,8 @@
     "Project": false,
     "Units": 3
   },
-  "MGTS F211": {
-    "Comp Codes": 21024,
+  "21024": {
+    "Comp Codes": "MGTS F211",
     "Tag": [
       "B3CDC"
     ],
@@ -5692,8 +5500,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F241": {
-    "Comp Codes": 21442,
+  "21442": {
+    "Comp Codes": "ECON F241",
     "Tag": [
       "B3CDC"
     ],
@@ -5701,8 +5509,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F242": {
-    "Comp Codes": 21443,
+  "21443": {
+    "Comp Codes": "ECON F242",
     "Tag": [
       "B3CDC"
     ],
@@ -5710,8 +5518,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F243": {
-    "Comp Codes": 21444,
+  "21444": {
+    "Comp Codes": "ECON F243",
     "Tag": [
       "B3CDC"
     ],
@@ -5719,8 +5527,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F244": {
-    "Comp Codes": 21445,
+  "21445": {
+    "Comp Codes": "ECON F244",
     "Tag": [
       "B3CDC"
     ],
@@ -5728,8 +5536,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F311": {
-    "Comp Codes": 21446,
+  "21446": {
+    "Comp Codes": "ECON F311",
     "Tag": [
       "B3CDC"
     ],
@@ -5737,8 +5545,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F312": {
-    "Comp Codes": 21447,
+  "21447": {
+    "Comp Codes": "ECON F312",
     "Tag": [
       "B3CDC"
     ],
@@ -5746,8 +5554,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F313": {
-    "Comp Codes": 21448,
+  "21448": {
+    "Comp Codes": "ECON F313",
     "Tag": [
       "B3CDC"
     ],
@@ -5755,8 +5563,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F341": {
-    "Comp Codes": 21449,
+  "21449": {
+    "Comp Codes": "ECON F341",
     "Tag": [
       "B3CDC"
     ],
@@ -5764,8 +5572,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F342": {
-    "Comp Codes": 21450,
+  "21450": {
+    "Comp Codes": "ECON F342",
     "Tag": [
       "B3CDC"
     ],
@@ -5773,8 +5581,8 @@
     "Project": false,
     "Units": 3
   },
-  "ECON F343": {
-    "Comp Codes": 21451,
+  "21451": {
+    "Comp Codes": "ECON F343",
     "Tag": [
       "B3CDC"
     ],
@@ -5782,8 +5590,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F213": {
-    "Comp Codes": 21123,
+  "21123": {
+    "Comp Codes": "MATH F213",
     "Tag": [
       "B4CDC"
     ],
@@ -5791,8 +5599,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F214": {
-    "Comp Codes": 21124,
+  "21124": {
+    "Comp Codes": "MATH F214",
     "Tag": [
       "B4CDC"
     ],
@@ -5800,8 +5608,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F215": {
-    "Comp Codes": 21125,
+  "21125": {
+    "Comp Codes": "MATH F215",
     "Tag": [
       "B4CDC"
     ],
@@ -5809,8 +5617,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F241": {
-    "Comp Codes": 21465,
+  "21465": {
+    "Comp Codes": "MATH F241",
     "Tag": [
       "B4CDC"
     ],
@@ -5818,8 +5626,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F243": {
-    "Comp Codes": 21467,
+  "21467": {
+    "Comp Codes": "MATH F243",
     "Tag": [
       "B4CDC"
     ],
@@ -5827,8 +5635,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F244": {
-    "Comp Codes": 21468,
+  "21468": {
+    "Comp Codes": "MATH F244",
     "Tag": [
       "B4CDC"
     ],
@@ -5836,8 +5644,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F311": {
-    "Comp Codes": 21469,
+  "21469": {
+    "Comp Codes": "MATH F311",
     "Tag": [
       "B4CDC"
     ],
@@ -5845,8 +5653,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F312": {
-    "Comp Codes": 21470,
+  "21470": {
+    "Comp Codes": "MATH F312",
     "Tag": [
       "B4CDC"
     ],
@@ -5854,8 +5662,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F313": {
-    "Comp Codes": 21471,
+  "21471": {
+    "Comp Codes": "MATH F313",
     "Tag": [
       "B4CDC"
     ],
@@ -5863,8 +5671,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F341 ": {
-    "Comp Codes": 21472,
+  "21472": {
+    "Comp Codes": "MATH F341 ",
     "Tag": [
       "B4CDC"
     ],
@@ -5872,8 +5680,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F342": {
-    "Comp Codes": 21473,
+  "21473": {
+    "Comp Codes": "MATH F342",
     "Tag": [
       "B4CDC"
     ],
@@ -5881,8 +5689,8 @@
     "Project": false,
     "Units": 3
   },
-  "MATH F343": {
-    "Comp Codes": 21474,
+  "21474": {
+    "Comp Codes": "MATH F343",
     "Tag": [
       "B4CDC"
     ],
@@ -5890,8 +5698,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F211": {
-    "Comp Codes": 21126,
+  "21126": {
+    "Comp Codes": "PHY F211",
     "Tag": [
       "B5CDC"
     ],
@@ -5899,8 +5707,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F213": {
-    "Comp Codes": 21128,
+  "21128": {
+    "Comp Codes": "PHY F213",
     "Tag": [
       "B5CDC"
     ],
@@ -5908,8 +5716,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F214": {
-    "Comp Codes": 21129,
+  "21129": {
+    "Comp Codes": "PHY F214",
     "Tag": [
       "B5CDC"
     ],
@@ -5917,8 +5725,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F241": {
-    "Comp Codes": 21482,
+  "21482": {
+    "Comp Codes": "PHY F241",
     "Tag": [
       "B5CDC"
     ],
@@ -5926,8 +5734,8 @@
     "Project": false,
     "Units": 4
   },
-  "PHY F242": {
-    "Comp Codes": 21483,
+  "21483": {
+    "Comp Codes": "PHY F242",
     "Tag": [
       "B5CDC"
     ],
@@ -5935,8 +5743,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F243": {
-    "Comp Codes": 21484,
+  "21484": {
+    "Comp Codes": "PHY F243",
     "Tag": [
       "B5CDC"
     ],
@@ -5944,8 +5752,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F244": {
-    "Comp Codes": 21485,
+  "21485": {
+    "Comp Codes": "PHY F244",
     "Tag": [
       "B5CDC"
     ],
@@ -5953,8 +5761,8 @@
     "Project": false,
     "Units": 2
   },
-  "PHY F311": {
-    "Comp Codes": 21486,
+  "21486": {
+    "Comp Codes": "PHY F311",
     "Tag": [
       "B5CDC"
     ],
@@ -5962,8 +5770,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F312": {
-    "Comp Codes": 21487,
+  "21487": {
+    "Comp Codes": "PHY F312",
     "Tag": [
       "B5CDC"
     ],
@@ -5971,8 +5779,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F313": {
-    "Comp Codes": 21488,
+  "21488": {
+    "Comp Codes": "PHY F313",
     "Tag": [
       "B5CDC"
     ],
@@ -5980,8 +5788,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F341": {
-    "Comp Codes": 21489,
+  "21489": {
+    "Comp Codes": "PHY F341",
     "Tag": [
       "B5CDC"
     ],
@@ -5989,8 +5797,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F342": {
-    "Comp Codes": 21490,
+  "21490": {
+    "Comp Codes": "PHY F342",
     "Tag": [
       "B5CDC"
     ],
@@ -5998,8 +5806,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F343 ": {
-    "Comp Codes": 21491,
+  "21491": {
+    "Comp Codes": "PHY F343 ",
     "Tag": [
       "B5CDC"
     ],
@@ -6007,8 +5815,8 @@
     "Project": false,
     "Units": 3
   },
-  "PHY F344": {
-    "Comp Codes": 21492,
+  "21492": {
+    "Comp Codes": "PHY F344",
     "Tag": [
       "B5CDC"
     ],

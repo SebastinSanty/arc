@@ -33,16 +33,16 @@ def RepresentsBool(s):
 tag = OrderedDict()
 for rownum in range(1, sh.nrows):
     row_values = sh.row_values(rownum)
-    if row_values[1] in tag:
-        tag[row_values[1]]['Tag'].append(row_values[2])
+    if str(RepresentsInt(row_values[0])) in tag:
+        tag[str(RepresentsInt(row_values[0]))]['Tag'].append(row_values[2])
     else:
         desc = OrderedDict()
-        desc['Comp Codes'] = RepresentsInt(row_values[0])
+        desc['Comp Codes'] = row_values[1]
         desc['Tag'] = [row_values[2]]
         desc['Course Name'] = row_values[3]
         desc['Project'] = RepresentsBool(row_values[4])
         desc['Units'] = RepresentsInt(row_values[5])
-        tag[row_values[1]] = desc
+        tag[str(RepresentsInt(row_values[0]))] = desc
 
 tag_list.append(tag)
  
