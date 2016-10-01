@@ -129,6 +129,7 @@ for i in studentdatarf:
 				REP_FLAG = 1
 
 			if REP_FLAG == 1:
+
 				if coursetype == 'CDC':
 					try:
 						if (i['Empl Id'] == 31120150159):
@@ -160,11 +161,13 @@ for i in studentdatarf:
 				if (ELEC_FLAG==0) and ((coursetype == 'HUM') or (coursetype == 'DEL1') or (coursetype == 'DEL2')) and coursedesc_arr[compcode]['Units'] < 3:
 					ELEC_FLAG = 1
 
-				if ((compcode == 'MGTS F211') or (compcode == 'ECON F211')) and branch(i['Campus Id'])[0:2]!='B3':
+				if (coursetype == 'Other') and branch(i['Campus Id'])[0:2]!='B3':
 					if POMPOE == 1:
 						OPEN_LEFT = OPEN_LEFT - 1
 					else:
 						POMPOE = 1
+						CDC_LEFT = CDC_LEFT - 1
+
 
 	for key,value in PROJ_LIST.items():
 		if PROJ_LEFT > 0 and PROJ_FLAG != 1:
@@ -184,6 +187,8 @@ for i in studentdatarf:
 	tag['ELEC Flag'] = ELEC_FLAG
 
 	tag_list.append(tag)
+	if i['Empl Id'] == 31120130716:
+		print(i, tag)
 # Serialize the list of dicts to JSON
 j = json.dumps(tag_list)
  
