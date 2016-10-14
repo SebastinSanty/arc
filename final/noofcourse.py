@@ -42,4 +42,4 @@ j = json.dumps(tag_list)
 with open(os.path.join('json','noofcourse.json'), 'w') as f:
     f.write(j)
 
-print(json.dumps(json.loads(j), indent=4, sort_keys=True))
+# print(json.dumps(json.loads(j), indent=4, sort_keys=True))
