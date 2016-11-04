@@ -154,8 +154,6 @@ for i in studentdatarf:
                 except:
                     tag[coursetype] = [compcode]
                 
-                if i['Empl Id'] == 31120130805:
-                    print(REP_FLAG, coursetype_out, coursecode)
 
                 #Extra Flags as mentioned by ARC
                 if (ELEC_FLAG==0) and ((coursetype == 'HUM') or (coursetype == 'DEL1') or (coursetype == 'DEL2')) and coursedesc_arr[compcode]['Units'] < 3:

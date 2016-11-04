@@ -110,6 +110,8 @@ for i in studentdatarf:
 			OPEN_REQ = j['No of Courses']['OPEN']
 			break
 	CDC_LEFT = CDC_REQ
+	if psts(i['Campus Id']):
+		CDC_LEFT = CDC_LEFT - 1
 	DEL1_LEFT = DEL1_REQ
 	DEL2_LEFT = DEL2_REQ
 	HUM_LEFT = HUM_REQ
