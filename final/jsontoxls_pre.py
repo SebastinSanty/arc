@@ -154,6 +154,9 @@ for i in studentdatarf:
                 except:
                     tag[coursetype] = [compcode]
                 
+                if i['Empl Id'] == 31120130805:
+                    print(REP_FLAG, coursetype_out, coursecode)
+
                 #Extra Flags as mentioned by ARC
                 if (ELEC_FLAG==0) and ((coursetype == 'HUM') or (coursetype == 'DEL1') or (coursetype == 'DEL2')) and coursedesc_arr[compcode]['Units'] < 3:
                     ELEC_FLAG = 1
@@ -166,21 +169,21 @@ for i in studentdatarf:
                         POMPOE = 1
                         CDC_LEFT = CDC_LEFT - 1
                         coursetype_out = 'CDC'
-            c = c + 1
-            if c>=65535:
-                c=0
-                sheetno = sheetno + 1
-                sheet = workbook.add_sheet("Sheet " + str(sheetno))
-            sheet.write(c, 0, i['Empl Id'])
-            sheet.write(c, 1, i['Campus Id'])
-            sheet.write(c, 2, i['Name'])
-            sheet.write(c, 3, key)
-            sheet.write(c, 4, i['Courses'][key][k]['Course Id'])
-            sheet.write(c, 5, '')
-            sheet.write(c, 6, (i['Courses'][key][k]['Subject']) + " " + str(i['Courses'][key][k]['Catalog No']))
-            sheet.write(c, 7, i['Courses'][key][k]['Unit Taken'])
-            sheet.write(c, 8, i['Courses'][key][k]['Course Grade'])
-            sheet.write(c, 9, coursetype_out)
+                c = c + 1
+                if c>=65535:
+                    c=0
+                    sheetno = sheetno + 1
+                    sheet = workbook.add_sheet("Sheet " + str(sheetno))
+                sheet.write(c, 0, i['Empl Id'])
+                sheet.write(c, 1, i['Campus Id'])
+                sheet.write(c, 2, i['Name'])
+                sheet.write(c, 3, key)
+                sheet.write(c, 4, i['Courses'][key][k]['Course Id'])
+                sheet.write(c, 5, '')
+                sheet.write(c, 6, (i['Courses'][key][k]['Subject']) + " " + str(i['Courses'][key][k]['Catalog No']))
+                sheet.write(c, 7, i['Courses'][key][k]['Unit Taken'])
+                sheet.write(c, 8, i['Courses'][key][k]['Course Grade'])
+                sheet.write(c, 9, coursetype_out)
 
 
 
