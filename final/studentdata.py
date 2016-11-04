@@ -74,5 +74,3 @@ with open(os.path.join('json','studentdatarf.json'), 'w') as f:
 
 with open(os.path.join('json','studentdatalog.json'), 'w') as f:
     f.write(k)
-
-print(json.dumps(json.loads(j)[0], indent=4, sort_keys=True))

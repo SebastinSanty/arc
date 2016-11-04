@@ -3,9 +3,6 @@ from collections import OrderedDict
 import os
 import sys
 
-#Getting the argument from the commandline
-arg = sys.argv[1]
-
 #Open the JSON file containing description of courses arranged
 with open(os.path.join('json',"coursedesc.json")) as json_file:
 	coursedesc_arr = json.load(json_file)
@@ -133,12 +130,6 @@ for i in studentdatarf:
 			if REP_FLAG == 1:
 
 				if coursetype == 'CDC':
-					try:
-						if (i['Empl Id'] == 31120150159):
-							print(coursetype, coursedesc_arr[compcode]['Course Name'])
-							print(CDC_LEFT - 1)
-					except:
-						pass
 					CDC_LEFT = CDC_LEFT - 1
 				elif (coursetype == 'HUM' and HUM_LEFT <=0) or (coursetype == 'DEL1' and DEL1_LEFT<=0) or (coursetype == 'DEL2' and DEL2_LEFT<=0 and DEL2_REQ!=0) or (coursetype == 'OPEN'):
 					OPEN_LEFT = OPEN_LEFT - 1
@@ -160,7 +151,7 @@ for i in studentdatarf:
 					except:
 						PROJ_LIST[compcode] = 1
 				
-				if (ELEC_FLAG==0) and ((coursetype == 'HUM') or (coursetype == 'DEL1') or (coursetype == 'DEL2')) and coursedesc_arr[compcode]['Units'] < 3:
+				if ((coursetype == 'HUM') or (coursetype == 'DEL1') or (coursetype == 'DEL2')) and coursedesc_arr[compcode]['Units'] < 3:
 					ELEC_FLAG = 1
 
 				if (coursetype == 'Other') and branch(i['Campus Id'])[0:2]!='B3':
@@ -189,17 +180,12 @@ for i in studentdatarf:
 	tag['ELEC Flag'] = ELEC_FLAG
 
 	tag_list.append(tag)
-	if i['Empl Id'] == 31120130716:
-		print(i, tag)
 # Serialize the list of dicts to JSON
 j = json.dumps(tag_list)
  
 # Write to file
 with open(os.path.join('json','finaldata.json'), 'w') as f:
     f.write(j)
-
-if (arg=='Y') or (arg=='y'):
-	print(json.dumps(json.loads(j)[0], indent=4, sort_keys=True))
 
 
 

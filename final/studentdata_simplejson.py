@@ -35,5 +35,3 @@ j = json.dumps(tag_list)
 # Write to file
 with open(os.path.join('json', 'studentdata_simple.json'), 'w') as f:
     f.write(j)
-
-print(json.dumps(json.loads(j)[0], indent=4, sort_keys=True))
