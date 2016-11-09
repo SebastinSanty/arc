@@ -47,7 +47,7 @@ while(rowsleft):
             course['Unit Taken'] = row_values[8]
             course['Course Grade'] = row_values[9]
 
-            if row_values[9] in acceptable:
+            if row_values[9] in acceptable or not row_values[9].strip():
                 course_list.append(course)
             else:
                 log_list.append(course)
