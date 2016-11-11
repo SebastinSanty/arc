@@ -42,6 +42,7 @@ while(rowsleft):
         while (desc == str(int(row_values[3])) and rowsleft):
             course = OrderedDict()
             course['Course Id'] = int(row_values[4])
+            course['Course Desc'] = row_values[5]
             course['Subject'] = row_values[6]
             course['Catalog No'] = row_values[7].strip()
             course['Unit Taken'] = row_values[8]
