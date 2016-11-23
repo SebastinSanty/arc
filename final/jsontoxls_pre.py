@@ -150,6 +150,19 @@ for i in studentdatarf:
                 elif coursetype == 'HUM':
                     HUM_LEFT = HUM_LEFT - 1
                     coursetype_out = 'HUM'
+                elif (coursetype == 'POMPOE') and branch(i['Campus Id'])[0:2]!='B3':
+                    if POMPOE == 1:
+                        OPEN_LEFT = OPEN_LEFT - 1
+                        coursetype_out = 'OPEN'
+                    else:
+                        POMPOE = 1
+                        CDC_LEFT = CDC_LEFT - 1
+                        coursetype_out = 'CDC'
+
+                elif (coursetype == 'POMPOE') and branch(i['Campus Id'])[0:2]=='B3':
+                    CDC_LEFT = CDC_LEFT - 1
+                    coursetype_out = 'CDC'
+
                 try:
                     tag[coursetype].append(compcode)
                 except:
@@ -159,15 +172,7 @@ for i in studentdatarf:
                 #Extra Flags as mentioned by ARC
                 if (ELEC_FLAG==0) and ((coursetype == 'HUM') or (coursetype == 'DEL1') or (coursetype == 'DEL2')) and coursedesc_arr[compcode]['Units'] < 3:
                     ELEC_FLAG = 1
-
-                if (coursetype == 'POMPOE') and branch(i['Campus Id'])[0:2]!='B3':
-                    if POMPOE == 1:
-                        OPEN_LEFT = OPEN_LEFT - 1
-                        coursetype_out = 'OPEN'
-                    else:
-                        POMPOE = 1
-                        CDC_LEFT = CDC_LEFT - 1
-                        coursetype_out = 'CDC'
+                    
                 c = c + 1
                 if c>=65535:
                     c=0

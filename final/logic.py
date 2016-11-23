@@ -51,13 +51,15 @@ def getcoursetype(compcode, cid, branch):
 		return 'OPEN'
 	branch1 = branch[0:2]
 	tag1 = list(filter(lambda x: branch1 in x, coursedesc_arr[compcode]['Tag']))
+	# if (cid == '2013B4A7602G'):
+	# 	print(tag1)
 	branch2 = ''
 	tag2 = []
 	if len(branch) == 4:
 		branch2 = branch[2:4]
-		# print(branch2)
+		# if (cid == '2013B4A7602G'):
+		# 	print(branch2)
 		tag2 = list(filter(lambda x: branch2 in x, coursedesc_arr[compcode]['Tag']))
-		# print(tag2)
 	tag3 = list(filter(lambda x: 'HUM' in x, coursedesc_arr[compcode]['Tag']))
 	# print(tag1)
 	if not tag1 and not tag2 and not tag3:
@@ -139,6 +141,19 @@ for i in studentdatarf:
 					DEL2_LEFT = DEL2_LEFT - 1
 				elif coursetype == 'HUM':
 					HUM_LEFT = HUM_LEFT - 1
+				elif (coursetype == 'POMPOE') and branch(i['Campus Id'])[0:2]!='B3':
+					if POMPOE == 1:
+						OPEN_LEFT = OPEN_LEFT - 1
+						coursetype_out = 'OPEN'
+					else:
+						POMPOE = 1
+						CDC_LEFT = CDC_LEFT - 1
+						coursetype_out = 'CDC'
+
+				elif (coursetype == 'POMPOE') and branch(i['Campus Id'])[0:2]=='B3':
+					CDC_LEFT = CDC_LEFT - 1
+					coursetype_out = 'CDC'
+
 				try:
 					tag[coursetype].append(compcode)
 				except:
@@ -153,13 +168,6 @@ for i in studentdatarf:
 				
 				if ((coursetype == 'HUM') or (coursetype == 'DEL1') or (coursetype == 'DEL2')) and coursedesc_arr[compcode]['Units'] < 3:
 					ELEC_FLAG = 1
-
-				if (coursetype == 'Other') and branch(i['Campus Id'])[0:2]!='B3':
-					if POMPOE == 1:
-						OPEN_LEFT = OPEN_LEFT - 1
-					else:
-						POMPOE = 1
-						CDC_LEFT = CDC_LEFT - 1
 
 
 	for key,value in PROJ_LIST.items():
