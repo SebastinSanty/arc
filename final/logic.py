@@ -42,7 +42,7 @@ def specialcase(s):
 #Get the course type by comparing it with the branch, like whether it is an elective/CDC
 def getcoursetype(compcode, cid, branch):
 	if (compcode == '21024') or (compcode == '21023'):
-		return 'Other'
+		return 'POMPOE'
 	if (compcode == '21591') and (psts(cid)):
 		return 'OPEN'
 	try:
