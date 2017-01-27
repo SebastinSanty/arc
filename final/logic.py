@@ -51,17 +51,12 @@ def getcoursetype(compcode, cid, branch):
 		return 'OPEN'
 	branch1 = branch[0:2]
 	tag1 = list(filter(lambda x: branch1 in x, coursedesc_arr[compcode]['Tag']))
-	# if (cid == '2013B4A7602G'):
-	# 	print(tag1)
 	branch2 = ''
 	tag2 = []
 	if len(branch) == 4:
 		branch2 = branch[2:4]
-		# if (cid == '2013B4A7602G'):
-		# 	print(branch2)
 		tag2 = list(filter(lambda x: branch2 in x, coursedesc_arr[compcode]['Tag']))
 	tag3 = list(filter(lambda x: 'HUM' in x, coursedesc_arr[compcode]['Tag']))
-	# print(tag1)
 	if not tag1 and not tag2 and not tag3:
 		return 'OPEN'
 	elif tag3:

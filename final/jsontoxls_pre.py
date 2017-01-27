@@ -3,6 +3,7 @@ import simplejson as json
 from collections import OrderedDict
 import os
 
+#Open the JSON file containing description of courses arranged
 with open(os.path.join('json',"coursedesc.json")) as json_file:
     coursedesc_arr = json.load(json_file)
 
@@ -54,11 +55,8 @@ def getcoursetype(compcode, cid, branch):
     tag2 = []
     if len(branch) == 4:
         branch2 = branch[2:4]
-        # print(branch2)
         tag2 = list(filter(lambda x: branch2 in x, coursedesc_arr[compcode]['Tag']))
-        # print(tag2)
     tag3 = list(filter(lambda x: 'HUM' in x, coursedesc_arr[compcode]['Tag']))
-    # print(tag1)
     if not tag1 and not tag2 and not tag3:
         return 'OPEN'
     elif tag3:
