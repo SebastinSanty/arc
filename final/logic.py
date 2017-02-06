@@ -61,12 +61,10 @@ def getcoursetype(compcode, cid, branch):
 		return 'OPEN'
 	elif tag3:
 		return 'HUM'
-	elif tag1:
-		if ('CDC' in z for z in tag1[0]):
-			return 'CDC'
-	elif tag2:
-		 if ('CDC' in y for y in tag2[0]):
-		 	return 'CDC'
+	elif tag1 and (tag1[0][2:4] == 'CD'):
+		return 'CDC'
+	elif tag2 and (tag2[0][2:4] == 'CD'):
+		return 'CDC'
 	elif tag1 and tag1[0][2:4] == 'EL':
 		return 'DEL1'
 	elif tag2 and tag2[0][2:4] == 'EL':
